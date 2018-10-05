@@ -1,6 +1,6 @@
-<CENTER>
+<center>
 <span style="color:ORANGE">MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN </span>
-
+</center>
 
 ![Logo Super de Todo - Color-02](https://i.imgur.com/NpI37v8.jpg)
 
@@ -22,7 +22,7 @@
 
 
 <CENTER>
-#MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN 
+# MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN 
 SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V 
 
 | Elaboro | Reviso | Autorizo  |
