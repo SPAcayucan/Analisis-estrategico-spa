@@ -1,0 +1,1 @@
+# mp -area de oprearción
