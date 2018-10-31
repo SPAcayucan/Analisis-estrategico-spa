@@ -46,7 +46,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  3 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  3 de 120 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01** |
 
@@ -85,7 +85,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 |Estibar la mercancía	|83|
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  4 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  4 de 120 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01** |
 
@@ -109,7 +109,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/> |MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  5 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/> |MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  5 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>   **Codigo:SPA-AO-01** |
 
@@ -134,7 +134,7 @@ Es importante señalar, que este documento está sujeto a  actualización en la 
 </div> 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  6 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  6 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01** |
 
@@ -162,7 +162,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </div> 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  7 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  7 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01** |
 
@@ -171,7 +171,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![simbolos](https://i.imgur.com/VaRGd7L.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  8 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  8 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/1** |
 
@@ -184,7 +184,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![recibir proveedores](https://i.imgur.com/6sivULa.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  9 de 121|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  9 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/1** |
 
