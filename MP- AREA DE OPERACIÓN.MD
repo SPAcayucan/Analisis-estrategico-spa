@@ -1,6 +1,6 @@
 <center>
 
-<span style="color:orange"> **MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN** </span>
+**MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN** 
 
 </center>
 
@@ -22,10 +22,13 @@
 </div>
 
 
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  2 de 120 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01** |
 
 <center>
 
-**Hoja de autorización**
+**Hoja de autorización de tienda**
  
 SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V 
 
@@ -54,35 +57,37 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 |ÍNDICE|PAG.|
 |--|--|
-|Introducción	|5|
-|Objetivo del manual|6|
-|Objetivos específicos|6|
+|Introducción|	5|
+|Objetivo del manual|	6|
+|Objetivos específicos|	6|
 |Alcance del manual|	6|
 |Simbología de los diagramas|	7|
+|Tienda|8|
 |Descripción de procedimientos|	9|
 |Recibir productos de proveedores|	9|
 |Captura de compras|	13|
-|Solicitud de pedidos de sucursal a proveedores	|17|
+|Solicitud de pedidos de sucursal a proveedores|	17|
 |Solicitud de pedidos de sucursal a almacén	|20|
 |Recibir mercancía de almacén|	24|
-|Captura para reposición de compras o gastos|	29|
-|Elaboración de facturas|	33|
-|Realizar la consolidación de ventas al mostrador|	36|
-|Venta a clientes contribuyentes|	39|
-|Cobro en efectivo|	42|
-|Cobro con tarjeta|	45|
-|Cobro a crédito de mercancías a trabajadores|	49|
-|Realizar recargas|	52|
-|Corte de caja|	55|
-|Hacer platos de carnes frías con emplaye|	58|
-|Corte de carnes frías con la rebanadora|	61|
-|Preparación de tortas|	64|
-|Recibir productos de carnes frías|	67|
-|Elaboración de platos de frutas con emplaye|	70|
-|Poner precios a los productos|	73|
-|Acomodar productos|	76|
-|Codificar productos en las facturas|	80|
-|Estibar la mercancía	|83|
+|Captura para reposición de compras o gastos|	28|
+|Elaboración de facturas|	32|
+|Realizar la consolidación de ventas al mostrador|	35|
+|Venta a clientes contribuyentes|	38|
+|Cobro en efectivo|	41|
+|Cobro con tarjeta|	44|
+|Cobro a crédito de mercancías a trabajadores|	48|
+|Realizar recargas|	51|
+|Corte de caja|	54|
+|Hacer platos de carnes frías con emplaye|	57|
+|Corte de carnes frías con la rebanadora|	60|
+|Preparación de tortas|	63|
+|Recibir productos de carnes frías|	66|
+|Elaboración de platos de frutas con emplaye|	69|
+|Poner precios a los productos|	72|
+|Acomodar productos|	75|
+|Almacén|	78|
+
+
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  4 de 120 |
@@ -92,20 +97,22 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 |ÍNDICE|PAG.|
 |--|--|
-|Acomodar mercancía|	86|
-|Surtir sucursales|	89|
-|Transferencia de mercancías|	92|
-|Consolidación de la transferencia de mercancías|	95|
-|Capturar ofertas|	98|
-|Cotización de precios con proveedores|	101|
-|Dar de alta un producto en Wincaja|	104|
-|Captura de las facturas de compras en Wincaja|	108|
-|Captura de las facturas de compras en bitácora digital-SPA	|112|
-|Reporte de compras en almacén|	115|
-|Anexos|	117|
-|Anexo 1. Vale provisional de caja|	117|
-|Anexo 2.Formato de tabular de corte de caja|	119|
-|Anexo 3. Corte parcial X de Wincaja|	121|
+|Codificar productos en las facturas|	79|
+|Estibar la mercancía|	82|
+|Acomodar mercancía|	85|
+|Surtir sucursales	|88|
+|Transferencia de mercancías|	91|
+|Consolidación de la transferencia de mercancías|	94|
+|Capturar ofertas|	97|
+|Cotización de precios con proveedores|	100|
+|Dar de alta un producto en Wincaja|	103|
+|Captura de las facturas de compras en Wincaja|	107|
+|Captura de las facturas de compras en bitácora digital-SPA|	111|
+|Reporte de compras en almacén|	114|
+|Anexos	|116|
+|Anexo 1. Vale provisional de caja|116	|
+|Anexo 2. Formato de tabular de corte de caja|	118|
+|Anexo 3. Corte parcial X de Wincaja|	120|
 
 
 
@@ -175,6 +182,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/1** |
 
+# Tienda 
 
 |Diagrama de flujo||
 |--|--|
@@ -195,7 +203,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Gerente de tienda/Gerente en entrenamiento  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Recibir productos de proveedores <p> **FRECUENCIA:**  <p> La realización de esta actividad es frecuente ya que todos los días el super recibe mercancía de diferentes proveedores <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Identificar que los productos que entregan los proveedores son lo que se pidieron <p> **ALCANCE:** <p> Aplica que el personal del área de operación (gerente de tienda), así como el área de finanzas tengan la información de los productos comprados diariamente <p> **POLITICAS:**<p> El gerente de tienda es el responsable de recibir a cada proveedor en caso de que este no se encuentre; deberá el gerente en entrenamiento realizar dicha actividad. <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda estar al pendiente de cuando lleguen los productos de proveedores para recibirlos y checar que lleguen todos. <p>Es responsabilidad del gerente en entrenamiento recibir y revisar los productos de proveedores que llegan en caso de que el gerente de tienda no se encuentre o no pueda recibirlos. <p> **DEFINICIONES:** <p> **Factura:** Cuenta en la que se detallan las mercancías compradas o los servicios recibidos, junto con su cantidad y su importe, y que se entrega a quien debe pagarla. <p> **CFDI:** (Comprobante Fiscal Digital por Internet) en México es un documento XML que cumple con la especificación proporcionada por el SAT <p> **Proveedor:** Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa.||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  10 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  10 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/1** |
 
@@ -211,7 +219,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|  Revisar la caducidad de los productos para que tengan más tiempo para su venta || 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  11 de 121|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  11 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p> **Codigo:SPA-AO-01/2** |
 
@@ -223,14 +231,14 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![captura de compras ](https://i.imgur.com/e2SanR6.jpg)  
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  12 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  12 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/2** |  
 
 ![captura de compras 2](https://i.imgur.com/mHDmR1L.jpg) 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  13 de 121|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  13 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	**Fecha:Agosto 2018**   **Codigo:SPA-AO-01/2** |  
 
@@ -238,7 +246,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Gerente de tienda/Gerente en entrenamiento  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Captura de compras <p> **FRECUENCIA:**  <p> La realización de dicha actividad es prácticamente diaria; esto depende de las compras que se reciban en el día y el número de proveedores que lleguen a surtir. <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Identificar y controlar las compras realizadas a cada proveedor   <p> **ALCANCE:** <p> Aplica al área de operación y al área de tecnología de información; tengan a su cargo el control de las capturas de compras realizadas en el super.  <p> **POLITICAS:**<p>  Registrar la captura de compras en el día que llegue la mercancía <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda realizar todas las capturas de las compras realizadas cada día en la tienda de cada proveedor <p> Es responsabilidad del gerente en entrenamiento realizar las capturas de compras realizadas cada día en la tienda a cada proveedor en el caso de que no se encuentre el gerente de tienda <p> Es responsabilidad del personal de mantenimiento revisar los programas ocupados para la captura de compras  <p> **DEFINICIONES:** <p> **Programa:** Es una secuencia de instrucciones, escritas para realizar una tarea específica en una computadora. <p> **Lector de código de barras:** Dispositivo electrónico que por medio de un láser lee el código de barras y emite el número que muestra el código de barras, no la imagen. ||  
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  14 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  14 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/2** | 
 
@@ -258,7 +266,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |9|Dar ENTER al finalizar el registro de cada producto y poder empezar uno nuevo || 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  15 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  15 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/2** | 
 
@@ -278,7 +286,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  16 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  16 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/3** | 
 
@@ -294,7 +302,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  17 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  17 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/3** | 
 
@@ -304,7 +312,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Gerente de tienda/Gerente en entrenamiento  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Solicitud de pedidos de sucursal a proveedores   <p> **FRECUENCIA:**  <p> La realización de este procedimiento es diaria; ya que cada proveedor pasa a tienda en días diferentes para el levantamiento de los pedidos  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Mantener la existencia de todos los productos que se tiene a la venta realizando los pedidos con los proveedores directos. <p> **ALCANCE:** <p> Aplica al área de operación tener el control de las mercancías pedidas para la tienda   <p> **POLITICAS:**<p> La tienda debe tener la mercancía mínima siempre en existencia. <p> Revisar los productos cuando estos lleguen para que no estén en mal estado  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda realizar los pedidos necesarios a cada proveedor <p> Es responsabilidad del gerente en entrenamiento realizar los pedidos necesarios a cada proveedor en el caso de que no se encuentre el gerente de tienda o que esté realizando otra actividad <p>  **DEFINICIONES:** <p> **Wincaja:** Es un programa tan versátil que usted tendrá el control de todo lo que ve en pantalla, imprimir todo lo que ve en ellas, además de tener un número ilimitado de pantallas de información. <p> **Mínimo:** Es la cantidad más baja de productos que debe haber en tienda  <p> **Máximo:** Es la cantidad más lata de productos que debe haber en tienda  ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  18 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  18 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/3** | 
 
@@ -319,7 +327,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Recibir el ticket o comprobante del pedido realizado || 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  19 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  19 de 120 |
 |--|--|--|
 |  | **Referencia a la Norma ISO 9001: 2015** |**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/4** | 
 
@@ -335,7 +343,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  20 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  20 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/4** | 
 
@@ -346,7 +354,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Gerente de tienda/Gerente en entrenamiento  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Solicitud de pedidos de sucursal a almacén   <p> **FRECUENCIA:**  <p> La realización de este procedimiento no tiene un numero definido porque se realiza cada vez que hace falta producto del que se encuentra en almacén  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener en existencia productos de toda clase; realizando pedios ha almacén para que no haga falta en tienda <p> **ALCANCE:** <p> Aplica al área de operación tener el control de las mercancías pedidas a bodega para la tienda por medio del programa de monitor sucursal; así como la transferencia de las mercancías recibidas   <p> **POLITICAS:**<p> La tienda debe tener la mercancía mínima siempre en existencia. <p> Revisar los productos que se piden; para ofrecer lo que el cliente necesita  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda realizar los pedidos necesarios a almacén <p> Es responsabilidad del gerente en entrenamiento realizar los pedidos necesarios a almacén en el caso de que no se encuentre el gerente de tienda o que esté realizando otra actividad <p> Es responsabilidad del capturista de trasferencias estar el pendiente de los pedidos de tienda o sucursales  <p>  **DEFINICIONES:** <p> **Wincaja:** Es un programa tan versátil que usted tendrá el control de todo lo que ve en pantalla, imprimir todo lo que ve en ellas, además de tener un número ilimitado de pantallas de información. <p> **Existencia:** Son la mercancía comprada por la empresa que aún no ha sido vendida <p> **Monitor sucursal:** Es un programa de control de las mercancías existentes en almacén ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  21 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  21 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/4** | 
 
@@ -364,7 +372,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  22 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  22 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/5** | 
 
@@ -377,7 +385,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![recibir mercancias de almacen 1](https://i.imgur.com/ZNXFPG9.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  23 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  23 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/5** | 
 
@@ -385,7 +393,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![recibir mercancias de almacen 2](https://i.imgur.com/gby3V2r.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  24 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  24 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/5** | 
 
@@ -393,7 +401,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Gerente de tienda/Gerente en entrenamiento  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Recibir mercancia de almacén   <p> **FRECUENCIA:**  <p> La realización de este procedimiento no tiene un numero definido porque se realiza cada vez que se recibe la mercancía pedida a almacén   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener en existencia productos del almacén siempre aunque sea en mínimas cantidades<p> **ALCANCE:** <p>Aplica al área de operación tener el control de las mercancías enviadas del almacén a la tienda asi como de la autorización de ingresar a los programas de Wincaja y Winconsolida   <p> **POLITICAS:**<p> La tienda debe tener la mercancía mínima siempre en existencia. <p> Revisar los productos que se reciben en tienda   <p> **RESPONSABILIDADES:** <p>Es responsabilidad del gerente de tienda recibir la mercancía pedida a el almacén <p> Es responsabilidad del gerente en entrenamiento recibir la mercancía pedida a el almacén en el caso de que no se encuentre el gerente de tienda o que esté realizando otra actividad <p> Es responsabilidad del capturista de trasferencias estar el pendiente de los pedidos de tienda o sucursales <p>  <p>  **DEFINICIONES:** <p> <p> **Wincaja:** Es un programa tan versátil que usted tendrá el control de todo lo que ve en pantalla, imprimir todo lo que ve en ellas, además de tener un número ilimitado de pantallas de información <p> **Existencia:** Son la mercancía comprada por la empresa que aún no ha sido vendida ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  25 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  25 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/5** | 
 
@@ -407,7 +415,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Ingresar a Wincaja  || 
 |4|Abrir la ventana de movimiento del almacén oprimiendo Ctrl + M || 
 |5|Seleccionar en tipo de movimiento: trasferencia de entrada || 
-|6|Ingresar en la parte que dice documento y referencia: el número de referencia que tiene el documento de transferencias recibido en físico  || 
+|6|Ingresar en la parte que dice documento y referencia: el número de referencia que tiene el documento de transferencias recibido en físico || 
 |7|Imprimir el documento que nos aparece en dos tantos uno para bodega y otro para la tienda  |Transferencia de mercancías | 
 |8|Checar la mercancía que nos envió almacén con lo que esta en la hoja de transferencia; estos deben de ser los mismos || 
 |9|Firmar la hoja de transferencias  || 
@@ -415,7 +423,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |11| Ir a archivos | | 
 |12|Seleccionar exportar datos  || 
 |13|Buscar el numero de super  || 
-|14|Poner la fecha que nos envían la mercancía  || 
+|14|Poner la fecha que nos envían la mercancía || 
 |15|Imprimir la hoja   |Transferencia de mercancías de Winconsolida  | 
 |16|Ir al programa revisión de costos  ||
 |17|Poner la fecha del día que se esta recibiendo la mercancía ||
@@ -423,26 +431,11 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |19|Ingresar a Wincaja nuevamente y seleccionar costeo de transferencia del día||
 |20|Dar aceptar||
 |21|Seleccionar el producto ||
-
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  26 de 121 |
-|--|--|--|
-|  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01**  <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/5** | 
-
-
-
-|PROCEDIMIENTO:RECIBIR MERCANCÍA DE ALMACÉN|
-|---|
-
-|No.|Actividad|Documento|
-|--|--|--|
 |22|Clic en filtrar ||
 |23|Imprimir el reporte de costeo de transferencias |Reporte de costeo de transferencias |
-|24|Juntar los documentos de dicha transferencia ||
+|24|Juntar los documentos de dicha transferencia||
 
-
-
-
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  27 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  26 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/6** | 
 
@@ -455,7 +448,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![captura para reposicion de compras o gastos ](https://i.imgur.com/UY0fdwu.jpg)   
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  28 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  27 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/6** | 
 
@@ -466,7 +459,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  29 de 121|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  28 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/6** | 
 
@@ -477,7 +470,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  30 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  29 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/6** | 
 
@@ -492,7 +485,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Hacer la captura de reposición de compras o gastos al finalizar el día para agregar todos las compras y los gastos pagados en el día y posteriormente generar el reporte de cada caso para esto se tiene que hacer lo siguiente: <p> * Ingresar a la aplicación de reposiciones digital-SPA <p> * Seleccionar la pestaña de compras o gastos según sea el caso  <p> * Clic en agregar; en el cual aparecerá una ventana en el que deberá llenar los datos solicitados y guardar <p> * Cerrar la aplicación e ir a la carpeta de reportes en el podremos ver las capturas realizadas en el día e imprimir, para estos sigue los siguientes pasos: <p> * Dar doble clic en la carpeta de reportes  <p> * Clic en la carpeta de reposiciones en el cual aparecerá las reposiciones existentes; seleccionar el que va a ocupar puede ser de compras o gastos.| 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  31 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  30 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/6** | 
 
@@ -503,7 +496,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  32 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  31 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/7** | 
 
@@ -519,7 +512,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  33 de 121|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  32 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/7** | 
 
@@ -530,7 +523,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  34 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  33 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/7** | 
 
@@ -547,7 +540,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Imprimir o mandar por correo la factura según sea el caso.||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  35 de 121|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  34 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/8** | 
 
@@ -564,7 +557,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  36 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  35 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/8** | 
 
@@ -575,7 +568,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Gerente de tienda/Gerente en entrenamiento  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Realizar la consolidación de ventas al mostrador  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es diaria al finalizar el día   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>Tener un control de los folios efectuados de las facturas en el día   <p> **ALCANCE:** <p> Aplica al gerente de tienda y gerente en entrenamiento tener el acceso al programa de Wincaja para realizar la consolidación de ventas al mostrador diariamente   <p> **POLITICAS:**<p> Todo gerente de tienda o en entrenamiento debe estar al pendiente de las necesidades del cliente; así como el caso de requerir algún comprobante fiscal como la factura electrónica. <p> **RESPONSABILIDADES:** <p> Es responsabilidad del gerente de tienda elaborar facturas si el cliente lo requiere; así como llevar un control de los folios de las facturas emitidas  <p> Es responsabilidad del gerente en entrenamiento elaborar facturas si el cliente lo requiere en el caso de que no se encuentre el gerente de tienda o que esté realizando otra actividad <p>Es responsabilidad del encargado de mantenimiento tener el sistema de Wincaja en buenas condiciones.   <p> **DEFINICIONES:** <p> **Factura:** Una factura es un documento de carácter mercantil que indica una compra o una venta de un bien o servicio <p> **Cliente:**  Persona que compra en un establecimiento comercial o público <p> **Proveedor:**  Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa. ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  37 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  36 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	 <p> **Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/8** |
 
@@ -594,7 +587,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Imprimir el formato de la consolidación de ventas al mostrador |Consolidación de ventas al mostrador |
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  38 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  37 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/9** |
 
@@ -610,7 +603,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  39 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  38 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/9** |
 
@@ -620,7 +613,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Gerente de tienda/Gerente en entrenamiento  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Ventas a clientes contribuyentes  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es diaria; se lleva acabo cada vez que otras tiendas o negocios cercanos nos piden mercancía    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>Otorgar un servicio de calidad a nuestros clientes contribuyentes  <p> **ALCANCE:** <p> Aplica al gerente de tienda y gerente en entrenamiento tener el acceso de las llamadas a tienda y a las cajas para realizar la venta a los clientes contribuyentes   <p> **POLITICAS:**<p> Todo gerente de tienda o en entrenamiento debe estar al pendiente de los pedidos de los clientes contribuyentes  <p> **RESPONSABILIDADES:** <p> Es responsabilidad del gerente de tienda atender las solicitudes de pedidos de los clientes contribuyentes y de dar un servicio de calidad <p> Es responsabilidad del gerente en entrenamiento atender las solicitudes de pedidos de los clientes contribuyentes y de dar un servicio de calidad en caso de que el gerente de tienda no se encuentre en disposiciones de atender <p>Es responsabilidad del encargado de mantenimiento tener el sistema de Wincaja en buenas condiciones.   <p> **DEFINICIONES:** <p> **Factura:** Una factura es un documento de carácter mercantil que indica una compra o una venta de un bien o servicio <p> **Cliente contribuyente:**  Persona física que compra en el super pero que realiza una actividad económica o laboral que genera el pago de un impuesto<p> **Proveedor:**  Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa. ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  40 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  39 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/9** |
 
@@ -639,7 +632,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Anexar el pago a la caja correspondiente ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  41 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  40 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/10** |
 
@@ -652,7 +645,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![cobro en efectivo](https://i.imgur.com/VHUZOaw.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  42 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  41 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/10** |
 
@@ -664,7 +657,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  43 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  42 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/10** |
 
@@ -686,7 +679,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  44 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  43 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/11** |
 
@@ -700,7 +693,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![cobro con tarjeta](https://i.imgur.com/ReSFp1X.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  45 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  44 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/11** |
 
@@ -709,7 +702,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Cajero <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p> Cobro con tarjeta  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es frecuente en el día    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Atender al cliente brindando un buen servicio en la modalidad de cobro con tarjeta  <p> **ALCANCE:** <p> Aplica al área de operación tener el acceso de las ventas en tienda en la modalidad de cobro con tarjeta   <p> **POLITICAS:**<p> * Ningún cajero deberá tener la caja abierta solo cuándo este tenga que dar cambio al cliente o dar cuentas al gerente de tienda. <p> *Cada cajero tendrá una cuenta para ingresar al sistema de wincaja de no ser así no podrá cobrar. compras   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del cajero atender a los clientes y cobrar con tarjeta la mercancía que este quiera  <p> Es responsabilidad del gerente de tienda /gerente en entrenamiento estar al pendiente del cajero al cobrar al cliente en modalidad de cobro con tarjeta  <p> **DEFINICIONES:** <p> **Lector de código de barras:** Es un dispositivo electrónico que por medio de un láser lee el código de barras y emite el número que muestra el código de barras, no la imagen  <p> **Cliente:**  Persona que compra en un establecimiento comercial o público <p> **Tarjeta:** Es un medio de pago emitido por una entidad financiera a favor de un consumidor, a través de una cuenta asociada, y que es aceptada en infinidad de comercios y establecimientos. <p> **Terminal:** Es un dispositivo que, en un establecimiento comercial, permite gestionar tareas relacionadas con la venta, tales como el cobro por tarjeta de crédito o débito, la creación e impresión del ticket de venta, gestionar el inventario o generar informes que ayudan en la gestión del negocio, entre otras. || 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  46 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  45 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/11** |
 
@@ -728,7 +721,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Colocar los 4 dígitos finales de la tarjeta y das ENTER para posteriormente generar el ticket  | |
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  47 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  46 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/11** |
 
@@ -744,7 +737,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  48 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  47 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/12** |
 
@@ -757,7 +750,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![credito de mercancias a los trabajadores ](https://i.imgur.com/mjpKF34.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  49 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  48 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/12** |
 
@@ -768,7 +761,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  50 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  49 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/12** |
 
@@ -788,7 +781,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  51 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  50 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p> **Codigo:SPA-AO-01/13** |
 
@@ -804,7 +797,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center> 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  52 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  51 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/13** |
 
@@ -813,7 +806,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Cajero <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p> Realizar recargas <p> **FRECUENCIA:**  <p> La realización de este procedimiento es frecuente en el día    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Dar un servicio completo respecto a las recargas de cualquier compañía <p> **ALCANCE:** <p> Aplica al área de operación (cajero) tener el acceso de las ventas de las recargas en tienda  <p> **POLITICAS:**<p> * Ningún cajero deberá tener la caja abierta solo cuándo este tenga que dar cambio al cliente o dar cuentas al gerente de tienda. <p> *Cada cajero tendrá una cuenta para ingresar al sistema de wincaja de no ser así no podrá cobrar. compras   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del cajero atender a los clientes y dar un servicio completo con respecto a las recargas telefónicas que el cliente requiera  <p> Es responsabilidad del gerente de tienda /gerente en entrenamiento estar al pendiente del cajero al atender a los clientes durante la realización de la recarga   <p> **DEFINICIONES:** <p> **Lector de código de barras:** Es un dispositivo electrónico que por medio de un láser lee el código de barras y emite el número que muestra el código de barras, no la imagen  <p> **Cliente:**  Persona que compra en un establecimiento comercial o público || 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  53 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  52 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/13** |
 
@@ -832,7 +825,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Dar al cliente una cordial despedida | |
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  54 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  53 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/14** |
 
@@ -849,7 +842,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  55 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  54 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/14** |
 
@@ -858,7 +851,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Cajero <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p> Corte de caja <p> **FRECUENCIA:**  <p> La realización de este procedimiento es dos veces por día  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Controlar los ingresos y egresos de caja en el día <p> **ALCANCE:** <p> Aplica al área de operación (cajero) tener el acceso a la caja <p> **POLITICAS:**<p> * Ningún cajero deberá tener la caja abierta solo cuándo este tenga que dar cambio al cliente o dar cuentas al gerente de tienda. <p> * Cada cajero tendrá una cuenta para ingresar al sistema de wincaja de no ser así no podrá cobrar. compras   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del cajero realizar cualquier tipo de corte de caja durante del día ya sea parcial x o final z <p> Es responsabilidad del gerente de tienda /gerente en entrenamiento estar al pendiente del cajero al realizar el corte de caja    <p> **DEFINICIONES:** <p> **Corte de caja:** Es un método empleado para identificar el flujo de entrada y salida de dinero en la tienda. Su función es comparar el dinero en efectivo, con los valores de ventas reportados en caja || 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  56 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  55 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/14** |
 
@@ -875,7 +868,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  57 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  56 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/15** |
 
@@ -890,7 +883,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  58 de 140 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  57 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/15** |
 
@@ -900,7 +893,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Encargado de carnes frías  <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p> Hacer platos de carnes frías con emplaye  <p> **FRECUENCIA:**  <p> La realización de este procedimiento se llevaba acabo de vez en cuando  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Aprovechar todo el producto; no desperdiciar nada ni los sobrantes de cada producto   <p> **ALCANCE:** <p> Aplica al área de operación (encargado de carnes frías)  <p> **POLITICAS:**<p> * La empresa ofrece productos de buena calidad y en buen estado <p> *El personal deberá portar el uniforme del puesto; esto para tener la higiene y la seguridad adecuada para el mismo    <p> **RESPONSABILIDADES:** <p> Es responsabilidad del encargado de carnes frías administrar las carnes, es decir, como de aprovechar lo que sobra para desperdiciar    <p> **DEFINICIONES:** <p> **Carnes frías:** Son alimentos que ya están listos para comer. Algunos son cocidos; otros, curados y otros, ahumados, pero todos han sido sometidos previamente a un proceso de conservación. <p> **Emplaye:** se utiliza para envolver y contener de forma segura diversos materiales. Su uso facilita la transportación y almacenaje de los artículos  ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  59 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  58 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/15** |
 
@@ -920,7 +913,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  60 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  59 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/16** |
 
@@ -936,7 +929,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  61 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  60 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/16** |
 
@@ -947,7 +940,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  62 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  61 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/16** |
 
@@ -963,7 +956,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |5|Poner nuestro producto en otra bolsa de plástico para que este no se vaya a caer; ya que la que ocupamos anteriormente es para solo agarrar el producto  ||
 |6|Colocar la clave y el precio del producto; entregar al cliente el producto, para que posteriormente se pueda cobrar en caja ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  63 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  62 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/17** |
 
@@ -980,7 +973,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  64 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  63 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**   **Codigo:SPA-AO-01/17** |
 
@@ -992,7 +985,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  65 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  64 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/17** |
 
@@ -1010,7 +1003,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Calentar la torta  ||
 |7|Colocar en exhibición la torta ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  66 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  65 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/18** |
 
@@ -1026,7 +1019,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  67 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  66 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/18** |
 
@@ -1034,7 +1027,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Encargado de carnes frías  <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p> Recibir productos de carnes frías  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es una vez por semana  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener un buen surtido de los diferentes tipos de carnes frías y en buen estado <p> **ALCANCE:** <p> Aplica al área de operación (encargado de carnes frías) tener la tarea de recibir los productos de carnes frías   <p> **POLITICAS:**<p> * La empresa ofrece productos de buena calidad y en buen estado <p> *El personal deberá portar el uniforme del puesto; esto para tener la higiene y la seguridad adecuada para el mismo    <p> **RESPONSABILIDADES:** <p> Es responsabilidad del encargado de carnes frías estar al pendiente de recibir los productos de carnes frías cada vez que venga el proveedor a surtir y recibir que sea lo que se pidió, así como que los productos se encuentren en buen estado <p> **DEFINICIONES:** <p> **Carnes frías:** Son alimentos que ya están listos para comer. Algunos son cocidos; otros, curados y otros, ahumados, pero todos han sido sometidos previamente a un proceso de conservación.  |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  68 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  67 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/18** |
 
@@ -1048,7 +1041,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Acomodar los nuevos productos de acuerdo a la marca y al tipo de carne que sea   ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  69 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  68 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/19** |
 
@@ -1064,7 +1057,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  70 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  69 de 120|
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/19** |
 
@@ -1074,7 +1067,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Encargado de frutas y verduras  <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p> Elaboración de platos de frutas con emplaye  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es una vez por día    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Aprovechar todas las frutas que hay; sin desperdiciar nada <p> **ALCANCE:** <p> Aplica al área de operación (encargado de frutas y verduras)   <p> **POLITICAS:**<p> * La empresa ofrece productos de buena calidad y en buen estado <p> * El personal deberá portar el uniforme del puesto; esto para tener la higiene y la seguridad adecuada para el mismo  <p> * Mantener limpio al área de trabajo, así como de los utensilios   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del encargado de frutas y verduras realizar los platos de frutas con emplaye de las frutas que estén ya maduras   <p> **DEFINICIONES:** <p> **Emplaye:** se utiliza para envolver y contener de forma segura diversos materiales. Su uso facilita la transportación y almacenaje de los artículos  |
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  71 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  70 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/19** |
 
@@ -1094,7 +1087,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  72 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  71 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/20** |
 
@@ -1110,7 +1103,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  73 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  72 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/20** |
 
@@ -1119,7 +1112,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Anaquelero  <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p>Poner precios a los productos <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada sábado y martes     <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Dar información necesaria de los productos a los clientes en forma visual sin la necesidad de que estén preguntando <p> **ALCANCE:** <p> Aplica al Anaquelero poner los precios actuales  de los productos    <p> **POLITICAS:**<p> * El anaquelero tiene que estar al pendiente de todos los productos tengan precio y este; esté actualizado de no ser así este será llamado la atención <p> *La empresa da información verdadera sobre los precios de los productos   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del Anaquelero tener todos los productos con sus respectivos precios vigentes y actualizados   <p> **DEFINICIONES:** <p> **Producto:** es todo aquello que puede ser utilizado con un fin en específico |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  74 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  73 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/20** |
 
@@ -1134,7 +1127,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Poner los precios reales si es que no lo tiene; para esto se tiene que imprimir desde caja e ir a ponerlos en el lugar de cada producto que haya cambiado   ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  75 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  74 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/21** |
 
@@ -1150,7 +1143,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  76 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  75 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/21** |
 
@@ -1159,7 +1152,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Anaquelero  <p> **JEFE INMEDIATO:** Gerente de tienda /Gerente en entrenamiento  <p> **PROCEDIMIENTO:** <p> Acomodar productos <p> **FRECUENCIA:**  <p> La realización de este procedimiento es todos los días     <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener un orden de la distribución de los productos dentro de la tienda <p> **ALCANCE:** <p> Aplica al área de operación (Anaquelero) acomodar cada producto en exhibición   <p> **POLITICAS:**<p> * El anaquelero tiene que acomodar los productos frecuentemente durante el día y checar que no haya falta en los anaqueles <p> *La empresa da información verdadera sobre los precios de los productos     <p> **RESPONSABILIDADES:** <p> Es responsabilidad del Anaquelero tener todos los productos bien acomodados y en un buen estado; así también de que no haga falta.   <p> **DEFINICIONES:** <p> **Producto:** es todo aquello que puede ser utilizado con un fin en específico |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  77 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  76 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/21** |
 
@@ -1177,8 +1170,14 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  77 de 120 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01** |
 
 <center>
+
+**Hoja de autorización de almacén**
+
 
 **SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V** 
 
@@ -1200,9 +1199,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-
-
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  79 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  78 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/22** |
 
@@ -1218,7 +1215,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  80 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  79 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/22** | 
 
@@ -1228,7 +1225,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Jefe de almacén  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Codificar productos en las facturas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es en ocasiones cuando los productos no traen códigos    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Facilitar la captura de los productos entrantes <p> **ALCANCE:** <p> Aplica al área de operación (jefe de almacén) realizar la codificación de los productos que se reciben    <p> **POLITICAS:**<p> El jefe de almacén tiene que estar al pendiente de la mercancía que llega debe traer códigos en las facturas si no lo trae deberá codificarlo con los códigos internos que ya están en el sistema    <p> **RESPONSABILIDADES:** <p> Es responsabilidad del jefe de almacén estar al recibir la mercancía y checar que cada producto llegue en óptimas condiciones y codificar los productos que no traigan código.   <p> **DEFINICIONES:** <p> **Producto:** es todo aquello que puede ser utilizado con un fin en específico <p> **Código**: Es un número único diseñado para identificar de manera inequívoca cualquier objeto|
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  81 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  80 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/22** | 
 
@@ -1249,7 +1246,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  82 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  81 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**   **Codigo:SPA-AO-01/23** |  
 
@@ -1261,7 +1258,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![estibar la mercancia](https://i.imgur.com/ogR5Qyd.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  83 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  82 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/23** | 
 
@@ -1271,7 +1268,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Estibador  <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Estibar la mercancía  <p> **FRECUENCIA:**  <p> La realización de esta actividad es diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>Controlar la mercancía que entra en la bodega y aprovechar al máximo la distribución del espacio.  <p> **ALCANCE:** <p> Aplica al área de operación (estibador y los cargadores) la distribución de la mercancía en el almacén   <p> **POLITICAS:**<p> El estibador debe de tener la mercancía bien acomodada y distribuida   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del estibador reacomodar la mercancía para colocar nueva en el mejor espacio para sus necesidades, así como de checar que esta esté en óptimas condiciones y tenga una caducidad mayor de tres meses <p> Es responsabilidad de los cargadores ayudar al estibar para mover la mercancía <p> Es responsabilidad del jefe de almacén estar al pendiente de la entrada de los bienes al almacén    <p> **DEFINICIONES:** <p> **Estibar:** consiste en la adecuada colocación y distribución de las mercancías <p> **Mercancía:** es todo aquello que se puede vender o comprar |  
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  84 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  83 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/23** |   
 
@@ -1286,7 +1283,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|Acomodar la mercancía en el espacio antes destinado en el cual puede ser de mercancías de diferentes familias ya que en la bodega están acomodados por familias: suavizantes, limpiadores, cloros, lácteos, latería, papel, toallas y pañales etc. ||
 |5|Poner la mercancía nueva en la parte de debajo de cada estiba ya que los productos con más tiempo en la bodega tienen menos tiempo para caducar y son los que deben salir primero  ||  
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  85 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  84 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/24** |  
 
@@ -1302,7 +1299,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  86 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  85 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/24** | 
 
@@ -1310,7 +1307,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Cargador  <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Acomodar la mercancia <p> **FRECUENCIA:**  <p> La realización de esta actividad es diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Aprovechar el espacio del almacén, teniendo en cuenta las necesidades del producto  <p> **ALCANCE:** <p> Aplica al área de operación (cargador) tener acceso a la mercancía que llega al almacén   <p> **POLITICAS:**<p> * El cargador debe de estar en buenas condiciones de salud para poder trabajar <p> *La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores  <p> **RESPONSABILIDADES:** <p> Es responsabilidad del estibador reacomodar la mercancía para colocar nueva en el mejor espacio para sus necesidades, así como de checar que esta esté en óptimas condiciones y tenga una caducidad mayor de tres meses <p> Es responsabilidad de los cargadores ayudar al estibar para mover la mercancía <p> Es responsabilidad del jefe de almacén estar al pendiente de la entrada de los bienes al almacén    <p> **DEFINICIONES:** <p> **Estibar:** consiste en la adecuada colocación y distribución de las mercancías <p> **Mercancía:** es todo aquello que se puede vender o comprar |  
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  87 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  86 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/24** |  
 
@@ -1324,7 +1321,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Acomodar la mercancía en donde lo indique el estibador  ||
 |4| Colocar las tarimas e ir haciendo las estibas de acuerdo a las necesidades del producto. Por ejemplo: <p> * Nutrileche se hace una cama de 15 cajas x 10 cajas de altura  <p> * Aceite se hace una cama de 14 x 12 de altura, normalmente se pone pegado a la pared ya que es un producto pesado y si en caso de que se caiga uno no cause algún accidente <p> *Bultos de azúcar normalmente son de una cama de 6 x 30 de altura || 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  88 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  87 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/25** |  
 
@@ -1339,7 +1336,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  89 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  88 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/25** | 
 
@@ -1347,7 +1344,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Cargador  <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Surtir sucursales <p> **FRECUENCIA:**  <p> La realización de esta actividad es practicamente diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Entregar en tiempo y forma la mercancía requería en las sucursales <p> **ALCANCE:** <p> Aplica al área de operación (cargador) tener acceso a la mercancía que sale del almacén   <p> **POLITICAS:**<p> * El cargador debe de estar en buenas condiciones de salud para poder trabajar <p> *La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del estibador reacomodar la mercancía para colocar nueva en el mejor espacio para sus necesidades, así como de checar que esta esté en óptimas condiciones y tenga una caducidad mayor de tres meses <p> Es responsabilidad de los cargadores ayudar al estibar para mover la mercancía <p> Es responsabilidad del jefe de almacén estar al pendiente de la entrada de los bienes al almacén    <p> **DEFINICIONES:** <p> **Lotear:** Dividir la mercancía en lotes para surtir lo que pide la sucursal <p> Estibar: consiste en la adecuada colocación y distribución de las mercancías <p> **Mercancía:** es todo aquello que se puede vender o comprar | 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  90 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  89 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/25** | 
 
@@ -1364,7 +1361,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Firmar y sellar la hoja de consolidación ||
 |7|Entregar la hoja de consolidación firmada y sellada al capturista de transferencias||   
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  91 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  90 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/26** | 
 
@@ -1381,7 +1378,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  92 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  91 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/26** |
 
@@ -1393,7 +1390,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  93 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  92 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/26** | 
 
@@ -1410,7 +1407,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  94 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  93 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/27** |
 
@@ -1425,7 +1422,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  95 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  94 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/27** |
 
@@ -1435,7 +1432,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Capturista de trasnferencias <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Consolidación de la transferencia de mercancías <p> **FRECUENCIA:**  <p> La realización de esta actividad es prácticamente diaria   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Validar la entrega de las mercancías en cada sucursal <p> **ALCANCE:** <p> Aplica al área de operación (capturista de transferencias) tener acceso al sistema de Win consolida para realizar las consolidaciones  <p> **POLITICAS:**<p> * El capturista de transferencias debe siempre realizar las transferencias de la mercancía que se envía a las sucursales <p> *La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del capturista de transferencias estar registrando la mercancía que se manda a cada sucursal de mismo modo de realizar la transferencia <p> Es responsabilidad del cargador pasar cada producto con el capturista para que no se pase ningún producto sin registrar  <p> Es responsabilidad del jefe de almacén estar al pendiente de la salida de los bienes del almacén   <p> **DEFINICIONES:** <p>  **Mercancía:** es todo aquello que se puede vender o comprar <p> **Transferencia:** Trasladar o enviar una cosa desde un sitio hacia otro |   
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  96 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  95 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/27** |
 
@@ -1456,7 +1453,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |9|Recibir la hoja de consolidación sellada  || 
 |10|Archivar la hoja en una carpeta en donde van todas las que se generan durante el mes.|| 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  97 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  96 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/28** |
 
@@ -1472,7 +1469,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  98 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  97 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/28** |
 
@@ -1482,7 +1479,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Encargado de compras <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Capturar ofertas <p> **FRECUENCIA:**  <p> La realización de esta actividad es cada semana    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Ofrecer productos a un mejor precio que la competencia <p> **ALCANCE:** <p> Aplica al área de operación (encargado de compras) es la cuenta con la información de la mercancía para poder realizar las ofertas   <p> **POLITICAS:**<p> * El encargado de compras deberá checar la mercancía que este en buenas condiciones y con un tiempo de vida mas de tres meses de no ser así tiene que ver la manera de ofertar el producto <p> *La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores    <p> **RESPONSABILIDADES:** <p> Es responsabilidad del encargado de compras ver que producto falta en el almacén y que producto ya tiene tiempo almacenado <p> Es responsabilidad del jefe de almacén estar al pendiente de los movimientos realizados por el encargado de compras   <p> **DEFINICIONES:** <p>  **Mercancía:** es todo aquello que se puede vender o comprar <p> **Compras:** Hace referencia a la acción de obtener o adquirir, a cambio de un precio determinado, un producto o un servicio |
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  99 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  98 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/28** |
 
@@ -1500,7 +1497,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6 |Realizar una relación en Excel de todos los productos ofertados en la semana con los siguientes datos: <p> - Artículos <p> - Descripción <p> - Costo <p> - Precio <p> - Margen <p> - Sucursal <p> - Oferta  <p> - Margen 2 <p> - Dipepsa  <p> - Super ahorros <p> - Chedraui <p> - Soriana <p> - Sánchez <p> - Maricela ||
 |7|Enviar la relación de Excel al área de Tecnología de información|| 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  100 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  99 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/29** |
 
@@ -1515,7 +1512,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  101 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  100 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/29** |
 
@@ -1525,7 +1522,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Encargado de compras <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Cotización de precios con proveedores <p> **FRECUENCIA:**  <p> La realización de esta actividad es los primeros días de la semana   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Conseguir a mejor precio los productos con los proveedores <p> **ALCANCE:** <p> Aplica al área de operación (encargado de compras) es la cuenta con la información y relaciones de los proveedores que surten al almacén     <p> **POLITICAS:**<p> * La mercancía que se compra a los proveedores deben de estar en buenas condiciones y con un tiempo de vida más de tres meses de no ser así tiene que ver la manera de ofertar el producto <p> *La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores  <p> **RESPONSABILIDADES:** <p> Es responsabilidad del encargado de compras ver que producto falta en el almacén y que producto ya tiene tiempo almacenado <p> Es responsabilidad del jefe de almacén estar al pendiente de los movimientos realizados por el encargado de compras   <p> **DEFINICIONES:** <p>  **Mercancía:** es todo aquello que se puede vender o comprar <p> **Compras:** Hace referencia a la acción de obtener o adquirir, a cambio de un precio determinado, un producto o un servicio <p> **Proveedor:** Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa| 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  102 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  101 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/29** |
 
@@ -1541,7 +1538,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|Enviar la relación a la capturista de compras ||  
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  103 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  102 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/30** |  
 
@@ -1556,7 +1553,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  104 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  103 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/30** | 
 
@@ -1565,7 +1562,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Capturista de compras <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Dar de alta un producto en Wincaja <p> **FRECUENCIA:**  <p> La realización de esta actividad es solo cuando hay un producto nuevo  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener todos los productos de venta en el sistema para ahorrar tiempo a la hora de atender a los clientes y al requerir información sobre el producto  <p> **ALCANCE:** <p> Aplica al área de operación (capturista de compras) tener el acceso al sistema de Wincaja para hacer las altas a productos nuevos. <p> **POLITICAS:**<p> * La mercancía que se compra a los proveedores deben de estar en buenas condiciones y con un tiempo de vida más de tres meses de no ser así tiene que ver la manera de ofertar el producto <p> * La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores <p> *Tener toda la mercancía del almacén registrada en Wincaja <p>  <p> **RESPONSABILIDADES:** <p> Es responsabilidad del capturista de compras tener cada producto en Wincaja así como dar de alta a los productos nuevos  <p> Es responsabilidad del encargado de compras estar al pendiente de los movimientos realizados por el capturista de compras  <p> **DEFINICIONES:** <p>  **Mercancía:** es todo aquello que se puede vender o comprar <p> **Proveedor:** Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa| 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  105 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  104 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/30** | 
 
@@ -1584,7 +1581,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Guardar ||  
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  106 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  105 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/31** | 
 
@@ -1596,7 +1593,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![captura de las facturas de compras en wincaja 1](https://i.imgur.com/fuBATLs.jpg)  
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  107 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  106 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/31** | 
 
@@ -1606,7 +1603,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  108 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  107 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/31** | 
 
@@ -1616,7 +1613,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Capturista de compras <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Captura de las facturas de compras en Wincaja   <p> **FRECUENCIA:**  <p> La realización de esta actividad es diaria  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener los datos de las compras recibidas diariamente registrados para tener un control de las compras realizadas <p> **ALCANCE:** <p> Aplica al área de operación (capturista de compras) tener el acceso al sistema de Wincaja para hacer las capturas de compras. <p> **POLITICAS:**<p> * La mercancía que se compra a los proveedores deben de estar en buenas condiciones y con un tiempo de vida más de tres meses de no ser así tiene que ver la manera de ofertar el producto  <p> * La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores <p> *Tener toda la mercancía comprada en almacén registrada en Wincaja   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del capturista de compras tener cada compra registrada en Wincaja el día que se recibió la mercancía <p> Es responsabilidad del encargado de compras estar al pendiente de los movimientos realizados por el capturista de compras    <p> **DEFINICIONES:** <p>  **Mercancía:** es todo aquello que se puede vender o comprar <p> **Proveedor:** Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa <p> **Factura:** Una factura es un documento de carácter mercantil que indica una compra o una venta de un bien o servicio| 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  109 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  108 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/31** | 
 
@@ -1637,7 +1634,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |9|Registrar la mercancía comprada, para esto se debe agregar los datos de cada producto que nos fue entregado, llenado los siguientes datos que nos pide el sistema: <p> Articulo: Código interno del producto <p> Nombre: Descripción del producto que normalmente ya debe aparecer después de registrar el código <p> Cantidad: Numero de cajas o piezas recibidas  <p> Unidad: Caja o pieza <p> Costo: Cantidad captada con el proveedor y checar si trae IVA para que se le desglose; para quitar el IVA se debe dividir la cantidad entre 1.16 ||  
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  110 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  109 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/31** | 
 
@@ -1656,7 +1653,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  111 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  110 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/32** | 
 
@@ -1673,7 +1670,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  112 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  111 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/32** | 
 
@@ -1683,7 +1680,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Capturista de compras <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Captura de las facturas de compras en bitácora digital-SPA   <p> **FRECUENCIA:**  <p> La realización de esta actividad es diaria  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de las compras realizadas en bodega con bitácora digital-SPA  <p> **ALCANCE:** <p> Aplica al área de operación (capturista de compras) tener el acceso al sistema de Bitácora digital-SPA para realizar la captura de las compras  <p> **POLITICAS:**<p> * La mercancía que se compra a los proveedores deben de estar en buenas condiciones y con un tiempo de vida más de tres meses de no ser así tiene que ver la manera de ofertar el producto <p> * La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores <p> *Tener toda la mercancía comprada en almacén registrada en Bitácora digital-SPA   <p> **RESPONSABILIDADES:** <p> Es responsabilidad del capturista de compras tener cada compra registrada en Bitácora digital-SPA el día que se recibió la mercancía <p> Es responsabilidad del encargado de compras estar al pendiente de los movimientos realizados por el capturista de compras  <p> **DEFINICIONES:** <p>  **Mercancía:** es todo aquello que se puede vender o comprar <p> **Proveedor:** Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa <p> **Factura:** Una factura es un documento de carácter mercantil que indica una compra o una venta de un bien o servicio|  
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  113 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  112 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/32** | 
 
@@ -1701,7 +1698,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |5|Clic en guardar  || 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  114 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  113 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/33** | 
 
@@ -1718,7 +1715,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 </center>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  115 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  114 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01/33** | 
 
@@ -1727,7 +1724,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Capturista de compras <p> **JEFE INMEDIATO:** Jefe de almacén  <p> **PROCEDIMIENTO:** <p> Reporte de compras en almacén  <p> **FRECUENCIA:**  <p> La realización de esta actividad es diaria al finalizar el día  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener un concentrado de todas las compras realizadas en el día en almacén  <p> **ALCANCE:** <p> Aplica al área de operación (capturista de compras) tener el acceso al sistema de Bitácora digital-SPA para poder sacarlos reportes diarios de la captura de compras  <p> **POLITICAS:**<p> * La mercancía que se compra a los proveedores deben de estar en buenas condiciones y con un tiempo de vida más de tres meses de no ser así tiene que ver la manera de ofertar el producto <p> * La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores <p> *Tener toda la mercancía comprada en almacén registrada en Bitácora digital-SPA <p>    <p> **RESPONSABILIDADES:** <p> Es responsabilidad del capturista de compras tener cada compra registrada en Bitácora digital-SPA el día que se recibió la mercancía y el reporte del día de dichas compras <p> Es responsabilidad del encargado de compras estar al pendiente de los movimientos realizados por el capturista de compras   <p> **DEFINICIONES:** <p>  **Mercancía:** es todo aquello que se puede vender o comprar <p> **Proveedor:** Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa <p> **Factura:** Una factura es un documento de carácter mercantil que indica una compra o una venta de un bien o servicio <p> **Reporte:** Informe acerca de un hecho dentro del super |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  116 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  115 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01/33** | 
 
@@ -1745,10 +1742,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Imprimir en dos juegos uno para fianzas y el otro para contabilidad|Bitacora de compras|
 
 
-
-
-
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  117 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  116 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018**  <p> **Codigo:SPA-AO-01** |  
 
@@ -1761,7 +1755,7 @@ Anexo 1.Vale de caja provisional
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  118 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  117 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** 	<p> **Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01** | 
 
@@ -1775,7 +1769,7 @@ Instructivo de llenado:
 6. **Nombre y firma de quien recibió el efectivo:** Agregar el nombre completo sin abreviaturas de la persona que recibió el efectivo y la firma  
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  119 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  118 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01** |
 
@@ -1783,7 +1777,7 @@ Anexo 2.Formato tabular de corte de caja
 
 ![form de corte de caja](https://i.imgur.com/Mh4JW0F.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  120 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  119 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01** |
 
@@ -1800,7 +1794,7 @@ Instructivo de llenado
 9. **Firma recibido:** Deberá de tener la firma del que reciba el tabular, el efectivo y documentos en el puede ser el gerente de tienda o gerente en entrenamiento 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  121 de 121 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE OPERACIÓN  | Página  120 de 120 |
 |--|--|--|
 |  |**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Agosto 2018** <p>  **Codigo:SPA-AO-01** |
 
