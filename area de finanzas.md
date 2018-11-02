@@ -33,7 +33,8 @@
 
 <center>
 
-# Hoja de autorización
+# Hoja de autorización de finanzas 
+
 SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V 
 
 | Elaboro | Reviso | Autorizo  |
@@ -136,7 +137,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento |Revisión de cortes de caja |
 |Puesto|Jefe de finanzas |
 
-![revisióndecortesdecaja](./img.areadefinanzas/revisióndecortesdecaja.jpg)
+![revisióndecortesdecaja](https://i.imgur.com/hQlPEG0.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  8 de 49 |
 |--|--|--|
@@ -171,7 +172,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento |Programar pagos a proveedores mayores de $2,000.00 |
 |Puesto|Jefe de finanzas |
 
-![progrmacionpagoaproveedores](./img.areadefinanzas/programacionpagoaproveedores.jpg)
+![programacionpagoaproveedores](https://i.imgur.com/SGLyWTs.jpg)
 
 
 
@@ -211,7 +212,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Puesto|Jefe de finanzas |
 
 
-![conciliaciondebancos](./img.areadefinanzas/conciliaciondebancos.jpg)  
+![conciliaciondebancos](https://i.imgur.com/N7cCw1W.jpg) 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  14 de 49 |
 |--|--|--|
@@ -248,7 +249,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Puesto|Jefe de finanzas |
 
 
-![manejodecajachica](./img.areadefinanzas/manejodecajachica.jpg) 
+![manejodecajachica](https://i.imgur.com/EKQ3snU.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  17 de 49 |
 |--|--|--|
@@ -281,7 +282,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento |Control de los créditos de mercancías y préstamos personales a los trabajadores |
 |Puesto|Jefe de finanzas |
 
-![creditoatrabajadores](./img.areadefinanzas/creditoatrabajadores.jpg)
+![creditoatrabajadores](https://i.imgur.com/v6hIGoK.jpg)
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  20 de 49 |
@@ -316,14 +317,14 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento | Reposición de compras y gastos  |
 |Puesto| Auxiliar de finanzas |
 
-![reposiciondecomprasygastos1](./img.areadefinanzas/reposiciondecomprasygastos1.jpg)
+![reposiciondecomprasygastos1](https://i.imgur.com/1KSR0p3.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  23 de 49 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Septiembre 2018**  <p> **Codigo:SPA-AF-01/6** |  
 
 
-![reposiciondecomprasygastos2](./img.areadefinanzas/reposiciondecomprasygastos2.jpg) 
+![reposiciondecomprasygastos2](https://i.imgur.com/nxKeSio.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  24 de 49 |
 |--|--|--|
@@ -360,7 +361,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento | Actualización de carpetas para pagos a proveedores mayores a $2,000.00  |
 |Puesto| Auxiliar de finanzas |
 
-![actualizaciondecarpetas](./img.areadefinanzas/actualizaciondecarpetas.jpg)
+![actualizaciondecarpetas](https://i.imgur.com/4Tc8pKT.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  27 de 49 |
 |--|--|--|
@@ -397,7 +398,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento | Archivar polizas de cheques  |
 |Puesto| Auxiliar de finanzas |
 
-![archivarpolizasdecheques](./img.areadefinanzas/archivarpolizasdecheque.jpg) 
+![archivarpolizasdecheque](https://i.imgur.com/LBtY0j9.jpg)
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  30 de 49 |
@@ -436,7 +437,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento | Concentrado de ventas   |
 |Puesto| Auxiliar de finanzas |
 
-![concentradodevenas](./img.areadefinanzas/concentradodeventas.jpg) 
+![concentradodeventas](https://i.imgur.com/yRvmUnQ.jpg)
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  33 de 49 |
@@ -474,7 +475,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento | Control de transferencias entre sucursal y almacén |
 |Puesto| Auxiliar de finanzas |
 
-![controldetransferencias](./img.areadefinanzas/controldetransferencias.jpg) 
+![controldetransferencias](https://i.imgur.com/FvZs0q1.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  36 de 49 |
 |--|--|--|
@@ -508,20 +509,14 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ## Anexo 1. Contra recibo
 
-![contrarecibo](./img.areadefinanzas/contrarecibo.jpg)
+![contrarecibo](https://i.imgur.com/lZZL6TV.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  39 de 49 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Septiembre 2018**  <p> **Codigo:SPA-AF-01** |
 
 **Instrucciones de llenado:**
-**1. Fecha:** Se anota la fecha en el que se está recibiendo el documento (factura)
-**2. Número:** Anotar el numero consecutivo del contra recibo 
-**3. Recibimos de:** Nombre completo del proveedor que nos está entregando el documento
-**4. Datos de los documentos a revisión:** En este apartado va el número consecutivo de las facturas o documentos que se están recibiendo, la fecha que trae cada documento y el importe total de cada uno; por último se suma todos los importes y se saca el total de los documentos recibidos 
-**5. Fecha de pago:** Anotar la fecha de vencimiento de los documentos 
-**6. Firma:** Poner la firma del responsable quien recibe los documentos 
-**7. Sello:** Poner el sello de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
+**1. Fecha:** Se anota la fecha en el que se está recibiendo el documento (factura) <p> **2. Número:** Anotar el numero consecutivo del contra recibo  <p> **3. Recibimos de:** Nombre completo del proveedor que nos está entregando el documento <p> **4. Datos de los documentos a revisión:** En este apartado va el número consecutivo de las facturas o documentos que se están recibiendo, la fecha que trae cada documento y el importe total de cada uno; por último se suma todos los importes y se saca el total de los documentos recibidos <p> **5. Fecha de pago:** Anotar la fecha de vencimiento de los documentos <p> **6. Firma:** Poner la firma del responsable quien recibe los documentos <p> **7. Sello:** Poner el sello de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  40 de 49 |
@@ -529,8 +524,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Septiembre 2018**  <p> **Codigo:SPA-AF-01** |
 
 ##Anexo 2. Vale provisional de caja
-
-![valeprovisional](./img.areadefinanzas/valedecajaprovisional.jpg) 
+ 
+ ![valedecajaprovisional](https://i.imgur.com/bWtCCvm.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  41 de 49 |
 |--|--|--|
@@ -539,12 +534,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 **Instructivo de llenado:**
 
-**1. La cantidad:** Deberá poner la cantidad pagada en número 
-**2. Letra del monto pagado:** Escribir con letra la cantidad pagada completamente sin abreviaturas   
-**3. Concepto:** Deberá comenzar el concepto con “pago a” seguido del nombre de la persona que realizo el servicio, después el tipo de servicio que realizó y por último el Número de factura pagada 
-**4. Fecha:** Indicar la fecha del día en que se realizó el pago
-**5. Nombre y firma de quien lo autorizo:** Agregar el nombre completo sin abreviaturas de la persona que autoriza el vale y la firma   
-**6. Nombre y firma de quien recibió el efectivo:** Agregar el nombre completo sin abreviaturas de la persona que recibió el efectivo y la firma  
+**1. La cantidad:** Deberá poner la cantidad pagada en número <p> 
+**2. Letra del monto pagado:** Escribir con letra la cantidad pagada completamente sin abreviaturas  <p> **3. Concepto:** Deberá comenzar el concepto con “pago a” seguido del nombre de la persona que realizo el servicio, después el tipo de servicio que realizó y por último el Número de factura pagada <p> **4. Fecha:** Indicar la fecha del día en que se realizó el pago <p> **5. Nombre y firma de quien lo autorizo:** Agregar el nombre completo sin abreviaturas de la persona que autoriza el vale y la firma   <p> **6. Nombre y firma de quien recibió el efectivo:** Agregar el nombre completo sin abreviaturas de la persona que recibió el efectivo y la firma  
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página  42 de 49 |
 |--|--|--|
@@ -552,7 +543,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ## Anexo 3. Concentrado de créditos y préstamos personales  
 
-![concentradodecreditos](./img.areadefinanzas/concentradodecreditosyprestamos.jpg) 
+![concentradodecreditosyprestamos](https://i.imgur.com/yQ7odnX.jpg) 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  43 de 49 |
 |--|--|--|
@@ -560,11 +551,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 **Instructivo de llenado:**
 
-**1. Título del documento:** El documento deberá estar nombrado como “Concentrado de préstamos y créditos de los trabajadores”
-**2. Fecha:** Periodo en el que se está tomando en cuenta los préstamos y créditos para su posterior descuento 
-**3. Concepto:** Debe especificar si es un préstamo con la letra (P) o si es un crédito con la letra (C) 
-**4. Nombre:** Nombre completo del trabajador sin abreviaturas 
-**5. Importe:** Cantidad en número a descontar al trabajador
+**1. Título del documento:** El documento deberá estar nombrado como “Concentrado de préstamos y créditos de los trabajadores” <p> **2. Fecha:** Periodo en el que se está tomando en cuenta los préstamos y créditos para su posterior descuento <p> **3. Concepto:** Debe especificar si es un préstamo con la letra (P) o si es un crédito con la letra (C) <p> **4. Nombre:** Nombre completo del trabajador sin abreviaturas <p> **5. Importe:** Cantidad en número a descontar al trabajador
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  44 de 49 |
@@ -572,8 +559,10 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Septiembre 2018**  <p> **Codigo:SPA-AF-01** |
 
 
-## ANEXO 4. 
-![concentradodeproveedores](./img.areadefinanzas/concentradodeproveedoresmayoresde$2000.jpg) 
+## ANEXO 4. Concentrado de pagos a proveedores mayores de $2,000.00
+
+![concentradodeproveedoresmayoresde$2000](https://i.imgur.com/PwGefVU.jpg)
+ 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  45 de 49 |
 |--|--|--|
@@ -581,13 +570,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 **Instructivo de llenado:**
 
-**1. Encabezado:** Deberá ir el nombre completo del proveedor al que se le tiene pendiente un adeudo mayor a $2,000.00
-**2. Fecha:** Anotar la fecha en el que el proveedor nos entregó la factura 
-**3. Factura:** Deberá agregar el número de la factura 
-**4. Folio:** Se debe poner el folio interno de la factura recibida 
-**5. Cargo:** Anotar el valor total de las compras realizadas al proveedor 
-**6. Abono:** Van todos los pagos hechos en el día correspondiente  
-**7. Saldo:**  Es la diferencia entre el cargo y abono, es decir, es la cantidad pendiente de cubrir 
+**1. Encabezado:** Deberá ir el nombre completo del proveedor al que se le tiene pendiente un adeudo mayor a $2,000.00 <p> **2. Fecha:** Anotar la fecha en el que el proveedor nos entregó la factura <p> **3. Factura:** Deberá agregar el número de la factura <p> **4. Folio:** Se debe poner el folio interno de la factura recibida <p> **5. Cargo:** Anotar el valor total de las compras realizadas al proveedor <p> **6. Abono:** Van todos los pagos hechos en el día correspondiente  <p> **7. Saldo:**  Es la diferencia entre el cargo y abono, es decir, es la cantidad pendiente de cubrir 
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  46 de 49 |
@@ -596,7 +579,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ## Anexo 5. Concentrado de ventas 
 
-![concentradodeventas](./img.areadefinanzas/concentradodeventas2.jpg) 
+![concentradodeventas2](https://i.imgur.com/UlnRzqd.jpg)
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  47 de 49 |
@@ -605,13 +588,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 **Instructivo de llenado:**
 
-**1. Encabezado:** Deberá ir concentrado de ventas, seguido de la sucursal que corresponda 
-**2. Fecha:** Anotar la fecha del día correspondiente del registro de la venta
-**3. Núm. de tabular:** Deberá agregar el número del tabular de corte de caja del día correspondiente 
-**4. Ventas electrónicas:** Se debe poner el total de ventas de tarjetas que vega en el tabular 
-**5. Venta total:** Son las ventas totales del día que vienen en la tira de auditoria que emite Wincaja
-**6. Vales:** Total de vales de papel 
-**7. Saldo:** Son las sumas totales de cada columna durante todo el mes 
+**1. Encabezado:** Deberá ir concentrado de ventas, seguido de la sucursal que corresponda <p> **2. Fecha:** Anotar la fecha del día correspondiente del registro de la venta <p> **3. Núm. de tabular:** Deberá agregar el número del tabular de corte de caja del día correspondiente <p> **4. Ventas electrónicas:** Se debe poner el total de ventas de tarjetas que vega en el tabular <p> **5. Venta total:** Son las ventas totales del día que vienen en la tira de auditoria que emite Wincaja <p> **6. Vales:** Total de vales de papel <p> **7. Saldo:** Son las sumas totales de cada columna durante todo el mes 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  48 de 49 |
 |--|--|--|
@@ -619,7 +596,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ## Anexo 6. Concentrado de transferencias entre sucursal y almacén 
 
-![concentradodetrasnferencias](./img.areadefinanzas/transferenciadealmacenysucursal.jpg)
+![transferenciadealmacenysucursal](https://i.imgur.com/jR7SBtk.jpg)
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS  | Página  49 de 49 |
@@ -628,15 +605,4 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 **Instructivo de llenado**
 
-**1. Encabezado:** Deberá poner transferencias de almacén seguido con la sucursal correspondiente 
-**2. Fecha:** Anotar la fecha del día que se realizó dicha transferencia 
-**3. Documento:** Agregar el número de documento de la transferencia correspondiente en el cual cada sucursal es diferente:
-* Zaragoza: T01
-* Victoria: T20 y T21
-* Jaltipán*: T40 Y T44
-* Oluta: T50
-
-**4. Folio:** Agregar el número de folio del documento de la transferencia 
-**5. Cargo:** Anotar el valor total de las transferencias 
-**6. Abono:** Son las devoluciones a almacén, venas electrónicas del mes, pagos a proveedores y los pagos de trasferencias entre sucursales  
-**7. Saldo:** Total real del mes sea a favor o en contra es el saldo con el que se comienza en él es siguiente 
+**1. Encabezado:** Deberá poner transferencias de almacén seguido con la sucursal correspondiente <p> **2. Fecha:** Anotar la fecha del día que se realizó dicha transferencia <p> **3. Documento:** Agregar el número de documento de la transferencia correspondiente en el cual cada sucursal es diferente: <p> * Zaragoza: T01 <p> * Victoria: T20 y T21 <p> * Jaltipán: T40 Y T44 <p> *Oluta: T50  <p> **4. Folio:** Agregar el número de folio del documento de la transferencia <p> **5. Cargo:** Anotar el valor total de las transferencias <p> **6. Abono:** Son las devoluciones a almacén, venas electrónicas del mes, pagos a proveedores y los pagos de trasferencias entre sucursales <p> **7. Saldo:** Total real del mes sea a favor o en contra es el saldo con el que se comienza en él es siguiente 
