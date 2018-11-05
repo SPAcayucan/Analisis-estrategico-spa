@@ -331,9 +331,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
-| **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Agregar horas extras en Aspel-NOI  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es solo cuando se presenta la situación de que un trabajador haya trabajado más tiempo de lo establecido   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de los pagos de horas extras en el sistema de Aspel-NOI de cada trabajador . <p> **ALCANCE:** <p> Aplica al contador general tener el acceso al programa de Aspel-NOI Y agregar las horas extras de los trabajadores   <p> **POLITICAS:**<p> Todo trabajador tiene derecho de recibir un pago extra por trabajar más tiempo de lo que sea su jornada laboral  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda dar avizo de las horas extras de sus trabajadores a cargo <p> Es responsabilidad del contador general agregar las horas extras en la nómina correspondiente  <p> **DEFINICIONES:** <p> **Hora extra :**  <p> **Aspel-NOI** |
-
-
+| **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Agregar horas extras en Aspel-NOI  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es solo cuando se presenta la situación de que un trabajador haya trabajado más tiempo de lo establecido   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de los pagos de horas extras en el sistema de Aspel-NOI de cada trabajador . <p> **ALCANCE:** <p> Aplica al contador general tener el acceso al programa de Aspel-NOI Y agregar las horas extras de los trabajadores   <p> **POLITICAS:**<p> Todo trabajador tiene derecho de recibir un pago extra por trabajar más tiempo de lo que sea su jornada laboral  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda dar avizo de las horas extras de sus trabajadores a cargo <p> Es responsabilidad del contador general agregar las horas extras en la nómina correspondiente  <p> **DEFINICIONES:** <p> **Hora extra :** Las horas extras, también llamadas horas extraordinarias, son el tiempo adicional que un empleado dedica a sus actividades laborales más allá de su horario habitual  <p> **Aspel-NOI:** Sistema de Nómina Integral que Controla y automatiza todos los aspectos de la nómina y emite recibos de nómina electrónicos de acuerdo con la Reforma Fiscal vigente. Realiza un fácil, correcto y preciso cálculo de impuestos y aportaciones de seguridad social. |
 
 
 
@@ -347,7 +345,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 |No.|Actividad|Documento|
 |--|--|--|
-||||
-|| ||
-||||
-||||
+|1|Ingresar al programa de Aspel-NOI, seleccionar a la empresa en la cual vamos a trabajar en este caso SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V y poner la contraseña para poder ingresar ||
+|2|Ingresa al menú Nómina y selecciona Trabajadores. Dentro del catálogo selecciona el trabajador que se le agregara las horas extras; posteriormente selecciona el icono “Agregar”            de la barra de herramientas ||
+|3|Seleccionar la opción de horas extras ||
+|4|Agregar el monto ||
+|5|Clic en aceptar ||
