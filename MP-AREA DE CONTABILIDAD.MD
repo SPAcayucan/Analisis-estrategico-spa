@@ -331,7 +331,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
-| **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Agregar horas extras en Aspel-NOI  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es solo cuando se presenta la situación de que un trabajador haya trabajado más tiempo de lo establecido   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de los pagos de horas extras en el sistema de Aspel-NOI de cada trabajador . <p> **ALCANCE:** <p> Aplica al contador general tener el acceso al programa de Aspel-NOI Y agregar las horas extras de los trabajadores   <p> **POLITICAS:**<p> Todo trabajador tiene derecho de recibir un pago extra por trabajar más tiempo de lo que sea su jornada laboral  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda dar avizo de las horas extras de sus trabajadores a cargo <p> Es responsabilidad del contador general agregar las horas extras en la nómina correspondiente  <p> **DEFINICIONES:** <p> **Hora extra :** Las horas extras, también llamadas horas extraordinarias, son el tiempo adicional que un empleado dedica a sus actividades laborales más allá de su horario habitual  <p> **Aspel-NOI:** Sistema de Nómina Integral que Controla y automatiza todos los aspectos de la nómina y emite recibos de nómina electrónicos de acuerdo con la Reforma Fiscal vigente. Realiza un fácil, correcto y preciso cálculo de impuestos y aportaciones de seguridad social. |
+| **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Agregar horas extras en Aspel-NOI  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es solo cuando se presenta la situación de que un trabajador haya trabajado más tiempo de lo establecido   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de los pagos de horas extras en el sistema de Aspel-NOI de cada trabajador. <p> **ALCANCE:** <p> Aplica al contador general tener el acceso al programa de Aspel-NOI Y agregar las horas extras de los trabajadores   <p> **POLITICAS:**<p> Todo trabajador tiene derecho de recibir un pago extra por trabajar más tiempo de lo que sea su jornada laboral  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda dar aviso de las horas extras de sus trabajadores a cargo <p> Es responsabilidad del contador general agregar las horas extras en la nómina correspondiente  <p> **DEFINICIONES:** <p> **Hora extra :** Las horas extras, también llamadas horas extraordinarias, son el tiempo adicional que un empleado dedica a sus actividades laborales más allá de su horario habitual  <p> **Aspel-NOI:** Sistema de Nómina Integral que Controla y automatiza todos los aspectos de la nómina y emite recibos de nómina electrónicos de acuerdo con la Reforma Fiscal vigente. Realiza un fácil, correcto y preciso cálculo de impuestos y aportaciones de seguridad social. |
 
 
 
@@ -350,3 +350,124 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Seleccionar la opción de horas extras ||
 |4|Agregar el monto ||
 |5|Clic en aceptar ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  27 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/6**| 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Descansar el archivo XML |
+|Puesto|Auxiliar contable |
+
+![archivo XML](https://i.imgur.com/4XzfWCn.jpg)
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  28 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/6**|  
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Descargar el archivo  XML <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria cuando se realiza un registro de egresos en Aspel-COI  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Poder contabilizar completamente cada póliza en ASPEL-COI y que este esté respaldado con el archivo XML, cumpliendo con las nuevas disposiciones de contabilidad electrónica. <p> **ALCANCE:** <p> Aplica al auxiliar contable tener el acceso y disposición de la cuenta de la empresa del SAT para descargar los archivos de XML de las facturas recibidas   <p> **POLITICAS:**<p> Llevar la contabilidad electrónica diaria de la empresa cumpliendo con las nuevas disposiciones  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable realizar las descargas de los archivos XML y ponerlos en la póliza correspondiente <p> **DEFINICIONES:** <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa <p> **Archivo XML:** Es un archivo electrónico que almacena el detalle de un CFDI, en base a reglas y estándares que el SAT-SCHP determina necesarias para validar la autenticidad de la misma. |
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  29 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/6**|  
+
+|PROCEDIMIENTO: DESCARGAR EL ARCHIVO XML |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar a la página del SAT https://www.sat.gob.mx/empresas||
+|2|Seleccionar donde dice factura electrónica; se desglosará varias opciones en el cual, selecciona la opción cancela y recupera tus facturas  ||
+|3|Llenar los datos solicitados para ingresar: el RFC y la contraseña||
+|4|Aparecera una ventana en el cual se selecciona la que dice consulta de facturas recibidas||
+|5|Seleccionar el año. mes y día que queremos para descargar el XML y descargamos||
+|6|Guardar el comprimido en una carpeta que sea del mismo mes para que se localice más rápido ||
+|7|Buscar el comprimido y dar clic derecho aparece varias opciones en que cual selecciona el que dice extraer; esto hará que se copien el contenido del comprimido afuera en la carpeta que tenemos y esto facilitara a la hora de buscar el XML ||
+|8|Borrar el comprimido porque ya extrajimos los archivos en la carpeta y ya no lo necesitamos ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  30 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**|   
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Contabilización de egresos|
+|Puesto|Auxiliar contable |
+
+![contabilización de egresos ](https://i.imgur.com/nGq6W6j.jpg) 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  31 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**|   
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Contabilización de egresos <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria ya que todos los días se llevan a cabo egresos en la empresa <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar una buena contabilidad de todos los pagos emitidos en cada sucursal <p> **ALCANCE:** <p> Aplica al auxiliar contable tener el acceso del programa de Aspel-COI para generar las pólizas de egresos correspondientes de cada sucursal  <p> **POLITICAS:**<p> Llevar la contabilidad electrónica diaria de la empresa cumpliendo con las nuevas disposiciones  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable llevar acabo la captura electrónica contable de los egresos de todo el súper  <p> **DEFINICIONES:** <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa <p> **Póliza de egreso:** Es un formato que tiene la función de servir como comprobante físico de una operación de salida de dinero de una compañía o negocio.| 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  32 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**| 
+
+|PROCEDIMIENTO: CONTABILIZACIÓN DE EGRESOS|
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Recibir los Lefort de los egresos de cada sucursal||
+|2| Abrir el programa llamado Aspel-COI 8.0 ||
+|3|Seleccionar cuentas y pólizas ||
+|4|Clic en pólizas y posteriormente en agregar esto para cada asiento contable que vayamos a registrar||
+|5|Llenar los datos que pide el programa como: <p> *Escoger el tipo de póliza que se va realizar puede ser de egresos o de vez en cuando se ocupa la de diario <p> *Agregar el número de cheque <p> *Poner la fecha que se viene en el cheque <p> *Agregar un concepto dependiendo el caso y seguido la sucursal al que pertenezca la póliza ||
+|6|Llenar los datos requeridos del asiento contable: <p> *No. De cuenta: va el número de cuenta del proveedor <p> *Concepto de movimiento: Buscar el proveedor y agregar el folio interno <p> *Debe o Haber: la cantidad que aparezca en la factura o cheque; va dependiendo del caso que se trate ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  33 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**| 
+
+|PROCEDIMIENTO: CONTABILIZACIÓN DE EGRESOS|
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|7|Agregar el XML de la factura después de poner la cantidad de cargo o abono cualquiera que sea el caso; ya que el programa nos lo pide automáticamente: <p> *Aparecerá una venta que dice “agregar datos de comprobantes” <p> *Clic en el icono que dice agregar comprobante <p> *Buscar el XML correspondiente a la factura y seleccionar <p> *Clic en SI; a la confirmación que aparece <p> *Clic en aceptar ||
+|8|Al término de cada póliza aparecerá una venta que dice captura de operaciones con terceros; se tiene que checar que estén bien los impuestos (IVA, IEPS, ETC) generados en la factura  ||
+|9|Dar guardar; así sucesivamente hasta terminar de capturar todos los egresos del Lefort ||
+|10|Imprimir las pólizas, para estos sigue los siguientes pasos: <p> *Seleccionar en la barra de herramientas donde dice reportes <p> *Aparecerá una ventana llamada reporte de emisión de pólizas; debe seleccionar el tipo de póliza se va a imprimir en este caso será de egresos y agregar el rango, es decir, desde que número de póliza y hasta que numero de póliza es la que va a imprimir ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  34 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**| 
+
+|PROCEDIMIENTO: CONTABILIZACIÓN DE EGRESOS|
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+||* Guardar; y ya podremos ver cada registro que capturamos y podremos imprimir cada uno  ||
+|11|Archivar al Lefort; el registro contable generado en Aspel-COI en cada póliza de cheque o de trasferencia.|| 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  35 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Generar reportes de auxiliares 	|
+|Puesto|Auxiliar contable |
+
+![generar reportes de auxiliares ](https://i.imgur.com/VmQKPFJ.jpg) 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  36 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Generar reportes de auxiliares  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es frecuentemente al checar los movimientos de cada cuenta <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener información detallada de los movimientos de cada cuenta <p> **ALCANCE:** <p> Aplica al auxiliar contable tener el acceso del programa de Aspel-COI para generar los reportes auxiliares  <p> **POLITICAS:**<p> Llevar la contabilidad electrónica diaria de la empresa cumpliendo con las nuevas disposiciones  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable llevar acabo la captura electrónica contable de los movimientos de cada cuenta  <p> **DEFINICIONES:** <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa  | 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  37 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
