@@ -503,7 +503,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento |Capturar  tabulares en Excel 	|
 |Puesto|Auxiliar contable |
 
-![Uploading captura de tabulres en excel.jpg… (1jtkrqnfq)]()
+![captura de tabulares en excel](https://i.imgur.com/9GIHXof.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  40 de 49 |
 |--|--|--|
@@ -530,8 +530,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Pintar de amarillo la captura del tabular que este completo y al día que corresponde la captura.||
 |7|Pintar de naranja cuando se haya hecho la captura de los tabulares con más de un día al de su captura y sean varias al mismo tiempo ||
 |8|Pintar de verde cuando no se tenga la ficha de deposito ||
-|9|guardar los registros||
-|10|Realizar esto todos los días hasta que sea fin de mes para poder tener el concentrado||
+|9|guardar los registros. Realizar esto todos los días hasta que sea fin de mes para poder tener el concentrado||
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  42 de 49 |
 |--|--|--|
@@ -540,5 +539,90 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Diagrama de flujo||
 |--|--|
 |Procedimiento |Realizar el concentrado de los tabulares en Excel|
+|Puesto|Auxiliar contable | 
+
+![concentrado de tabulares ](https://i.imgur.com/zDGUU2v.jpg)
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  43 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/10**| 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p>Realizar el concentrado de los tabulares en Excel     <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de mes <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener en un solo documento los ingresos del mes de cada sucursal <p> **ALCANCE:** <p>  Aplica al auxiliar contable  tener el acceso y control del registro de los tabulares para realizar el concentrado de estos.   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales y de realizar el concentrado de cada sucursal al finalizar el mes   <p> **DEFINICIONES:** <p> **Excel:** Es una aplicación de hojas de cálculo que forma parte de la suite de oficina Microsoft Office. Es una aplicación utilizada en tareas financieras y contables, con fórmulas, gráficos y un lenguaje de programación.  <p> **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago  | 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  44 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/10**| 
+
+|PROCEDIMIENTO: REALIZAR EL CONCENTRADO DE LOS TABULARES EN EXCEL |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar a la plantilla de Excel donde se lleva a cabo la captura de los tabulares|
+|2|Copiar y pegar el ultimo concentrado de los tabulares de Excel para poder tener las formulas y datos ya predeterminados||
+|3|Borrar la información anterior para dejar solo los encabezados, es decir la estructura del concentrado.||
+|4|Poner el mes en el que estas realizando el concentrado y la sucursal  |Concentrado de tabulares |
+|5|Llenar los datos que el concentrado requiere: <p> *Día: Anotar el día del tabular va en orden desde el primer día del mes hasta el ultimo <p> *Total de ventas: Anotar el total de la venta del día que viene en el tabular <p> *Suma: es el resultado de la suma de las ventas totales del día  || 
+|6 |||
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  45 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Captura de tabulares en Aspel-COI|
+|Puesto|Auxiliar contable | 
+
+![captura de tabulares en Aspel-coi](https://i.imgur.com/xzmvlXE.jpg)
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  46 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de tabulares en Aspel-COI     <p> **FRECUENCIA:**  <p> La realización de dicha actividad es  diaria <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener la contabilidad electrónica de los ingresos de cada sucursal<p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso al programa de Aspel-COI para la capturación de los tabulares   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales en el programa de Aspel-COI  <p> **DEFINICIONES:** <p>  **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa    |
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  47 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
+
+|PROCEDIMIENTO: CAPTURA DE TABULARES EN ASPEL-COI |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Tener el concentrado de los tabulares del mes.||
+|2|Entrar a Aspel-COI y seleccionar la sucursal en el que se va registrar el concentrado de los ingresos; poner la contraseña para poder ingresar al programa||
+|3|Poner el periodo en el que se va a trabajar y el mes ||
+|4|Clic en agregar póliza: llenar los datos necesarios para la realización de la póliza: <p> *Agregar el tipo de póliza en este caso será la de ingresos (Ig) <p> *Fecha del tabular <p> *Concepto de la póliza <p> *Cuenta en el que los folios de los tabulares  <p> *Concepto de movimiento; poner la sucursal y los folios de los tabulares  <p> *Agregar los cargos y abonos de los tabulares ||
+|5|Sacar un auxiliar en este caso la balanza de comprobación: solo damos clic en balanza y ya está nuestro auxiliar ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  48 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
+
+|PROCEDIMIENTO: CAPTURA DE TABULARES EN ASPEL-COI |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|6|Ir a la cuenta de ventas y verificar que este en 0; si hay diferencias se tiene que buscar el problema y corregirlo||
+|7|Imprimir las pólizas de ingresos ||
+|8|Anexar las pólizas de ingresos en el Lefort de los tabulares || 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  49 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/12**| 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Registro de fichas pendientes de tabulares en Aspel-COI|
 |Puesto|Auxiliar contable | 
 
