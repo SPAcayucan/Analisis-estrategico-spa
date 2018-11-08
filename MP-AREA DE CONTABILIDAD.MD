@@ -179,7 +179,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
-| **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Elaboración de nóminas   <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de semana   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Generar comprobantes de información de los pagos de los trabajadores cada semana  <p> **ALCANCE:** <p> Aplica al contador general el acceso de la información de los trabajadores para poder realizar las nóminas de cada semana y al jefe de finanzas para realizar el pago de las nóminas  <p> **POLITICAS:**<p> La empresa otorga a todo trabajador un comprobante de pago cada fin de semana   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del Contador general solicitar los documentos necesarios para realizar las nóminas de cada sucursal y de la elaboración de las mismas  <p> Es responsabilidad del Jefe de finanzas realizar los pagos de las nóminas semanales  <p> **DEFINICIONES:** <p> **Nómina:** Se refiere a la cantidad pagada a los empleados por los servicios que prestaron durante un cierto período de tiempo <p> **Aspel-Noi:** Sistema de Nómina Integral que Controla y automatiza todos los aspectos de la nómina y emite recibos de nómina electrónicos de acuerdo con la Reforma Fiscal vigente. Realiza un fácil, correcto y preciso cálculo de impuestos y aportaciones de seguridad social. <p> **Excel:** es una aplicación de hojas de cálculo que forma parte de la suite de oficina Microsoft Office. Es una aplicación utilizada en tareas financieras y contables, con fórmulas, gráficos y un lenguaje de programación. |
+| **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Elaboración de nóminas   <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de semana   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Generar comprobantes de información de los pagos de los trabajadores cada semana  <p> **ALCANCE:** <p> Aplica al contador general el acceso de la información de los trabajadores para poder realizar las nóminas de cada semana y al jefe de finanzas para realizar el pago de las nóminas  <p> **POLITICAS:**<p> La empresa otorga a todo trabajador un comprobante de pago cada fin de semana   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del Contador general solicitar los documentos necesarios para realizar las nóminas de cada sucursal y de la elaboración de las mismas  <p> Es responsabilidad del Jefe de finanzas realizar los pagos de las nóminas semanales  <p> **DEFINICIONES:** <p> **Nómina:** Se refiere a la cantidad pagada a los empleados por los servicios que prestaron durante un cierto período de tiempo <p> **Aspel-Noi:** Sistema de Nómina Integral que Controla y automatiza todos los aspectos de la nómina y emite recibos de nómina electrónicos de acuerdo con la Reforma Fiscal vigente. Realiza un fácil, correcto y preciso cálculo de impuestos y aportaciones de seguridad social. <p> **Excel:** Es una aplicación de hojas de cálculo que forma parte de la suite de oficina Microsoft Office. Es una aplicación utilizada en tareas financieras y contables, con fórmulas, gráficos y un lenguaje de programación. |
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  14 de 49 |
@@ -471,3 +471,74 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  37 de 49 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
+
+|PROCEDIMIENTO: GENERAR REPORTES DE AUXILIARES |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar a Aspel-COI y seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; posteriormente poner la contraseña para poder ingresar al programa ||
+|2|Seleccionar en la barra de herramientas en donde dice reportes||
+|3|Clic en auxiliares <p> Aparecerá una ventana en el cual debe de llenar los datos para poder generar el reporte: <p> *No de cuenta; va el no. De cuenta del proveedor son 12 dígitos en el cada tres dígitos corresponden a algo especifico <p>  xxx       xxx     xxx     xxx  <p> *Los primeros tres son de la cuenta del proveedor  <p> *Los siguientes tres son del orden en que se guardó al proveedor   <p> *Los otros tres son de la clave del proveedor <p> *Los últimos tres dígitos pertenecen a la sucursal a la que pertenece  <p> Esta clave se pone en desde y hasta; depende de que proveedor queremos ver el reporte  ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  38 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
+
+|PROCEDIMIENTO: GENERAR REPORTES DE AUXILIARES |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|4|Agregar el periodo , es decir ,desde y hasta que día queremos el reporte ||
+|5|Clic en aceptar; ya nos aparecerá el reporte que necesitamos ||
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  39 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/9**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Capturar  tabulares en Excel 	|
+|Puesto|Auxiliar contable |
+
+![Uploading captura de tabulres en excel.jpg… (1jtkrqnfq)]()
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  40 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/9**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Capturar  tabulares en Excel    <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria<p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener un registro de todos los ingresos diarios obtenidos en cada sucursal <p> **ALCANCE:** <p>  Aplica al auxiliar contable  tener el acceso y control de los tabulares emitidos por las cajeras   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de finanzas mandar los tabulares al auxiliar contable <p>  Es responsabilidad del auxiliar contable llevar acabo la captura de todos los tabulares emitidos en cada sucursal  <p> **DEFINICIONES:** <p> **Excel:** Es una aplicación de hojas de cálculo que forma parte de la suite de oficina Microsoft Office. Es una aplicación utilizada en tareas financieras y contables, con fórmulas, gráficos y un lenguaje de programación.  <p> **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago  | 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  41 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/9**|
+
+|PROCEDIMIENTO: CAPTURAR TABULARES EN EXCEL  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Recibir los tabulares del área de finanzas; de cada sucursal un día después de que los tabulares fueron emitidos en caja|Tabulares de corte de caja|
+|2|Abrir la carpeta que dice tabulares que se encuentra en documentos||
+|3|Clic en la plantilla que sea del año en el que se va capturar los tabulares ||
+|4|Abrir la pestaña que sea de la sucursal que se vaya a capturar; cada sucursal esta por separado ||
+|5|Llenar los siguientes datos dentro del Excel: fecha, faltantes, tabulares, importe y concepto de acuerdo a cada tabular||
+|6|Pintar de amarillo la captura del tabular que este completo y al día que corresponde la captura.||
+|7|Pintar de naranja cuando se haya hecho la captura de los tabulares con más de un día al de su captura y sean varias al mismo tiempo ||
+|8|Pintar de verde cuando no se tenga la ficha de deposito ||
+|9|guardar los registros||
+|10|Realizar esto todos los días hasta que sea fin de mes para poder tener el concentrado||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  42 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/10**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Realizar el concentrado de los tabulares en Excel|
+|Puesto|Auxiliar contable | 
+
