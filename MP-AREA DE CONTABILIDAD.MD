@@ -565,7 +565,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Borrar la información anterior para dejar solo los encabezados, es decir la estructura del concentrado.||
 |4|Poner el mes en el que estas realizando el concentrado y la sucursal  |Concentrado de tabulares |
 |5|Llenar los datos que el concentrado requiere: <p> *Día: Anotar el día del tabular va en orden desde el primer día del mes hasta el ultimo <p> *Total de ventas: Anotar el total de la venta del día que viene en el tabular <p> *Suma: es el resultado de la suma de las ventas totales del día  || 
-|6 |||
+|6 |Imprimir el concentrado el fin de mes||
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  45 de 49 |
@@ -586,7 +586,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
-|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de tabulares en Aspel-COI     <p> **FRECUENCIA:**  <p> La realización de dicha actividad es  diaria <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener la contabilidad electrónica de los ingresos de cada sucursal<p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso al programa de Aspel-COI para la capturación de los tabulares   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales en el programa de Aspel-COI  <p> **DEFINICIONES:** <p>  **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa    |
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de tabulares en Aspel-COI     <p> **FRECUENCIA:**  <p> La realización de dicha actividad es  diaria <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener la contabilidad electrónica de los ingresos de cada sucursal<p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso al programa de Aspel-COI para la capturación de los tabulares   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales en el programa de Aspel-COI  <p> **DEFINICIONES:** <p>  **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa   |
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  47 de 49 |
@@ -601,7 +601,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |1|Tener el concentrado de los tabulares del mes.||
 |2|Entrar a Aspel-COI y seleccionar la sucursal en el que se va registrar el concentrado de los ingresos; poner la contraseña para poder ingresar al programa||
 |3|Poner el periodo en el que se va a trabajar y el mes ||
-|4|Clic en agregar póliza: llenar los datos necesarios para la realización de la póliza: <p> *Agregar el tipo de póliza en este caso será la de ingresos (Ig) <p> *Fecha del tabular <p> *Concepto de la póliza <p> *Cuenta en el que los folios de los tabulares  <p> *Concepto de movimiento; poner la sucursal y los folios de los tabulares  <p> *Agregar los cargos y abonos de los tabulares ||
+|4|Clic en agregar póliza: llenar los datos necesarios para la realización de la póliza: <p> *Agregar el tipo de póliza en este caso será la de ingresos (Ig) <p> *Fecha del tabular <p> *Concepto de la póliza <p> *Cuenta en el que los folios de los tabulares  <p> *Concepto de movimiento; poner la sucursal y los folios de los tabulares  <p> *Agregar los cargos y abonos de los tabulares |Póliza de ingreso|
 |5|Sacar un auxiliar en este caso la balanza de comprobación: solo damos clic en balanza y ya está nuestro auxiliar ||
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  48 de 49 |
@@ -626,3 +626,64 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento |Registro de fichas pendientes de tabulares en Aspel-COI|
 |Puesto|Auxiliar contable | 
 
+![polizas pendientes aspel coi](https://i.imgur.com/UmhwKwB.jpg)
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  50 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/12**| 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Registro de fichas pendientes de tabulares en Aspel-COI   <p> **FRECUENCIA:**  <p> La realización de dicha actividad es frecuente cuando hay fichas pendientes de los depósitos que se generan después de la fecha  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar una buena contabilidad electrónica de los ingresos; teniendo toda la información completa anexada  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso al programa de Aspel-COI para la capturación de las fichas pendientes en los tabulares    <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de finanzas realizar los depositos de efectivo a la cuenta correspondiente de cada sucursal y mandar estas fichas al auxiliar contable para su captura <p>  Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales en el programa de Aspel-COI con sus respectivas fichas de depósito   <p> **DEFINICIONES:** <p>  **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa <p> **Ficha:** Documento que notifica que se realizó un depósito a una respectiva cuenta  |
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  51 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/12**|
+
+|PROCEDIMIENTO: CAPTURA DE TABULARES EN ASPEL-COI |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Esperar que el contador suba a Aspel-COI los costos de venta para poder registrar los tabulares pendientes ||
+|2|Clic en agregar póliza: para después llenar los datos necesarios para la realización de la póliza: <p> *Tipo de póliza: poner la de diario (Dr) <p> *Fecha: la que está en la ficha de deposito <p> *Concepto: registro pendiente de tabulares <p> *Concepto de movimiento: Registro deposito pendiente de tabulares-folio del tabular <p> *Agregar el cargo y abono correspondiente |Póliza de diario|
+|3|Imprimir la póliza de diario  || 
+|4|Anexar la póliza de diario en el Lefort de los tabulares del mes que le corresponde ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  52 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/13**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Captura de créditos de mercancías otorgados a trabajadores |
+|Puesto|Auxiliar contable | 
+
+
+
+![captura de creditos de mercancias ](https://i.imgur.com/whmMnAR.jpg)
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  53 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/13**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de créditos de mercancías otorgados a trabajadores <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria ya que los trabajadores disponen de este crédito en cualquier día   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Identificar los créditos de mercancías pagados y los faltantes por cobrar  <p> **ALCANCE:** <p>  Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la capturación de  los créditos de mercancías otorgados a trabajadores  <p> **POLITICAS:**<p> Todo trabajador  tiene la disposición  de gozar créditos de mercancías en cualquier sucursal de la empresa     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de los créditos de mercancías otorgados a los empleados de todas las sucursales en el programa de Aspel-COI   <p> **DEFINICIONES:**  <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa  |
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  54 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/13**|
+
+|PROCEDIMIENTO: CAPTURA DE CRÉDITOS DE MERCANCÍAS OTORGADOS A TRABAJADORES |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar a Aspel-COI y seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; posteriormente poner la contraseña para poder ingresar al programa ||
+|2|Poner el periodo y el mes en el vas a trabajar ||
+|3|Clic en la pestaña cuentas y pólizas; después agregar póliza||
+|4|Llenar los datos necesarios para la generación de la póliza: <p> Tipo: Poner la póliza de diario (Dr) <p> Fecha: va el día que se realiza el pago del crédito <p> Concepto: crédito de trabajadores <p>  Concepto de movimiento: registró de depósito pago créditos y la sucursal |Póliza de diario|
+|5|Agregar los cargos y abonos correspondientes en este caso para saldar la cuenta del crédito; se carga bancos y se abona créditos de trabajadores||
+|6|Imprimir la póliza de diario||
+|7|Agregar la póliza de diario en el Lefort correspondiente||
