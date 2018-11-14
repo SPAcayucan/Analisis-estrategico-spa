@@ -687,3 +687,56 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |5|Agregar los cargos y abonos correspondientes en este caso para saldar la cuenta del crédito; se carga bancos y se abona créditos de trabajadores||
 |6|Imprimir la póliza de diario||
 |7|Agregar la póliza de diario en el Lefort correspondiente||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  55 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/14**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Captura de compras |
+|Puesto|Auxiliar contable |
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  56 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/14**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de compras <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de todas las compras realizadas en cada sucursal  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso del programa de compras SPA para capturar las compras de cada sucursal  <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de las compras generadas en cada una de las sucursales en el programa de compras SPA  <p> **DEFINICIONES:**  <p> **Compras:** Hace referencia a la acción de obtener o adquirir, a cambio de un precio determinado, un producto o un servicio   |
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  57 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/14**| 
+
+|PROCEDIMIENTO: CAPTURA DE COMPRAS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Recibir las bitácoras de compras de cada sucursal  || 
+|2|Abrir el programa de compras-SPA|| 
+|3|Llenar los datos necesarios para la realización de la captura <p> Sucursal:Seleccionar la sucursal en la que se vaya registrar la compra  <p> Fecha: Poner la fecha que viene en la bitácora de compra <p> Tipo: Compras <p> Factura: Es el número o clave que está en la factura <p> Folio: Poner la referencia de la compra <p> Proveedor: Poner el nombre del proveedor que está en la factura <p> Observaciones: Anotar si existe algún inconveniente como el caso de que falte una alguna factura <p> Tasa 0 %: Poner la cantidad normal cuando no tiene IVA la factura <p> Tasa 16%: Poner la cantidad del sub total de la factura <p> IVA: se pone automáticamente <p> Subtotal: se pone automáticamente <p> Total: Se actualiza automáticamente ||
+|4|Guardar||
+|5|Avisar que se realizó el registro de las compras al contador|| 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  58 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Captura de transferencias|
+|Puesto|Auxiliar contable |
+
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  59 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de transferencias <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de todas las transferencias realizadas en cada sucursal  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso del programa de compras SPA para capturar las transferencias de cada sucursal  <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de las transferencias generadas en cada una de las sucursales en el programa de compras SPA  <p> **DEFINICIONES:**  <p> **Transferencias:** Trasladar o enviar una cosa desde un sitio hacia otro |
+
