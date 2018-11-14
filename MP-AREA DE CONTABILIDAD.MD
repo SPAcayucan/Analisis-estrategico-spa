@@ -697,6 +697,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento |Captura de compras |
 |Puesto|Auxiliar contable |
 
+![captura de compras ](https://i.imgur.com/APf6gy9.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  56 de 49 |
 |--|--|--|
@@ -718,10 +719,20 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |1|Recibir las bitácoras de compras de cada sucursal  || 
 |2|Abrir el programa de compras-SPA|| 
 |3|Llenar los datos necesarios para la realización de la captura <p> Sucursal:Seleccionar la sucursal en la que se vaya registrar la compra  <p> Fecha: Poner la fecha que viene en la bitácora de compra <p> Tipo: Compras <p> Factura: Es el número o clave que está en la factura <p> Folio: Poner la referencia de la compra <p> Proveedor: Poner el nombre del proveedor que está en la factura <p> Observaciones: Anotar si existe algún inconveniente como el caso de que falte una alguna factura <p> Tasa 0 %: Poner la cantidad normal cuando no tiene IVA la factura <p> Tasa 16%: Poner la cantidad del sub total de la factura <p> IVA: se pone automáticamente <p> Subtotal: se pone automáticamente <p> Total: Se actualiza automáticamente ||
-|4|Guardar||
-|5|Avisar que se realizó el registro de las compras al contador|| 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  58 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
+
+|PROCEDIMIENTO: CAPTURA DE COMPRAS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|4|Guardar||
+|5|Avisar que se realizó el registro de las compras al contador general|| 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  59 de 49 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
 
@@ -730,9 +741,9 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento |Captura de transferencias|
 |Puesto|Auxiliar contable |
 
+![captura de transferencias](https://i.imgur.com/oB3IzJc.jpg)
 
-
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  59 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  60 de 49 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
 
@@ -740,3 +751,104 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de transferencias <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de todas las transferencias realizadas en cada sucursal  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso del programa de compras SPA para capturar las transferencias de cada sucursal  <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de las transferencias generadas en cada una de las sucursales en el programa de compras SPA  <p> **DEFINICIONES:**  <p> **Transferencias:** Trasladar o enviar una cosa desde un sitio hacia otro |
 
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  61 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**| 
+
+|PROCEDIMIENTO: CAPTURA DE TRANSFERENCIAS   |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1| Recibir los documentos de transferencias  de cada sucursal |Transferencias| 
+|2|Abrir el programa de compras-SPA || 
+|3| Llenar los datos necesarios para la realización de la captura de transferencias , a continuación se explica  que se debe poner en cada apartado: <p> Sucursal: Seleccionar la sucursal en la que se vaya registrar la trasferencia <p> Fecha: Poner la fecha que viene en la trasferencia <p> Tipo: Transferencias <p> Factura: No hay <p> Folio: Poner el que viene en la trasferencia en dado caso que no tenga poner la fecha <p> Proveedor: No hay <p> Observaciones: Registrar el número de trasferencias <p> Tasa 0 %: Poner la cantidad normal cuando no tiene IVA la trasferencia <p> Tasa 16%: Poner la cantidad del sub total de la trasferencia <p> IVA: se pone automáticamente <p> Subtotal: se pone automáticamente <p> Total: Se actualiza automáticamente ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  62 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**| 
+
+|PROCEDIMIENTO: CAPTURA DE TRANSFERENCIAS   |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|4|Guardar||
+|5| Avisar que se realizó el registro de las trasferencias al contador general||
+
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  63 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/16**| 
+
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Registro de traspasó entre cuentas   |
+|Puesto|Auxiliar contable |
+
+![registro de traspaso entre cuentas](https://i.imgur.com/f7IuZqE.jpg) 
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  64 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/16**| 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Registro de traspasó entre cuentas <p> **FRECUENCIA:**  <p> La realización de dicha actividad  es frecuentemente en la semana   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener la información de todos los movimientos realizados en cada cuenta para su posterior conciliación <p> **ALCANCE:** <p> Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la captura de los traspasos entre las cuentas del súper <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener la captura de todos los traspasos de  las cuentas, en el programa de Aspel-COI <p> **DEFINICIONES:**  <p> **Traspaso:** También es llamado "transferencia interna", implica únicamente a una entidad bancaria <p> **Aspel-COI:** Sistema de Contabilidad Integral. Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa |
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  65 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/16**| 
+
+
+|PROCEDIMIENTO: CAPTURA DE TRANSFERENCIAS   |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar al programa de Aspel-COI  ||
+|2|Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa ||
+|3|Seleccionar el periodo y el mes en él se va a trabajar ||
+|4|Clic en la pestaña cuentas y pólizas después agregar póliza||
+|5|Llenar los datos necesarios para la generación de la póliza: <p> Tipo: Poner la póliza de egreso (Eg) <p> Fecha: va el día que se realizó el traspaso <p> Concepto: Traspasos de cuenta <p> Concepto de movimiento: Traspasos de cta. Y el número de la cuenta que da el dinero y el número de la cuenta que recibe  ||
+|6|Agregar los cargos y abonos correspondientes||
+|7|Imprimir la póliza de egreso; para su posterior archivado en la carpeta del mes correspondiente||
+
+
+
+falta la 17y 18
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  73 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/19**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Conciliación bancaria |
+|Puesto|Auxiliar contable |
+
+![conciliacion bancaria ](https://i.imgur.com/XZvzCbG.jpg)
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  74 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/19**| 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Conciliación bancaria <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de mes   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Efectuar las correcciones necesarias, para que tanto los registros contables y el banco reflejen el saldo correcto de la cuenta  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener acceso a los estados de cuenta de cada sucursal y a la contabilidad electrónica de Aspel-COI para la realización de las conciliaciones bancarias   <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos realizados en el súper, así como de realizar las conciliaciones bancarias cada fin de mes  <p> **DEFINICIONES:**  <p> **Conciliación bancaria:** Es un proceso que permite confrontar y conciliar los valores económicos que una empresa tiene registrados sobre una cuenta, ya sea corriente o de ahorro, con sus movimientos bancarios. |
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  75 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/19**| 
+
+|PROCEDIMIENTO:    |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1| Ingresar al programa de Aspel-COI   | 
+|2|  || 
