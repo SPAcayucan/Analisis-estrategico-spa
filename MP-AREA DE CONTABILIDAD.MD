@@ -24,7 +24,7 @@
 
 </div>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  2 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  2 de 75|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01**|
 
@@ -48,7 +48,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  3 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  3 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01**|
 
@@ -57,7 +57,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  4 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  4 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01**|
 
@@ -70,7 +70,7 @@ El presente Manual de Procedimientos tiene como propósito contar como una guía
 </div>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  5 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  5 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01**| 
 
@@ -92,15 +92,15 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 </div>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  6 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  6 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01**| 
 
 # Simbología de los diagramas de flujo 
+ 
+ ![simbolos](https://i.imgur.com/apYlO4i.jpg)
 
-![simbolos](./img.areadecontabilidad/simbolos.jpg) 
-
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  7 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  7 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/1**| 
 
@@ -111,14 +111,14 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![aportaciones](./img.areadecontabilidad/generaciondeaportaciones.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  8 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  8 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/1**| 
 
 ![aportaciones2](./img.areadecontabilidad/generaciondeaportaciones2.jpg) 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  9 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  9 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/1**| 
 
@@ -126,7 +126,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Generación de las aportaciones de seguridad social  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de mes   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Realizar las aportaciones necesarias a los trabajadores en el periodo correspondiente  <p> **ALCANCE:** <p> Aplica al contador general realizar la generación de las aportaciones de seguridad social y de el jefe de finanzas realizar los pagos a tiempo <p> **POLITICAS:**<p> La empresa otorga a todo trabajador las aportaciones de seguridad social    <p> **RESPONSABILIDADES:**<p> Es responsabilidad del Contador general realizar la generación de aportaciones de seguridad social cada fin de mes <p> Es responsabilidad del Jefe de finanzas realizar los pagos de las aportaciones  <p> **DEFINICIONES:** <p> **IDSE:** Sistema electrónico para empresas desarrollado por el IMSS <p> **Aportación:** Es la contribución en algo; en este caso la contribución económica a las aportaciones de seguridad social  |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  10 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  10 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/1**| 
 
@@ -145,7 +145,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  11 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  11 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/1**| 
 
@@ -162,7 +162,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |13|Recibir la documentación con el comprobante de pago; para su contabilización ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  12 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  12 de 75|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/2**| 
 
@@ -173,7 +173,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![nomina](./img.areadecontabilidad/elaboraciondenominas.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  13 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  13 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/2**| 
 
@@ -182,7 +182,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Elaboración de nóminas   <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de semana   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Generar comprobantes de información de los pagos de los trabajadores cada semana  <p> **ALCANCE:** <p> Aplica al contador general el acceso de la información de los trabajadores para poder realizar las nóminas de cada semana y al jefe de finanzas para realizar el pago de las nóminas  <p> **POLITICAS:**<p> La empresa otorga a todo trabajador un comprobante de pago cada fin de semana   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del Contador general solicitar los documentos necesarios para realizar las nóminas de cada sucursal y de la elaboración de las mismas  <p> Es responsabilidad del Jefe de finanzas realizar los pagos de las nóminas semanales  <p> **DEFINICIONES:** <p> **Nómina:** Se refiere a la cantidad pagada a los empleados por los servicios que prestaron durante un cierto período de tiempo <p> **Aspel-Noi:** Sistema de Nómina Integral que Controla y automatiza todos los aspectos de la nómina y emite recibos de nómina electrónicos de acuerdo con la Reforma Fiscal vigente. Realiza un fácil, correcto y preciso cálculo de impuestos y aportaciones de seguridad social. <p> **Excel:** Es una aplicación de hojas de cálculo que forma parte de la suite de oficina Microsoft Office. Es una aplicación utilizada en tareas financieras y contables, con fórmulas, gráficos y un lenguaje de programación. |
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  14 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  14 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/2**| 
 
@@ -197,7 +197,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Ingresar a Aspel-NOI seleccionar a la empresa en este caso SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V y poner la contraseña| |
 |4|Revisar por sucursal y agregar las incidencias; para esto sigue los siguientes pasos: <p> *Ingresa al menú Nómina > Movimientos a la Nómina > Por trabajador. <p> *Registra los datos que se solicitan, de acuerdo al movimiento que deseas registrar.||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  15 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  15 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/2**| 
 
@@ -212,7 +212,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Abrir el archivo de Excel exportado para poner los datos necesarios de cada área y sucursal en la plantilla del concentrado de movimientos de la nómina correspondiente: <p> *Filtrar por área el archivo exportado; el resultado que se obtiene se copia y pega en el archivo de Excel del periodo correspondiente “la plantilla de Excel “; hacer este paso hasta acabar con todas las áreas y sucursales ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  16 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  16 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/2**| 
 
@@ -230,7 +230,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  17 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  17 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/3**| 
 
@@ -241,7 +241,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![alta en noi](https://i.imgur.com/UEzjkTZ.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  18 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  18 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/3**| 
 
@@ -249,7 +249,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Alta de trabajadores en Aspel-NOI   <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada que hay nuevos trabajadores   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Poder controlar y automatizar la información del trabajador con respecto a la nómina, cálculo de impuestos y aportaciones de seguridad social. <p> **ALCANCE:** <p> Aplica al contador general tener el acceso al programa de Aspel-NOI y realizar las altas de trabajadores    <p> **POLITICAS:**<p> Todo trabajador tiene que estar dado de alta al programa de Aspel-NOI  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda mandar los papeles de los trabajadores nuevos en la tienda  a su cargo al contador general  <p> Es responsabilidad del contador general dar de alta a los nuevos trabajadores en la empresa en el programa de Aspel-NOI  <p> **DEFINICIONES:** <p> **Impuesto:** Es un tributo que se paga al estado para soportar los gastos públicos. Estos pagos obligatorios son exigidos tantos a personas físicas, como a personas jurídicas. <p> **Aspel-NOI:** Sistema de Nómina Integral que Controla y automatiza todos los aspectos de la nómina y emite recibos de nómina electrónicos de acuerdo con la Reforma Fiscal vigente. Realiza un fácil, correcto y preciso cálculo de impuestos y aportaciones de seguridad social. <p> **Alta:** Ingreso o inscripción al trabajador en los programas o sistemas de la empresa |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  19 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  19 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/3**| 
 
@@ -265,7 +265,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |5|Capturar la información correspondiente en cada sección: <p> • Datos Generales. <p> • Salario. <p> • Datos personales. <p> • IMSS. <p> • Salud. <p> • Fiscales, entre otros. ||
 |6|Presionar el botón “Aceptar”, o presiona el botón “Guardar (F3)”, si deseas agregar más información sin salir de la ventana. || 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  20 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  20 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/4**| 
 
@@ -276,7 +276,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![alta de trabajadores en el IDSE](https://i.imgur.com/YTd9kms.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  21 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  21 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/4**| 
 
@@ -284,7 +284,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Contador general <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Alta de trabajadores en el IDSE  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada que hay nuevos trabajadores   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Automatizar los movimientos afiliatorios de los trabajadores desde la empresa. <p> **ALCANCE:** <p> Aplica al contador general tener el acceso al sitio de el IDSE y realizar los cambios pertinentes    <p> **POLITICAS:**<p> Todo trabajador tiene que estar dado de alta en el IDSE <p> **RESPONSABILIDADES:**<p> Es responsabilidad del gerente de tienda mandar los papeles de los trabajadores nuevos en la tienda  a su cargo al contador general  <p> Es responsabilidad del contador general dar de alta a los nuevos trabajadores en la empresa en el IDSE  <p> **DEFINICIONES:** <p> **IDSE:** Significa IMSS desde su empresa en este se puedes realizar diferentes tramites como, altas, bajas, modificaciones de salario de los empleados, descargar la emisión mensual anticipada (EMA) así como la emisión bimestral anticipada (EBA) y la determinación de la prima de riesgo, la confronta, entre otros. <p> **Alta:** Ingreso o inscripción al trabajador en los programas o sistemas de la empresa  |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  22 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  22 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/4**| 
 
@@ -299,7 +299,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|Ubicar el apartado Movimientos afiliatorios y posteriormente la liga que permitirá realizar el registro del trabajador||
 |5|Agregar todos los datos o la información del trabajador que se registra: <p> *Registro patronal <p> *Tipo de movimiento: ALTA <p> *Número de seguridad social <p> *Digito verificador  ||
  
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  23 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  23 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/4**| 
 
@@ -314,7 +314,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Clic en enviar al terminar el registro; enseguida se nos requerirá que se firme el movimiento, por lo que el sistema nos solicitará que ingresemos el certificado digital con su respectiva contraseña||
 |8|Descargar el recibo que corresponde.||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  24 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  24 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/5**| 
 
@@ -325,7 +325,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![agregar horas extras en aspel-noi](https://i.imgur.com/G8XPe31.jpg) 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  25 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  25 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/5**| 
 
@@ -335,7 +335,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  26 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  26 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/5**| 
 
@@ -351,7 +351,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|Agregar el monto ||
 |5|Clic en aceptar ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  27 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  27 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/6**| 
 
@@ -362,7 +362,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![archivo XML](https://i.imgur.com/4XzfWCn.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  28 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  28 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/6**|  
 
@@ -370,7 +370,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 | **PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Descargar el archivo  XML <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria cuando se realiza un registro de egresos en Aspel-COI  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Poder contabilizar completamente cada póliza en ASPEL-COI y que este esté respaldado con el archivo XML, cumpliendo con las nuevas disposiciones de contabilidad electrónica. <p> **ALCANCE:** <p> Aplica al auxiliar contable tener el acceso y disposición de la cuenta de la empresa del SAT para descargar los archivos de XML de las facturas recibidas   <p> **POLITICAS:**<p> Llevar la contabilidad electrónica diaria de la empresa cumpliendo con las nuevas disposiciones  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable realizar las descargas de los archivos XML y ponerlos en la póliza correspondiente <p> **DEFINICIONES:** <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa <p> **Archivo XML:** Es un archivo electrónico que almacena el detalle de un CFDI, en base a reglas y estándares que el SAT-SCHP determina necesarias para validar la autenticidad de la misma. |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  29 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  29 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/6**|  
 
@@ -388,7 +388,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Buscar el comprimido y dar clic derecho aparece varias opciones en que cual selecciona el que dice extraer; esto hará que se copien el contenido del comprimido afuera en la carpeta que tenemos y esto facilitara a la hora de buscar el XML ||
 |8|Borrar el comprimido porque ya extrajimos los archivos en la carpeta y ya no lo necesitamos ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  30 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  30 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**|   
 
@@ -399,7 +399,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![contabilización de egresos ](https://i.imgur.com/nGq6W6j.jpg) 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  31 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  31 de 75|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**|   
 
@@ -407,7 +407,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Contabilización de egresos <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria ya que todos los días se llevan a cabo egresos en la empresa <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar una buena contabilidad de todos los pagos emitidos en cada sucursal <p> **ALCANCE:** <p> Aplica al auxiliar contable tener el acceso del programa de Aspel-COI para generar las pólizas de egresos correspondientes de cada sucursal  <p> **POLITICAS:**<p> Llevar la contabilidad electrónica diaria de la empresa cumpliendo con las nuevas disposiciones  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable llevar acabo la captura electrónica contable de los egresos de todo el súper  <p> **DEFINICIONES:** <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa <p> **Póliza de egreso:** Es un formato que tiene la función de servir como comprobante físico de una operación de salida de dinero de una compañía o negocio.| 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  32 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  32 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**| 
 
@@ -423,7 +423,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |5|Llenar los datos que pide el programa como: <p> *Escoger el tipo de póliza que se va realizar puede ser de egresos o de vez en cuando se ocupa la de diario <p> *Agregar el número de cheque <p> *Poner la fecha que se viene en el cheque <p> *Agregar un concepto dependiendo el caso y seguido la sucursal al que pertenezca la póliza ||
 |6|Llenar los datos requeridos del asiento contable: <p> *No. De cuenta: va el número de cuenta del proveedor <p> *Concepto de movimiento: Buscar el proveedor y agregar el folio interno <p> *Debe o Haber: la cantidad que aparezca en la factura o cheque; va dependiendo del caso que se trate ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  33 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  33 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**| 
 
@@ -437,7 +437,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |9|Dar guardar; así sucesivamente hasta terminar de capturar todos los egresos del Lefort ||
 |10|Imprimir las pólizas, para estos sigue los siguientes pasos: <p> *Seleccionar en la barra de herramientas donde dice reportes <p> *Aparecerá una ventana llamada reporte de emisión de pólizas; debe seleccionar el tipo de póliza se va a imprimir en este caso será de egresos y agregar el rango, es decir, desde que número de póliza y hasta que numero de póliza es la que va a imprimir ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  34 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  34 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/7**| 
 
@@ -449,7 +449,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ||* Guardar; y ya podremos ver cada registro que capturamos y podremos imprimir cada uno  ||
 |11|Archivar al Lefort; el registro contable generado en Aspel-COI en cada póliza de cheque o de trasferencia.|| 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  35 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  35 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
 
@@ -460,7 +460,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![generar reportes de auxiliares ](https://i.imgur.com/VmQKPFJ.jpg) 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  36 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  36 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
 
@@ -468,7 +468,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Generar reportes de auxiliares  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es frecuentemente al checar los movimientos de cada cuenta <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener información detallada de los movimientos de cada cuenta <p> **ALCANCE:** <p> Aplica al auxiliar contable tener el acceso del programa de Aspel-COI para generar los reportes auxiliares  <p> **POLITICAS:**<p> Llevar la contabilidad electrónica diaria de la empresa cumpliendo con las nuevas disposiciones  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable llevar acabo la captura electrónica contable de los movimientos de cada cuenta  <p> **DEFINICIONES:** <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa  | 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  37 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  37 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
 
@@ -481,7 +481,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |2|Seleccionar en la barra de herramientas en donde dice reportes||
 |3|Clic en auxiliares <p> Aparecerá una ventana en el cual debe de llenar los datos para poder generar el reporte: <p> *No de cuenta; va el no. De cuenta del proveedor son 12 dígitos en el cada tres dígitos corresponden a algo especifico <p>  xxx       xxx     xxx     xxx  <p> *Los primeros tres son de la cuenta del proveedor  <p> *Los siguientes tres son del orden en que se guardó al proveedor   <p> *Los otros tres son de la clave del proveedor <p> *Los últimos tres dígitos pertenecen a la sucursal a la que pertenece  <p> Esta clave se pone en desde y hasta; depende de que proveedor queremos ver el reporte  ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  38 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  38 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/8**|
 
@@ -494,7 +494,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |5|Clic en aceptar; ya nos aparecerá el reporte que necesitamos ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  39 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  39 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/9**|
 
@@ -505,7 +505,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![captura de tabulares en excel](https://i.imgur.com/9GIHXof.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  40 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  40 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/9**|
 
@@ -513,7 +513,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Capturar  tabulares en Excel    <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria<p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener un registro de todos los ingresos diarios obtenidos en cada sucursal <p> **ALCANCE:** <p>  Aplica al auxiliar contable  tener el acceso y control de los tabulares emitidos por las cajeras   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de finanzas mandar los tabulares al auxiliar contable <p>  Es responsabilidad del auxiliar contable llevar acabo la captura de todos los tabulares emitidos en cada sucursal  <p> **DEFINICIONES:** <p> **Excel:** Es una aplicación de hojas de cálculo que forma parte de la suite de oficina Microsoft Office. Es una aplicación utilizada en tareas financieras y contables, con fórmulas, gráficos y un lenguaje de programación.  <p> **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago  | 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  41 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  41 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/9**|
 
@@ -532,7 +532,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |8|Pintar de verde cuando no se tenga la ficha de deposito ||
 |9|guardar los registros. Realizar esto todos los días hasta que sea fin de mes para poder tener el concentrado||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  42 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  42 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/10**|
 
@@ -543,7 +543,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![concentrado de tabulares ](https://i.imgur.com/zDGUU2v.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  43 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  43 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/10**| 
 
@@ -551,7 +551,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p>Realizar el concentrado de los tabulares en Excel     <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de mes <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener en un solo documento los ingresos del mes de cada sucursal <p> **ALCANCE:** <p>  Aplica al auxiliar contable  tener el acceso y control del registro de los tabulares para realizar el concentrado de estos.   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales y de realizar el concentrado de cada sucursal al finalizar el mes   <p> **DEFINICIONES:** <p> **Excel:** Es una aplicación de hojas de cálculo que forma parte de la suite de oficina Microsoft Office. Es una aplicación utilizada en tareas financieras y contables, con fórmulas, gráficos y un lenguaje de programación.  <p> **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago  | 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  44 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  44 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/10**| 
 
@@ -568,7 +568,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6 |Imprimir el concentrado el fin de mes||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  45 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  45 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
 
@@ -580,7 +580,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ![captura de tabulares en Aspel-coi](https://i.imgur.com/xzmvlXE.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  46 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  46 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
 
@@ -589,7 +589,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de tabulares en Aspel-COI     <p> **FRECUENCIA:**  <p> La realización de dicha actividad es  diaria <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Tener la contabilidad electrónica de los ingresos de cada sucursal<p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso al programa de Aspel-COI para la capturación de los tabulares   <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales en el programa de Aspel-COI  <p> **DEFINICIONES:** <p>  **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa   |
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  47 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  47 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
 
@@ -604,7 +604,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|Clic en agregar póliza: llenar los datos necesarios para la realización de la póliza: <p> *Agregar el tipo de póliza en este caso será la de ingresos (Ig) <p> *Fecha del tabular <p> *Concepto de la póliza <p> *Cuenta en el que los folios de los tabulares  <p> *Concepto de movimiento; poner la sucursal y los folios de los tabulares  <p> *Agregar los cargos y abonos de los tabulares |Póliza de ingreso|
 |5|Sacar un auxiliar en este caso la balanza de comprobación: solo damos clic en balanza y ya está nuestro auxiliar ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  48 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  48 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/11**| 
 
@@ -617,7 +617,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Imprimir las pólizas de ingresos ||
 |8|Anexar las pólizas de ingresos en el Lefort de los tabulares || 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  49 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  49 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/12**| 
 
@@ -628,7 +628,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![polizas pendientes aspel coi](https://i.imgur.com/UmhwKwB.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  50 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  50 de 75|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/12**| 
 
@@ -636,7 +636,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Registro de fichas pendientes de tabulares en Aspel-COI   <p> **FRECUENCIA:**  <p> La realización de dicha actividad es frecuente cuando hay fichas pendientes de los depósitos que se generan después de la fecha  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar una buena contabilidad electrónica de los ingresos; teniendo toda la información completa anexada  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso al programa de Aspel-COI para la capturación de las fichas pendientes en los tabulares    <p> **POLITICAS:**<p> Tener el control de todas las entradas de efectivo en la empresa   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de finanzas realizar los depositos de efectivo a la cuenta correspondiente de cada sucursal y mandar estas fichas al auxiliar contable para su captura <p>  Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales en el programa de Aspel-COI con sus respectivas fichas de depósito   <p> **DEFINICIONES:** <p>  **Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa <p> **Ficha:** Documento que notifica que se realizó un depósito a una respectiva cuenta  |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  51 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  51 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/12**|
 
@@ -650,7 +650,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3|Imprimir la póliza de diario  || 
 |4|Anexar la póliza de diario en el Lefort de los tabulares del mes que le corresponde ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  52 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  52 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/13**|
 
@@ -663,7 +663,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![captura de creditos de mercancias ](https://i.imgur.com/whmMnAR.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  53 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  53 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/13**|
 
@@ -671,7 +671,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de créditos de mercancías otorgados a trabajadores <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria ya que los trabajadores disponen de este crédito en cualquier día   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Identificar los créditos de mercancías pagados y los faltantes por cobrar  <p> **ALCANCE:** <p>  Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la capturación de  los créditos de mercancías otorgados a trabajadores  <p> **POLITICAS:**<p> Todo trabajador  tiene la disposición  de gozar créditos de mercancías en cualquier sucursal de la empresa     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de los créditos de mercancías otorgados a los empleados de todas las sucursales en el programa de Aspel-COI   <p> **DEFINICIONES:**  <p> **Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa  |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  54 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  54 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/13**|
 
@@ -688,7 +688,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Imprimir la póliza de diario||
 |7|Agregar la póliza de diario en el Lefort correspondiente||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  55 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  55 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/14**|
 
@@ -699,7 +699,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![captura de compras ](https://i.imgur.com/APf6gy9.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  56 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  56 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/14**|
 
@@ -707,7 +707,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de compras <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de todas las compras realizadas en cada sucursal  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso del programa de compras SPA para capturar las compras de cada sucursal  <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de las compras generadas en cada una de las sucursales en el programa de compras SPA  <p> **DEFINICIONES:**  <p> **Compras:** Hace referencia a la acción de obtener o adquirir, a cambio de un precio determinado, un producto o un servicio   |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  57 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  57 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/14**| 
 
@@ -720,7 +720,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |2|Abrir el programa de compras-SPA|| 
 |3|Llenar los datos necesarios para la realización de la captura <p> Sucursal:Seleccionar la sucursal en la que se vaya registrar la compra  <p> Fecha: Poner la fecha que viene en la bitácora de compra <p> Tipo: Compras <p> Factura: Es el número o clave que está en la factura <p> Folio: Poner la referencia de la compra <p> Proveedor: Poner el nombre del proveedor que está en la factura <p> Observaciones: Anotar si existe algún inconveniente como el caso de que falte una alguna factura <p> Tasa 0 %: Poner la cantidad normal cuando no tiene IVA la factura <p> Tasa 16%: Poner la cantidad del sub total de la factura <p> IVA: se pone automáticamente <p> Subtotal: se pone automáticamente <p> Total: Se actualiza automáticamente ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  58 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  58 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
 
@@ -732,7 +732,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|Guardar||
 |5|Avisar que se realizó el registro de las compras al contador general|| 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  59 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  59 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
 
@@ -743,7 +743,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![captura de transferencias](https://i.imgur.com/oB3IzJc.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  60 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  60 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**|
 
@@ -751,7 +751,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de transferencias <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de todas las transferencias realizadas en cada sucursal  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener el acceso del programa de compras SPA para capturar las transferencias de cada sucursal  <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de las transferencias generadas en cada una de las sucursales en el programa de compras SPA  <p> **DEFINICIONES:**  <p> **Transferencias:** Trasladar o enviar una cosa desde un sitio hacia otro |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  61 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  61 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**| 
 
@@ -764,7 +764,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |2|Abrir el programa de compras-SPA || 
 |3| Llenar los datos necesarios para la realización de la captura de transferencias , a continuación se explica  que se debe poner en cada apartado: <p> Sucursal: Seleccionar la sucursal en la que se vaya registrar la trasferencia <p> Fecha: Poner la fecha que viene en la trasferencia <p> Tipo: Transferencias <p> Factura: No hay <p> Folio: Poner el que viene en la trasferencia en dado caso que no tenga poner la fecha <p> Proveedor: No hay <p> Observaciones: Registrar el número de trasferencias <p> Tasa 0 %: Poner la cantidad normal cuando no tiene IVA la trasferencia <p> Tasa 16%: Poner la cantidad del sub total de la trasferencia <p> IVA: se pone automáticamente <p> Subtotal: se pone automáticamente <p> Total: Se actualiza automáticamente ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  62 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  62 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/15**| 
 
@@ -805,7 +805,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/16**| 
 
 
-|PROCEDIMIENTO: CAPTURA DE TRANSFERENCIAS   |
+|PROCEDIMIENTO: REGISTRO DE TRASPASÓ ENTRE CUENTAS      |
 |---|
 
 |No.|Actividad|Documento|
@@ -818,11 +818,82 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |6|Agregar los cargos y abonos correspondientes||
 |7|Imprimir la póliza de egreso; para su posterior archivado en la carpeta del mes correspondiente||
 
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  66 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/17**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Captura de los depósitos de nómina    |
+|Puesto|Auxiliar contable |
 
 
-falta la 17y 18
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  73 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  67 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/17**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de los depósitos de nómina   <p> **FRECUENCIA:**  <p> La realización de dicha actividad  es cada semana   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de todos los depósitos de las nóminas para tener la información de todos los pagos realizados en tiempo y forma  <p> **ALCANCE:** <p> Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la captura de los depósitos de nómina <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>Es responsabilidad del auxiliar contable tener la captura de todos los pagos efectuados por las nóminas, en el programa de Aspel-COI <p> **DEFINICIONES:**  <p> **Nómina:** Se refiere a la cantidad pagada a los empleados por los servicios que prestaron durante un cierto período de tiempo <p> **Aspel-COI:** Sistema de Contabilidad Integral. Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa |
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  68 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/17**|
+
+|PROCEDIMIENTO:  CAPTURA DE LOS DEPÓSITOS DE NÓMINA    |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar al programa de Aspel-COI  ||
+|2|Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa||
+|3|Seleccionar el periodo y el mes en él se va a trabajar ||
+|4|Clic en la pestaña cuentas y pólizas después agregar póliza||
+|5|Llenar los datos necesarios para la generación de la póliza: <p> Tipo: Poner la póliza de diario (Dr) <p> Fecha: va el día que se realizó el deposito <p> Concepto: Deposito de nomina <p> Concepto de movimiento: Deposito de nómina y el folio |Fichas de deposito |
+|6|Agregar los cargos y abonos correspondientes; en este caso se carga bancos se abona caja ||
+|7|Imprimir la póliza de diario; para su posterior archivado en el Lefort del mes correspondiente ||
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  69 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/18**| 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Captura de depósitos pendientes registrados por conciliación|
+|Puesto|Auxiliar contable |
+
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  70 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/18**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Captura de depósitos pendientes registrados por conciliación  <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada que se presentan depósitos pendientes registrados por conciliación   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>Tener la contabilidad cuadrada; aunque haya depósitos pendientes <p> **ALCANCE:** <p> Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la captura de los depósitos pendientes registrados por conciliación   <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>Es responsabilidad del auxiliar contable tener la captura de los depósitos pendientes registrados por conciliación, en el programa de Aspel-COI <p> **DEFINICIONES:**  <p> **Conciliación bancaria:** Es un proceso que permite confrontar y conciliar los valores económicos que una empresa tiene registrados sobre una cuenta, ya sea corriente o de ahorro, con sus movimientos bancarios, así como clasificar el libro auxiliar de contabilidad para confrontarlo con el extracto <p> **Aspel-COI:** Sistema de Contabilidad Integral. Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa  |
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  71 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/18**|
+
+
+|PROCEDIMIENTO:  CAPTURA DE DEPÓSITOS PENDIENTES REGISTRADOS POR CONCILIACIÓN   |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar al programa de Aspel-COI  ||
+|2| Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa||
+|3|Seleccionar el periodo y el mes en él se va a trabajar ||
+|4|Clic en la pestaña cuentas y pólizas después agregar póliza||
+|5|Llenar los datos necesarios para la generación de la póliza: <p> Tipo: Poner la póliza de diario (Dr) <p> Fecha: va el día que se realizó el deposito pendiente <p> Concepto: Deposito pendiente por conciliación <p> Concepto de movimiento: Deposito pendiente registrado por conciliación y el número  ||
+|6|Agregar los cargos y abonos correspondientes; en este caso se carga bancos se abona caja ||
+|7|Imprimir la póliza de diario; para su posterior archivado en el Lefort del mes correspondiente||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  72 de 75|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/19**|
 
@@ -833,7 +904,7 @@ falta la 17y 18
 
 ![conciliacion bancaria ](https://i.imgur.com/XZvzCbG.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  74 de 75 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  73 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/19**| 
 
@@ -841,14 +912,30 @@ falta la 17y 18
 |-----------------------------------------------------|
 |**PUESTO:** Auxiliar de contabilidad <p> **JEFE INMEDIATO:** Contador general  <p> **PROCEDIMIENTO:** <p> Conciliación bancaria <p> **FRECUENCIA:**  <p> La realización de dicha actividad es cada fin de mes   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Efectuar las correcciones necesarias, para que tanto los registros contables y el banco reflejen el saldo correcto de la cuenta  <p> **ALCANCE:** <p>  Aplica al auxiliar contable tener acceso a los estados de cuenta de cada sucursal y a la contabilidad electrónica de Aspel-COI para la realización de las conciliaciones bancarias   <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>  Es responsabilidad del auxiliar contable tener el registro de todos los movimientos realizados en el súper, así como de realizar las conciliaciones bancarias cada fin de mes  <p> **DEFINICIONES:**  <p> **Conciliación bancaria:** Es un proceso que permite confrontar y conciliar los valores económicos que una empresa tiene registrados sobre una cuenta, ya sea corriente o de ahorro, con sus movimientos bancarios. |
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  75 de 49 |
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  74 de 75 |
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/19**| 
 
-|PROCEDIMIENTO:    |
+|PROCEDIMIENTO: CONCILIACIÓN BANCARIA    |
 |---|
 
 |No.|Actividad|Documento|
 |--|--|--|
-|1| Ingresar al programa de Aspel-COI   | 
-|2|  || 
+|1| Recibir el estado de cuenta por cada cuenta bancaria que ocupa SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V por medio del contador   | 
+|2| Ingresar al programa de Aspel-COI    || 
+|3|Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa||
+|4|Seleccionar el periodo, el mes y sacar el auxiliar: <p> *Seleccionar reportes <p> *Clic en Auxiliar; en el cual aparecerá una ventana, donde se pone el número de cuenta en la parte que dice desde y hasta va el mismo número de cuenta porque solo se quiere el auxiliar de una cuenta. <p> *Seleccionar exportar a Excel ||
+|5|Abrir el archivo de Excel; buscar cada ficha del estado de cuenta en el archivo que género: <p> *Seleccionar buscar <p> *Anotar el folio <p> *Resaltar de color amarillo si se encontró el registro del folio; hacer estos con todos los registros en el estado de cuenta ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  75 de 75 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/19**| 
+
+
+|PROCEDIMIENTO: CONCILIACIÓN BANCARIA    |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|6| Hacer un reporte de depósitos y cheques en tránsito: <p> *Buscar la plantilla de reportes y conciliación de Excel <p> *Cambiar los datos por los de la cuenta en el que se están haciendo la conciliación <p> *Imprimir los reportes de cheques en tránsito, depósitos en tránsito y la conciliación bancaria  ||
+|7|Archivar los documentos en la carpeta de la cuenta.|| 
