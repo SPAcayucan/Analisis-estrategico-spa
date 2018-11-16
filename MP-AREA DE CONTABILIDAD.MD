@@ -78,7 +78,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 |Registro de traspasó entre cuentas|	65|
 |Captura de los depósitos de nómina	|68|
 |Captura de depósitos pendientes registrados por conciliación|	71|
-|Conciliación bancaria|	7|
+|Conciliación bancaria|	73|
 
 
 
