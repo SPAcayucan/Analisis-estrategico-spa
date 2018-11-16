@@ -52,7 +52,33 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01**|
 
-Índice 
+|Índice|| 
+|--|---|
+|Introducción|	4|
+|Objetivo del manual|	5|
+|Objetivos específicos|	5|
+|Alcance del manual|	5|
+|Simbología de los diagramas de flujo|	6|
+|Descripción de procedimientos|	9|
+|Generación de las aportaciones de seguridad social|	9|
+|Elaboración de nóminas|	13|
+|Alta de trabajadores en Aspel-NOI|	19|
+|Alta de trabajadores en el IDSE|	22|
+| Agregar horas extras en Aspel-NOI	|26|
+|Descargar el XML	|29|
+|Contabilización de egresos|	32|
+|Generar reportes de auxiliares|	37|
+|Capturar tabulares en Excel|	41|
+|Realizar el concentrado de los tabulares en Excel|	44|
+|Captura de tabulares en Aspel-COI	|47|
+|Registro de fichas pendientes de tabulares en Aspel-COI|	51|
+|Captura de créditos de mercancías otorgados a trabajadores|	54|
+|Captura de compras|	57|
+|Captura de transferencias|	61|
+|Registro de traspasó entre cuentas|	65|
+|Captura de los depósitos de nómina	|68|
+|Captura de depósitos pendientes registrados por conciliación|	71|
+|Conciliación bancaria|	7|
 
 
 
@@ -924,8 +950,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |1| Recibir el estado de cuenta por cada cuenta bancaria que ocupa SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V por medio del contador   | 
 |2| Ingresar al programa de Aspel-COI    || 
 |3|Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa||
-|4|Seleccionar el periodo, el mes y sacar el auxiliar: <p> *Seleccionar reportes <p> *Clic en Auxiliar; en el cual aparecerá una ventana, donde se pone el número de cuenta en la parte que dice desde y hasta va el mismo número de cuenta porque solo se quiere el auxiliar de una cuenta. <p> *Seleccionar exportar a Excel ||
-|5|Abrir el archivo de Excel; buscar cada ficha del estado de cuenta en el archivo que género: <p> *Seleccionar buscar <p> *Anotar el folio <p> *Resaltar de color amarillo si se encontró el registro del folio; hacer estos con todos los registros en el estado de cuenta ||
+|4|Seleccionar el periodo, el mes y sacar el auxiliar: <p> *Seleccionar reportes <p> *Clic en Auxiliar; en el cual aparecerá una ventana, donde se pone el número de cuenta en la parte que dice desde y hasta va el mismo número de cuenta porque solo se quiere el auxiliar de una cuenta. <p> *Seleccionar exportar a Excel |Reporte de depósitos en transito|
+|5|Abrir el archivo de Excel; buscar cada ficha del estado de cuenta en el archivo que género: <p> *Seleccionar buscar <p> *Anotar el folio <p> *Resaltar de color amarillo si se encontró el registro del folio; hacer estos con todos los registros en el estado de cuenta |Reporte de cheques en transito|
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  75 de 75 |
 |--|--|--|
@@ -937,5 +963,5 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 |No.|Actividad|Documento|
 |--|--|--|
-|6| Hacer un reporte de depósitos y cheques en tránsito: <p> *Buscar la plantilla de reportes y conciliación de Excel <p> *Cambiar los datos por los de la cuenta en el que se están haciendo la conciliación <p> *Imprimir los reportes de cheques en tránsito, depósitos en tránsito y la conciliación bancaria  ||
+|6| Hacer un reporte de depósitos y cheques en tránsito: <p> *Buscar la plantilla de reportes y conciliación de Excel <p> *Cambiar los datos por los de la cuenta en el que se están haciendo la conciliación <p> *Imprimir los reportes de cheques en tránsito, depósitos en tránsito y la conciliación bancaria  |Conciliación de la cuenta bancaria|
 |7|Archivar los documentos en la carpeta de la cuenta.|| 
