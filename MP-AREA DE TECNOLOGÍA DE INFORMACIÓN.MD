@@ -138,7 +138,7 @@ FALTA EL DIAGRAMA
 
 |No.|Actividad|Documento|
 |--|--|--|
-|1 |Recibir la lista de todos los productos que se ofertaran en el fin de semana con la comparación de los precios de la competencia En el documento que se envía al departamento de sistemas consta de los siguientes datos: <p> - Artículos <p> - Descripción <p> - Costo <p> - Precio <p> - Margen  <p> - Sucursal <p> - Oferta <p> - Margen 2 <p> - Dipepsa <p> - Súper ahorros <p> - Chedraui <p> - Soriana <p> - Sánchez <p>  - Maricela  | Lista de productos ofertados  |
+|1 |Recibir la lista de todos los productos que se ofertaran en el fin de semana con la comparación de los precios de la competencia En el documento que se envía al departamento de sistemas consta de los siguientes datos: <p> - Artículos <p> - Descripción <p> - Costo <p> - Precio <p> - Margen  <p> - Sucursal <p> - Oferta <p> - Margen 2 <p> - Dipepsa <p> - Súper ahorros <p> - Chedraui <p> - Soriana <p> - Sánchez <p>  - Maricela  | Lista de productos ofertados |
 |2|Diseñar el tema del mes en dado caso de que no se haya realizado; esto con el fin de estar al día con los acontecimientos o festejos que hay en nuestra ciudad, región o país.||
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  11 de 75|
@@ -263,3 +263,191 @@ FALTA EL DIAGRAMA
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
 | **PUESTO:** Encargado de marketing  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Configuración Wincaja para ofertas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada semana antes de realizar la programación de las ofertas de cada sucursal  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Acceder al sistema de cada sucursal para programar los precios de cada oferta  <p> **ALCANCE:** <p> Aplica al encargado de marketing tener el acceso  a la configuración de wincaja para poder realizar la programación de ofertas  <p> **POLITICAS:**<p>  Tener precios actualizados de cada artículo en venta  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de marketing realizar la configuración de wincaja de la sucursal en la cual se va trabajar para la  programación de las ofertas   <p>  **DEFINICIONES:** <p> **Programar:** <p> **Wincaja** <p> **Configurar:**  ||    
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  21 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/3**| 
+
+|PROCEDIMIENTO: CONFIGURACIÓN WINCAJA PARA OFERTAS |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ir a disco local (c) de la computadora ||
+|2|Buscar la aplicación de wincaja versión 7 en la cual debajo de ella debe estar el archivo INI; abrir el archivo para editarlo ||
+|3|Editar la dirección del servidor, nombre de la base de datos y la caja según sea cada sucursal.||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  22 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/4**| 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |  Alta a los trabajadores en checador de asistencia  |
+|Puesto| Encargado de desarrollo|
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  23 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/4**| 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Encargado de desarrollo  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Alta a los trabajadores en checador de asistencia  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es solo cuando se da de alta a nuevos trabajadores  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de  las entradas y salidas de los trabajadores.  <p> **ALCANCE:** <p> Aplica al encargado de desarrollo tener el acceso  al programa de checador de asistencia modo administrador para dar de alta a nuevos trabajadores   <p> **POLITICAS:**<p>  Todo trabajador tiene que checar sus entradas y salidas en el súper  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de desarrollo realizar la alta de los nuevos trabajadores en el programa de checador  de asistencia modo administrador    <p>  **DEFINICIONES:** <p> **Alta** <p> **Programa**  || 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  24 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/4**| 
+
+|PROCEDIMIENTO: ALTA A LOS TRABAJADORES EN CHECADOR DE ASISTENCIA |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--| 
+|1|Entrar al programa de checador de asistencia modo administrador||
+|2|Dar clic en actualizar; en la cual nos aparecerá la lista de todos los trabajadores ||
+|3|Clic en trabajador, se abrirá una ventana nueva para dar de alta a un nuevo trabajador ||
+|4|Llenar los datos solicitados como: el nombre del trabajador, correo, fecha de nacimiento, teléfono y las huellas del dedo índice de la mano derecha e izquierda del trabajador; para finalizar el registro solo se le da guardar||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  25 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/5**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Creación de reportes   |
+|Puesto| Encargado de desarrollo|
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  26 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/5**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Encargado de desarrollo  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Creación de reportes  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es frecuente; se realiza solo cuando surge algún inconveniente o alguna cuestión    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Crear reportes para poder ver cómo se encuentran  las actividades y operaciones en la empresa <p> **ALCANCE:** <p> Aplica al encargado de desarrollo tener el acceso  al programa de  Microsoft SQL-Server management studio para la creación de reportes    <p> **POLITICAS:**<p>  Tener información de todas las operaciones realizadas en el súper   <p> **RESPONSABILIDADES:**<p>  Es responsabilidad del encargado de desarrollo realizar los reportes necesarios en la empresa con el programa llamado Microsoft SQL-Server management studio  <p>  **DEFINICIONES:** <p> **Microsoft SQL-Server management studio:** <p> **Reporte:**   ||  
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  27 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/5**|
+
+|PROCEDIMIENTO: CREACIÓN DE REPORTES  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--| 
+|1|Abrir el programa llamado Microsoft SQL-Server management studio para hacer una consulta sobre lo que se quiere obtener información ||
+|2|Clic en donde dice nueva consulta para poder crear la consulta que se requiere||
+|3|Crear un script conforme al problema que se presente||
+|4|Copiar toda la consulta con el encabezado para posteriormente poder pegarlo en el formato requerido como por ejemplo Excel que es el más usual. <p> Otra forma de que sea más clara y se pueda ver el solo lo que es el reporte, se puede ocupar un programa llamado Report builder ||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  28 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/6**|
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Alta a un nuevo cajero en wincaja   |
+|Puesto| Encargado de desarrollo|
+
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  29 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/6**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Encargado de desarrollo  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Alta a un nuevo cajero en wincaja  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es poco frecuente; se realiza solo cuando hay un cajero nuevo en la empresa     <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>  Tener una cuenta para cada cajero para poder tener información detallada de sus movimientos <p> **ALCANCE:** <p> Aplica al encargado de desarrollo tener el acceso  al programa de Wincaja para dar de alta a  nuevas cajeras (os)  <p> **POLITICAS:**<p>  Tener información de todas las operaciones realizadas en el súper   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de desarrollo realizar los registros de altas de cajeras(os) en  wincaja  <p>  **DEFINICIONES:** <p> **Wincaja:** <p> **Programa:**   ||  
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 30 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/6**| 
+
+
+|PROCEDIMIENTO: Alta a un nuevo cajero en wincaja  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--| 
+|1|Ingresar a wincaja ||
+|2|Entrar a menú dar clic en Catálogos|
+|3|Seleccionar Personal ||
+|4|Clic en Cajeros.||
+|5|Asignar un numero de cajero, escribes su Nombre “Aquí si puedes usar el nombre de la persona” le asignas una contraseña y le pones el perfil que le corresponde.||
+|6|Guardar||
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 31 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**| 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Cierre de base de datos  |
+|Puesto| Encargado de mantenimiento|
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 32 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Encargado de mantenimiento  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Cierre de base de datos  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es una vez cada año     <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>  Mantener nuestras bases de datos agiles y con la suficiente capacidad tanto de almacenamiento como de velocidad de respuesta, para así el sistema WinCaja dé buenos resultados como también nuestras aplicaciones creadas en el departamento de sistemas  <p> **ALCANCE:** <p> Aplica al encargado de mantenimiento tener el acceso de la información de la base de datos de la empresa; así también la de llevar acabo el cierre de la base de datos junto con los demás encargados del área de tecnologías de información   <p> **POLITICAS:**<p>  Tener información de todas las operaciones realizadas en el súper   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de mantenimiento planear las actividades de cada encargado del área de tecnologías de información para llevar acabo el cierre de la base de datos   <p>  **DEFINICIONES:** <p> **Base de datos:** <p> **Wincaja:** <p>  **Script:**   ||   
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 33 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
+
+
+|PROCEDIMIENTO: CIERRE DE BASE DE DATOS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--| 
+|1|Realizar respaldo con ayuda del SOS de Wincaja abrir la ventana de utilería en donde se da selecciona mantenimiento> respaldar la base de datos||
+|2|Cambiar el nombre del respaldo por [NombreRespaldo] _ [ YYYYMM ].BAK.RAR||
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 34 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
+
+
+|PROCEDIMIENTO: CIERRE DE BASE DE DATOS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--| 
+|3|Entrar en WinCaja -> Procesos Especiales -> Cierres. <p> *El cierre es por periodo <p> * Marcar todo excepto temas de facturación <p> * Si hay cajas habilitadas en la tabla Cajas deshabilitarlas <p> SELECT * FROM Cajas WHERE Habilitada = 1 <p> UPDATE Cajas SET Habilitada = 0 <p> * Volver a Cierres y finalizar el proceso||
+|4|Reducir el Log y la Base de Datos <p> Para reducir el log basta con correr un pequeño script <p> USE [Nombre_Base_de_Datos] <p> CHECKPOINT <p> CHECKPOINT <p> -- SP_HELPFILE <p> ALTER DATABASE [Nombre_Base_de_Datos] <p> SET RECOVERY SIMPLE; <p>  GO <p> DBCC SHRINKFILE (N'[Nombre_del_Log_de_Base_de_Datos]', 10) <p> ALTER DATABASE [Nombre_Base_de_Datos] <p> SET RECOVERY FULL;<p>  GO||
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 35 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
+
+
+|PROCEDIMIENTO: CIERRE DE BASE DE DATOS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--| 
+|5|Montar el respaldo al principio creado y cambiar los nombres lógicos y físicos <p> * El nombre de la Base de datos será ahora [NombreOriginal]_[YYYYMM] <p> * El Nombre de la dirección de la data será [NombreOriginal]_[YYYYMM]_DATA.MDF <p> * El Nombre de la dirección del log será [NombreOriginal]_[YYYYMM]_LOG.LDF <p> Los nombres lógicos seguirán la misma estructura <p> * [NombreOriginal]_[YYYYMM]_DATA <p> *[NombreOriginal]_[YYYYMM]_LOG
+|6|Reducir el Log y la Base de Datos del respaldo; abriendo Microsoft SQL server management studio|
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 36 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
+
+
+|PROCEDIMIENTO: CIERRE DE BASE DE DATOS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--| 
+|6|*Seleccionar la Base de datos  <p> *Clic derecho  <p> *Tareas -> Reducir -> Base de Datos||
+|7|Finalmente clic en Aceptar||
+
