@@ -112,3 +112,47 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/1**|
 
 
+
+
+
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Mermas   |
+|Puesto|  Jefe de auditoria |   
+
+
+
+
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Arqueos de caja    |
+|Puesto|  Jefe de auditoria |
+
+
+
+
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Ajustes de salida  |
+|Puesto|  Jefe de auditoria | 
+
+
+
+
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Ajustes de entrada    |
+|Puesto|  Jefe de auditoria |
+
+
+
+
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Informes  |
+|Puesto|  Jefe de auditoria |
