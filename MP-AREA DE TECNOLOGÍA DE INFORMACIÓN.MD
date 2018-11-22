@@ -96,7 +96,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 # Simbología de los diagramas de flujo
 
-
+![simbolos](https://i.imgur.com/MEW4Nlj.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  7 de 75|
 |--|--|--|
@@ -107,7 +107,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |Procedimiento |Diseño de ofertas   |
 |Puesto|  Encargado de marketing|
 
-
+![diseño de ofertas 1 ](https://i.imgur.com/MlxTBO0.jpg)
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  8 de 75|
@@ -116,8 +116,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 
 
-FALTA EL DIAGRAMA 
-
+![diseño de ofertas 2](https://i.imgur.com/6IqSeSD.jpg)
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  9 de 75|
@@ -126,7 +125,7 @@ FALTA EL DIAGRAMA
 
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
-| **PUESTO:** Encargado de marketing  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Diseño de ofertas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada semana antes del fin de semana  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Hacer llegar a los clientes las ofertas existentes por medio de la publicidad de anuncios al entrar a cada sucursal. <p> **ALCANCE:** <p>  Aplica al encargado de marketing realizar el diseño de las ofertas de cada semana por medio de la aplicación llamada Photoshop   <p> **POLITICAS:**<p>  Tener precios actualizados de cada artículo en venta  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de compras enviar la relación de los productos en oferta de cada semana  <p> Es responsabilidad del encargado de marketing realizar el diseño de las ofertas de cada semana  <p>  **DEFINICIONES:** <p> **Oferta:** <p> **Diseño:** <p> **Cliente:**  ||    
+| **PUESTO:** Encargado de marketing  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Diseño de ofertas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada semana antes del fin de semana  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Hacer llegar a los clientes las ofertas existentes por medio de la publicidad de anuncios al entrar a cada sucursal. <p> **ALCANCE:** <p>  Aplica al encargado de marketing realizar el diseño de las ofertas de cada semana por medio de la aplicación llamada Photoshop   <p> **POLITICAS:**<p>  Tener precios actualizados de cada artículo en venta  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de compras enviar la relación de los productos en oferta de cada semana  <p> Es responsabilidad del encargado de marketing realizar el diseño de las ofertas de cada semana  <p>  **DEFINICIONES:** <p> **Oferta:** <p> **Diseño:**  Proceso o labor destinada a proyectar, coordinar, seleccionar y organizar un conjunto de elementos para producir y crear objetos visuales destinados a comunicar mensajes específicos a grupos determinados<p>  ||    
 
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  10 de 75|
@@ -191,7 +190,7 @@ FALTA EL DIAGRAMA
 |Procedimiento | Programación de precio de ofertas  |
 |Puesto| Encargado de marketing|
 
-
+![programacion de precios de ofertas ](https://i.imgur.com/YqpWl0V.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  15 de 75|
 |--|--|--|
@@ -200,7 +199,7 @@ FALTA EL DIAGRAMA
 
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
-| **PUESTO:** Encargado de marketing  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p>  Programación de precio de ofertas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada semana antes del fin de semana  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Programar las ofertas en tiempo y forma para tener los precios actualizados en el sistema como en el anaquel <p> **ALCANCE:** <p>   Aplica al encargado de marketing tener el acceso al programa de  Wincaja para realizar la programación de las ofertas    <p> **POLITICAS:**<p>  Tener precios actualizados de cada artículo en venta  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de marketing realizar la programación de las ofertas antes del fin de semana ocupando Wincaja de caja sucursal  <p>  **DEFINICIONES:** <p> **Programar:**  <p> **Oferta:** <p> **Wincaja:**  ||  
+| **PUESTO:** Encargado de marketing  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p>  Programación de precio de ofertas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada semana antes del fin de semana  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Programar las ofertas en tiempo y forma para tener los precios actualizados en el sistema como en el anaquel <p> **ALCANCE:** <p>   Aplica al encargado de marketing tener el acceso al programa de  Wincaja para realizar la programación de las ofertas    <p> **POLITICAS:**<p>  Tener precios actualizados de cada artículo en venta  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de marketing realizar la programación de las ofertas antes del fin de semana ocupando Wincaja de caja sucursal  <p>  **DEFINICIONES:** <p> **Programar:** Proceso o labor destinada a proyectar, coordinar, seleccionar y organizar un conjunto de elementos para producir y crear objetos visuales destinados a comunicar mensajes específicos a grupos determinados <p> **Oferta:**  Acción de ofrecer un producto para su venta, especialmente cuando se ofrece a un precio más bajo de lo normal. <p> **Wincaja:**  ||  
 
 
 
@@ -250,10 +249,10 @@ FALTA EL DIAGRAMA
 
 |Diagrama de flujo||
 |--|--|
-|Procedimiento | Configuración Wincaja para ofertas   |
+|Procedimiento | Configuración de Wincaja para ofertas   |
 |Puesto| Encargado de marketing|
 
-
+![configuracion de wincaja para ofertas](https://i.imgur.com/TRkweQy.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  20 de 75|
 |--|--|--|
@@ -287,6 +286,7 @@ FALTA EL DIAGRAMA
 |Procedimiento |  Alta a los trabajadores en checador de asistencia  |
 |Puesto| Encargado de desarrollo|
 
+![alta a los trabajadores en checador de asistencia](https://i.imgur.com/XonB2lh.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  23 de 75|
 |--|--|--|
@@ -320,6 +320,8 @@ FALTA EL DIAGRAMA
 |Puesto| Encargado de desarrollo|
 
 
+![creacion de reportes](https://i.imgur.com/k8JLS6T.jpg)
+
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  26 de 75|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/5**|
@@ -351,7 +353,7 @@ FALTA EL DIAGRAMA
 |Procedimiento | Alta a un nuevo cajero en wincaja   |
 |Puesto| Encargado de desarrollo|
 
-
+![alta a un nuevo cajero ](https://i.imgur.com/4gtcAJN.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  29 de 75|
 |--|--|--|
@@ -389,6 +391,7 @@ FALTA EL DIAGRAMA
 |Procedimiento | Cierre de base de datos  |
 |Puesto| Encargado de mantenimiento|
 
+![cierre de base de datos ](https://i.imgur.com/KQGFvTn.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 32 de 75|
 |--|--|--|
@@ -435,7 +438,7 @@ FALTA EL DIAGRAMA
 
 |No.|Actividad|Documento|
 |--|--|--| 
-|5|Montar el respaldo al principio creado y cambiar los nombres lógicos y físicos <p> * El nombre de la Base de datos será ahora [NombreOriginal]_[YYYYMM] <p> * El Nombre de la dirección de la data será [NombreOriginal]_[YYYYMM]_DATA.MDF <p> * El Nombre de la dirección del log será [NombreOriginal]_[YYYYMM]_LOG.LDF <p> Los nombres lógicos seguirán la misma estructura <p> * [NombreOriginal]_[YYYYMM]_DATA <p> *[NombreOriginal]_[YYYYMM]_LOG
+|5|Montar el respaldo al principio creado y cambiar los nombres lógicos y físicos <p> *El nombre de la Base de datos será ahora [NombreOriginal]_[YYYYMM] <p> *El Nombre de la dirección de la data será [NombreOriginal]_[YYYYMM]_DATA.MDF <p> *El Nombre de la dirección del log será [NombreOriginal]_[YYYYMM]_LOG.LDF <p> Los nombres lógicos seguirán la misma estructura <p> * [NombreOriginal]_[YYYYMM]_DATA <p> *[NombreOriginal]_[YYYYMM]_LOG
 |6|Reducir el Log y la Base de Datos del respaldo; abriendo Microsoft SQL server management studio|
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 36 de 75|
