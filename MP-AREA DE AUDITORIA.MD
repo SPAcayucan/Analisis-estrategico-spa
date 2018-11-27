@@ -92,7 +92,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01**|
 
 # Simbología de los diagramas de flujo
-
+![simbolos](https://i.imgur.com/bNAKxCJ.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  7 de 75|
 |--|--|--|
@@ -114,45 +114,22 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 
 
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Arqueo de caja    |
+|Puesto|  Jefe de auditoria |
+
+
+
+
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Ajustes de salida y entrada   |
+|Puesto|  Jefe de auditoria | 
 
 
 |Diagrama de flujo||
 |--|--|
 |Procedimiento | Mermas   |
 |Puesto|  Jefe de auditoria |   
-
-
-
-
-
-|Diagrama de flujo||
-|--|--|
-|Procedimiento | Arqueos de caja    |
-|Puesto|  Jefe de auditoria |
-
-
-
-
-
-|Diagrama de flujo||
-|--|--|
-|Procedimiento | Ajustes de salida  |
-|Puesto|  Jefe de auditoria | 
-
-
-
-
-
-|Diagrama de flujo||
-|--|--|
-|Procedimiento | Ajustes de entrada    |
-|Puesto|  Jefe de auditoria |
-
-
-
-
-
-|Diagrama de flujo||
-|--|--|
-|Procedimiento | Informes  |
-|Puesto|  Jefe de auditoria |
