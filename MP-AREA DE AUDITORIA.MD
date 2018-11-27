@@ -24,7 +24,7 @@
 
 </div>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  2 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  2 de 17|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01**|
 
@@ -48,13 +48,13 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  3 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  3 de 17|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01**|
 
 Indice 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  4 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  4 de 17|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01**|
 
@@ -66,7 +66,7 @@ El presente Manual de Procedimientos tiene como propósito contar como una guía
 
 </div>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  5 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  5 de 17|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01**|
 
@@ -87,14 +87,14 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 </div>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  6 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  6 de 17|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01**|
 
 # Simbología de los diagramas de flujo
 ![simbolos](https://i.imgur.com/bNAKxCJ.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  7 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  7 de 17|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/1**|
 
@@ -105,22 +105,73 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |Puesto|  Jefe de auditoria |
 
 
+![supervision de papeleria](https://i.imgur.com/Vh5GlTK.jpg)
 
-
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  8 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  7 de 17|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/1**|
 
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Jefe de auditoria  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Supervisión de papelería   <p> **FRECUENCIA:**  <p> La realización de dicha actividad es de manera repentina: normalmente sin dar aviso  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Fomentar el adecuado acomodo de la papelería generada en el área de operación  <p> **ALCANCE:** <p> Aplica al jefe de auditoria realizar las revisiones del acomodo de la papelería en el súper <p> **POLITICAS:**<p> Tener toda la información de la empresa bien ordenada para su mejor manejo     <p> **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de auditoria llevar a cabo una supervisión periódica del acomodo de la papelería en el súper; principalmente en el área de operación   <p> **DEFINICIONES:** <p> **Supervisión:** Vigilancia o dirección de la realización de una actividad determinada por parte de una persona con autoridad o capacidad para ello. <p> **Papelería:** Es uno de los recursos más importantes de una empresa, utilizadas como medio de comunicación entre los participantes de la organización.|
 
 
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  8 de 17|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/1**|
+
+|PROCEDIMIENTO: Supervisión de papelería |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1 |Pedir al gerente de tienda o de entrenamiento que  proporcione la papelería que generan; es decir, todo los papeles de las compras, los gastos, reposiciones, pagos a proveedores y transferencias.|
+|2|Checar que la papelería este en el orden correcto ||
+|3|Realizar un informe de los resultados obtenidos en la supervisión .En dicho informe deberá tener los siguientes puntos: <p> *Núm. de informe <p> *Sucursal <p> *Motivo <p> *Fecha y hora <p> *Involucrados  <p> *Firmas de los involucrados  ||
+|4|Archivar los informes en el lefort correspondiente ||
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  9 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/2**|
 
 |Diagrama de flujo||
 |--|--|
 |Procedimiento | Arqueo de caja    |
 |Puesto|  Jefe de auditoria |
 
+![arqueo de caja ](https://i.imgur.com/S3qQf2V.jpg)
 
 
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  10 de 75|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/2**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Jefe de auditoria  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Arqueo de caja    <p> **FRECUENCIA:**  <p> La realización de dicha actividad es de manera repentina en el momento que se requiera  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Comprobar que el saldo que aloja el sistema de wincaja corresponda con lo que se encuentra físicamente en caja en dinero efectivo, cheques o vales.  <p> **ALCANCE:** <p> Aplica al jefe de auditoria realizar las revisiones de las cajas periódicamente  <p> **POLITICAS:**<p> Tener un control de todos los movimientos de las cajas de la empresa  <p> **RESPONSABILIDADES:** <p> Es responsabilidad del jefe de auditoria realizar los arqueos de caja de manera repentina, es decir, sin dar algún aviso previo; en cada una de las cajas existentes en el súper <p> **DEFINICIONES:** <p> **Wincaja:** Es un programa tan versátil que usted tendrá el control de todo lo que ve en pantalla, imprimir todo lo que ve en ellas, además de tener un número ilimitado de pantallas de información <p> **Arqueo de caja:** Es una revisión que se realiza cada cierto tiempo, en la que se revisa la existencia de dinero en efectivo, en cheques u otras formas de depósito o activo.|
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  11 de 17|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/2**|
+
+|PROCEDIMIENTO: ARQUEO DE CAJA |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1 |Suspender el  uso de una caja a cualquier hora, es decir, cerrar una caja para poder realizar el conteo  ||
+|2|Realizar el corte de caja parcial en Wincaja ||
+|3|Realizar el conteo de dinero en efectivo, en cheques o cualquier otra forma de pago hasta el momento de la suspensión de la caja ||
+|4|Checar que el fondo fijo y fondo de morralla este completo en cada sucursal||
+|5|Realizar un informe de los resultados obtenidos||
+
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  12 de 17|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/3**|
 
 
 |Diagrama de flujo||
@@ -128,6 +179,24 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |Procedimiento | Ajustes de salida y entrada   |
 |Puesto|  Jefe de auditoria | 
 
+![ajustes de salida y entrada](https://i.imgur.com/kQ6vhPL.jpg)
+
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  13 de 17|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/3**|
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Jefe de auditoria  <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Ajuste de entada y salida    <p> **FRECUENCIA:**  <p>  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>  <p> **ALCANCE:** <p>   <p> **POLITICAS:**<p>  <p> **RESPONSABILIDADES:** <p>  <p> **DEFINICIONES:** <p> **Wincaja:** |
+
+
+
+
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE AUDITORIA | Página  13 de 17|
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-AA-01/4**|
 
 |Diagrama de flujo||
 |--|--|
