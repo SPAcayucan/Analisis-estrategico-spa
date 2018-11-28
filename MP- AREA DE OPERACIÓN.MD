@@ -492,7 +492,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |No.|Actividad|Documento|
 |--|--|--|
 || * Clic en desing; aparecerá una ventana en el que tendrás que poner la clave y contraseña para poder ingresar <p> * Buscar la fecha se quiere imprimir; en el cual se debe checar que en el reporte generado estén todos los vales generados en el día para después ya imprimir la reposición. <p> * Anexar la reposición impresa con la papelería de vales provisionales de caja y sus facturas de dicha reposición  |Reposición de compras o gatos | 
-|4| Mandar la papelería de las reposiciones a el área de finanzas.|| 
+|4| Mandar la papelería de las reposiciones al área de finanzas.|| 
 
 
 
