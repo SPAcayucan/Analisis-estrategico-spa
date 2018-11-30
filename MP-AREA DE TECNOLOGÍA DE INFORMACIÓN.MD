@@ -24,7 +24,7 @@
 
 </div>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  2 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  2 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01**|
 
@@ -48,7 +48,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 </center>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  3 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  3 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01**|
 
@@ -57,7 +57,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  4 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  4 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01**|
 
@@ -70,7 +70,7 @@ El presente Manual de Procedimientos tiene como propósito contar como una guía
 </div>
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  5 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  5 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01**|
 
@@ -90,7 +90,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 </div>
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  6 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  6 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01**|
 
@@ -98,7 +98,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 ![simbolos](https://i.imgur.com/MEW4Nlj.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  7 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  7 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/1**|
 
@@ -110,7 +110,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 ![diseño de ofertas 1 ](https://i.imgur.com/MlxTBO0.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  8 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  8 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/1**| 
 
@@ -119,7 +119,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 ![diseño de ofertas 2](https://i.imgur.com/6IqSeSD.jpg)
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  9 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  9 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/1**| 
 
@@ -128,7 +128,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 | **PUESTO:** Encargado de marketing  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Diseño de ofertas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada semana antes del fin de semana  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Hacer llegar a los clientes las ofertas existentes por medio de la publicidad de anuncios al entrar a cada sucursal. <p> **ALCANCE:** <p>  Aplica al encargado de marketing realizar el diseño de las ofertas de cada semana por medio de la aplicación llamada Photoshop   <p> **POLITICAS:**<p>  Tener precios actualizados de cada artículo en venta  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de compras enviar la relación de los productos en oferta de cada semana  <p> Es responsabilidad del encargado de marketing realizar el diseño de las ofertas de cada semana  <p>  **DEFINICIONES:** <p> **Oferta:** Acción de ofrecer un producto para su venta, especialmente cuando se ofrece a un precio más bajo de lo normal. <p> **Diseño:**  Proceso o labor destinada a proyectar, coordinar, seleccionar y organizar un conjunto de elementos para producir y crear objetos visuales destinados a comunicar mensajes específicos a grupos determinados<p>  ||    
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  10 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  10 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/1**| 
 
@@ -140,7 +140,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |1 |Recibir la lista de todos los productos que se ofertaran en el fin de semana con la comparación de los precios de la competencia En el documento que se envía al departamento de sistemas consta de los siguientes datos: <p> - Artículos <p> - Descripción <p> - Costo <p> - Precio <p> - Margen  <p> - Sucursal <p> - Oferta <p> - Margen 2 <p> - Dipepsa <p> - Súper ahorros <p> - Chedraui <p> - Soriana <p> - Sánchez <p>  - Maricela  | Lista de productos ofertados |
 |2|Diseñar el tema del mes en dado caso de que no se haya realizado; esto con el fin de estar al día con los acontecimientos o festejos que hay en nuestra ciudad, región o país.||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  11 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  11 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/1**| 
 
@@ -155,7 +155,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |5|Hacer un conjunto de datos en Excel en el cual debe llevar los siguientes datos: <p> *Dirección de la imagen <p> *Nombre del roducto <p> *Precio UD (unidad decimal) <p> *Vigencia  <p> Nota: estos datos van en la parte superior de cada columna ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  12 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  12 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/1**| 
 
@@ -168,7 +168,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |7|Entrar a Photoshop nuevamente; abrir la plantilla del diseño previamente realizado del tema del mes y sigue los siguientes pasos: <p> * Deslizar a la barra de herramientas y seleccionar donde dice "imagen"  <p> * Clic en variables; esto para seleccionar "conjunto de datos" en cual se despliega una ventana; en donde se le da clic en "importar" <p> * Seleccionar el documento de conjunto de datos .txt; en la ventana que aparece con el nombre "importar conjunto de datos" <p> * Clic en cargar y después ok  <p> * Seleccionar "archivo" y exportar conjunto de datos como archivos  <p> * Seleccionar la carpeta donde se va guardar ||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  13 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  13 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/1**| 
 
@@ -181,7 +181,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |8|Enviar a todas las tiendas el PDF para que lo impriman y pongan las imágenes de las ofertas a la vista de todos los clientes||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  14 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  14 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/2**| 
 
@@ -192,7 +192,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 ![programacion de precios de ofertas ](https://i.imgur.com/YqpWl0V.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  15 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  15 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/2**| 
 
@@ -203,7 +203,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  16 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  16 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/2**|  
 
@@ -221,7 +221,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  17 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  17 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/2**|  
 
@@ -232,7 +232,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |--|--|--|
 |5|Llenar los siguientes datos de cada artículo en oferta: <p>  - copiar la clave del artículo en el concentrado de Excel y pegarlo en la parte donde dice *artículo* y dar ENTER <p> - Poner el número de precio puede ser 1 que es el precio a menudeo o 2 que es el precio a mayoreo cual sea el caso; y ENTER  <p> - Desmarcar la parte que dice *en porcentaje* <p> - Oprimir dos veces Tab <p> - Cambiar el precio por el que está en el concentrado antes ya abierto <p> - Poner el periodo que estará la oferta de dicho artículo <p> - Agregar un 0 en el apartado que dice límite de oferta, es decir, que no hay un número determinado de artículos que estarán en oferta <p> - Dar dos veces la tecla ENTER y queda lista la programación de la oferta este proceso se hace con cada artículo ofertado global, sigma que son los que se aplican en todas las sucursales y de acuerdo a la sucursal; en este caso solo serán programados esos artículos en la sucursal correspondiente   ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  18 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  18 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/2**|  
 
@@ -243,7 +243,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |--|--|--|
 |6|Revisar que este bien la programación para no tener problemas posteriores, en dado caso de hacer mal la programación se puede quitar; solo selecciona la oferta errónea, da clic en la parte donde aparece una X en color rojo.||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  19 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  19 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/3**| 
 
@@ -254,7 +254,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 ![configuracion de wincaja para ofertas](https://i.imgur.com/TRkweQy.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  20 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  20 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/3**| 
 
@@ -264,7 +264,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 | **PUESTO:** Encargado de marketing  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Configuración Wincaja para ofertas  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es cada semana antes de realizar la programación de las ofertas de cada sucursal  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Acceder al sistema de cada sucursal para programar los precios de cada oferta  <p> **ALCANCE:** <p> Aplica al encargado de marketing tener el acceso  a la configuración de wincaja para poder realizar la programación de ofertas  <p> **POLITICAS:**<p>  Tener precios actualizados de cada artículo en venta  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de marketing realizar la configuración de wincaja de la sucursal en la cual se va trabajar para la  programación de las ofertas   <p>  **DEFINICIONES:** <p> **Programar:** Proceso o labor destinada a proyectar, coordinar, seleccionar y organizar un conjunto de elementos para producir y crear objetos visuales destinados a comunicar mensajes específicos a grupos determinados <p> **Wincaja:** Es un programa tan versátil que usted tendrá el control de todo lo que ve en pantalla, imprimir todo lo que ve en ellas, además de tener un número ilimitado de pantallas de información. <p> **Configurar:** Escoger entre diferentes opciones con el fin de obtener un sistema informático personalizado o conseguir ejecutar un programa. ||    
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  21 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  21 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/3**| 
 
@@ -277,7 +277,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |2|Buscar la aplicación de wincaja versión 7 en la cual debajo de ella debe estar el archivo INI; abrir el archivo para editarlo ||
 |3|Editar la dirección del servidor, nombre de la base de datos y la caja según sea cada sucursal.||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  22 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  22 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/4**| 
 
@@ -288,7 +288,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 ![alta a los trabajadores en checador de asistencia](https://i.imgur.com/XonB2lh.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  23 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  23 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/4**| 
 
@@ -296,7 +296,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |-----------------------------------------------------|
 | **PUESTO:** Encargado de desarrollo  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Alta a los trabajadores en checador de asistencia  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es solo cuando se da de alta a nuevos trabajadores  <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control de  las entradas y salidas de los trabajadores.  <p> **ALCANCE:** <p> Aplica al encargado de desarrollo tener el acceso  al programa de checador de asistencia modo administrador para dar de alta a nuevos trabajadores   <p> **POLITICAS:**<p>  Todo trabajador tiene que checar sus entradas y salidas en el súper  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de desarrollo realizar la alta de los nuevos trabajadores en el programa de checador  de asistencia modo administrador    <p>  **DEFINICIONES:** <p> **Alta** Ingreso o inscripción de una persona en un cuerpo, asociación o empresa. <p> **Programa:** es una secuencia de instrucciones, escritas para realizar una tarea específica en una computadora || 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  24 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  24 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/4**| 
 
@@ -310,7 +310,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |3|Clic en trabajador, se abrirá una ventana nueva para dar de alta a un nuevo trabajador ||
 |4|Llenar los datos solicitados como: el nombre del trabajador, correo, fecha de nacimiento, teléfono y las huellas del dedo índice de la mano derecha e izquierda del trabajador; para finalizar el registro solo se le da guardar||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  25 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  25 de 36
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/5**|
 
@@ -322,7 +322,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 ![creacion de reportes](https://i.imgur.com/k8JLS6T.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  26 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  26 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/5**|
 
@@ -330,7 +330,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |-----------------------------------------------------|
 | **PUESTO:** Encargado de desarrollo  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Creación de reportes  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es frecuente; se realiza solo cuando surge algún inconveniente o alguna cuestión    <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Crear reportes para poder ver cómo se encuentran  las actividades y operaciones en la empresa <p> **ALCANCE:** <p> Aplica al encargado de desarrollo tener el acceso  al programa de  Microsoft SQL-Server management studio para la creación de reportes    <p> **POLITICAS:**<p>  Tener información de todas las operaciones realizadas en el súper   <p> **RESPONSABILIDADES:**<p>  Es responsabilidad del encargado de desarrollo realizar los reportes necesarios en la empresa con el programa llamado Microsoft SQL-Server management studio  <p>  **DEFINICIONES:** <p> **Microsoft SQL-Server management studio:** Es un sistema de manejo de bases de datos del modelo relacional, desarrollado por la empresa Microsoft <p> **Reporte:** Noticia o informe acerca de un hecho o suceso  ||  
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  27 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  27 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/5**|
 
@@ -344,7 +344,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |3|Crear un script conforme al problema que se presente||
 |4|Copiar toda la consulta con el encabezado para posteriormente poder pegarlo en el formato requerido como por ejemplo Excel que es el más usual. <p> Otra forma de que sea más clara y se pueda ver el solo lo que es el reporte, se puede ocupar un programa llamado Report builder ||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  28 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  28 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/6**|
 
@@ -355,7 +355,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 ![alta a un nuevo cajero ](https://i.imgur.com/4gtcAJN.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  29 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página  29 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/6**|
 
@@ -364,7 +364,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 | **PUESTO:** Encargado de desarrollo  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Alta a un nuevo cajero en wincaja  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es poco frecuente; se realiza solo cuando hay un cajero nuevo en la empresa     <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>  Tener una cuenta para cada cajero para poder tener información detallada de sus movimientos <p> **ALCANCE:** <p> Aplica al encargado de desarrollo tener el acceso  al programa de Wincaja para dar de alta a  nuevas cajeras (os)  <p> **POLITICAS:**<p>  Tener información de todas las operaciones realizadas en el súper   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de desarrollo realizar los registros de altas de cajeras(os) en  wincaja  <p>  **DEFINICIONES:** <p> **Wincaja:**  Es un programa tan versátil que usted tendrá el control de todo lo que ve en pantalla, imprimir todo lo que ve en ellas, además de tener un número ilimitado de pantallas de información.<p> **Programa:** Es una secuencia de instrucciones, escritas para realizar una tarea específica en una computadora  ||  
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 30 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 30 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/6**| 
 
@@ -382,7 +382,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |6|Guardar||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 31 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 31 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**| 
 
@@ -393,7 +393,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 ![cierre de base de datos ](https://i.imgur.com/KQGFvTn.jpg)
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 32 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 32 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
 
@@ -401,7 +401,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |-----------------------------------------------------|
 | **PUESTO:** Encargado de mantenimiento  <p> **JEFE INMEDIATO:** Jefe de tecnología de información  <p> **PROCEDIMIENTO:** <p> Cierre de base de datos  <p> **FRECUENCIA:**  <p> La realización de este procedimiento es una vez cada año     <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p>  Mantener nuestras bases de datos agiles y con la suficiente capacidad tanto de almacenamiento como de velocidad de respuesta, para así el sistema WinCaja dé buenos resultados como también nuestras aplicaciones creadas en el departamento de sistemas  <p> **ALCANCE:** <p> Aplica al encargado de mantenimiento tener el acceso de la información de la base de datos de la empresa; así también la de llevar acabo el cierre de la base de datos junto con los demás encargados del área de tecnologías de información   <p> **POLITICAS:**<p>  Tener información de todas las operaciones realizadas en el súper   <p> **RESPONSABILIDADES:**<p> Es responsabilidad del encargado de mantenimiento planear las actividades de cada encargado del área de tecnologías de información para llevar acabo el cierre de la base de datos   <p>  **DEFINICIONES:** <p> **Base de datos:** es un conjunto de datos pertenecientes a un mismo contexto y almacenados sistemáticamente para su posterior uso<p> **Wincaja:** Es un programa tan versátil que usted tendrá el control de todo lo que ve en pantalla, imprimir todo lo que ve en ellas, además de tener un número ilimitado de pantallas de información. <p>  **Script:**  Es un programa usualmente simple, que por lo regular se almacena en un archivo de texto plano  ||   
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 33 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 33 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
 
@@ -415,7 +415,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |2|Cambiar el nombre del respaldo por [NombreRespaldo] _ [ YYYYMM ].BAK.RAR||
 
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 34 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 34 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
 
@@ -428,7 +428,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |3|Entrar en WinCaja -> Procesos Especiales -> Cierres. <p> *El cierre es por periodo <p> * Marcar todo excepto temas de facturación <p> * Si hay cajas habilitadas en la tabla Cajas deshabilitarlas <p> SELECT * FROM Cajas WHERE Habilitada = 1 <p> UPDATE Cajas SET Habilitada = 0 <p> * Volver a Cierres y finalizar el proceso||
 |4|Reducir el Log y la Base de Datos <p> Para reducir el log basta con correr un pequeño script <p> USE [Nombre_Base_de_Datos] <p> CHECKPOINT <p> CHECKPOINT <p> -- SP_HELPFILE <p> ALTER DATABASE [Nombre_Base_de_Datos] <p> SET RECOVERY SIMPLE; <p>  GO <p> DBCC SHRINKFILE (N'[Nombre_del_Log_de_Base_de_Datos]', 10) <p> ALTER DATABASE [Nombre_Base_de_Datos] <p> SET RECOVERY FULL;<p>  GO||
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 35 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 35 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
 
@@ -441,7 +441,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 |5|Montar el respaldo al principio creado y cambiar los nombres lógicos y físicos <p> *El nombre de la Base de datos será ahora [NombreOriginal]_[YYYYMM] <p> *El Nombre de la dirección de la data será [NombreOriginal]_[YYYYMM]_DATA.MDF <p> *El Nombre de la dirección del log será [NombreOriginal]_[YYYYMM]_LOG.LDF <p> Los nombres lógicos seguirán la misma estructura <p> * [NombreOriginal]_[YYYYMM]_DATA <p> *[NombreOriginal]_[YYYYMM]_LOG
 |6|Reducir el Log y la Base de Datos del respaldo; abriendo Microsoft SQL server management studio|
 
-|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 36 de 75|
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL ÁREA DE TECNOLOGÍA DE INFORMACIÓN | Página 36 de 36|
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Noviembre 2018**  <p> **Codigo:SPA-ATI-01/7**|
 
