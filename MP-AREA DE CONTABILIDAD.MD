@@ -64,22 +64,22 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 |Elaboración de nóminas|	13|
 |Alta de trabajadores en Aspel-NOI|	19|
 |Alta de trabajadores en el IDSE|	22|
-|Alta de trabajadores en el SUA  ||
-| Agregar horas extras en Aspel-NOI	|26|
-|Descargar el XML	|29|
-|Contabilización de egresos|	32|
-|Generar reportes de auxiliares|	37|
-|Capturar tabulares en Excel|	41|
-|Realizar el concentrado de los tabulares en Excel|	44|
-|Captura de tabulares en Aspel-COI	|47|
-|Registro de fichas pendientes de tabulares en Aspel-COI|	51|
-|Captura de créditos de mercancías otorgados a trabajadores|	54|
-|Captura de compras|	57|
-|Captura de transferencias|	61|
-|Registro de traspasó entre cuentas|	65|
-|Captura de los depósitos de nómina	|68|
-|Captura de depósitos pendientes registrados por conciliación|	71|
-|Conciliación bancaria|	73|
+|Alta a trabajadores en el SUA|	25|
+|Agregar horas extras en Aspel-NOI|	28|
+|Descargar el XML|	31|
+|Contabilización de egresos|	34|
+|Generar reportes de auxiliares|39|
+|Capturar tabulares en Excel|43|
+|Realizar el concentrado de los tabulares en Excel|	46|
+|Captura de tabulares en Aspel-COI|	49|
+|Registro de fichas pendientes de tabulares en Aspel-COI|	53|
+|Captura de créditos de mercancías otorgados a trabajadores|	56|
+|Captura de compras|59|
+|Captura de transferencias|	63|
+|Registro de traspasó entre cuentas|	67|
+|Captura de los depósitos de nómina|	70|
+|Captura de depósitos pendientes registrados por conciliación|	73|
+|Conciliación bancaria|	76|
 
 
 
