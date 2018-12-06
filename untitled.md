@@ -1,21 +1,22 @@
 # MANUAL DE PROCEDIMIENTOS DEL ÁREA DE FINANZAS
 
+<center>
+  
  **MANUAL DE PROCEDIMIENTOS DEL ÁREA DE FINANZAS**  
-
-  
  
-
-![](.gitbook/assets/logo-super-de-todo-color-04.jpg)
-
+</center> 
   
-&lt;center&gt;
+ ![](.gitbook/assets/logo-super-de-todo-color-04.jpg)
+
+
+<center>
 
 **SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V**
 
- &lt;/center&gt;
+</center>
 
+  **SPA-AF-01**
   
-\*\*SPA-AF-01\*\*  
 &lt;/center&gt;  
 &lt;div align="right"&gt;  
 \*\*SEPTIEMBRE 2018\*\*  
