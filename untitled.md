@@ -22,7 +22,9 @@
 \*\*SEPTIEMBRE 2018\*\*  
 &lt;/div&gt;  
   
-\|&lt;img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/&gt;\|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS \| Página 2 de 49 \|\|--\|--\|--\|\|\|\*\*Referencia a la Norma ISO 9001: 2015\*\*\|\*\*Edición: 01\*\* &lt;p&gt;  \*\*Fecha:Septiembre 2018\*\* &lt;p&gt; \*\*Codigo:SPA-AF-01\*\*\|  
+|<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página 2 de 49 |
+|--|--|--|
+||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>  **Fecha:Septiembre 2018** <p> **Codigo:SPA-AF-01**|  
   
 &lt;center&gt;  
 \# Hoja de autorización de finanzas  
