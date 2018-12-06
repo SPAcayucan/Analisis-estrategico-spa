@@ -1,10 +1,13 @@
 # MANUAL DE PROCEDIMIENTOS DEL ÁREA DE FINANZAS
 
-<center>
+
+  <div style="text-align:center"
   
  **MANUAL DE PROCEDIMIENTOS DEL ÁREA DE FINANZAS**  
  
 </center> 
+
+  <p> 
   
  ![](.gitbook/assets/logo-super-de-todo-color-04.jpg)
 
@@ -16,11 +19,12 @@
 </center>
 
   **SPA-AF-01**
+
+<div align="right">
   
-&lt;/center&gt;  
-&lt;div align="right"&gt;  
-\*\*SEPTIEMBRE 2018\*\*  
-&lt;/div&gt;  
+**SEPTIEMBRE 2018**  
+
+</div>  
   
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE FINANZAS | Página 2 de 49 |
 |--|--|--|
