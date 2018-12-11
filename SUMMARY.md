@@ -1,5 +1,4 @@
 # Table of contents
 
-* [MANUALES DE PROCEDIMIENTOS](README.md)
-* [MANUAL DE PROCEDIMIENTOS DEL ÁREA DE FINANZAS](untitled.md)
+* [Initial page](README.md)
 
