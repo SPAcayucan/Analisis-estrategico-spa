@@ -77,9 +77,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
   
 |Descripción de procedimientos                           |
 |-----------------------------------------------------|
-| **PUESTO:** Jefe de finanzas <p> **JEFE INMEDIATO:** Gerente general  
- <p> **PROCEDIMIENTO:**   <p>  Revisión de cortes de caja  <p>   **FRECUENCIA:**  <p>  La realización de dicha actividad es diaria al inicio de cada día   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control correcto de los ingresos en cada sucursal   <p>   
- **ALCANCE:** <p>  Aplica al personal de finanzas llevar la revisión de los cortes de caja de las sucursales <p>  **POLITICAS:**<p> El jefe de finanzas deberá estar al pendiente de los cortes diarios que se llevan a cabo en cada sucursal  <p>  **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de finanzas pedir las tiras de auditoria de cada caja de las sucursales y realizar la revisión de cada una <p> Es responsabilidad del gerente de tienda entregar las tiras de auditoria al jefe de finanzas   <p> **DEFINICIONES:** <p>  **Tiras de auditoria:** Son los cortes de caja que genera Wincaja el cual puede ser parcial  o final del día  |
+| **PUESTO:** Jefe de finanzas <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:**   <p>  Revisión de cortes de caja  <p>   **FRECUENCIA:**  <p>  La realización de dicha actividad es diaria al inicio de cada día   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control correcto de los ingresos en cada sucursal   <p>  **ALCANCE:** <p>  Aplica al personal de finanzas llevar la revisión de los cortes de caja de las sucursales <p>  **POLITICAS:**<p> El jefe de finanzas deberá estar al pendiente de los cortes diarios que se llevan a cabo en cada sucursal  <p>  **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de finanzas pedir las tiras de auditoria de cada caja de las sucursales y realizar la revisión de cada una <p> Es responsabilidad del gerente de tienda entregar las tiras de auditoria al jefe de finanzas   <p> **DEFINICIONES:** <p>  **Tiras de auditoria:** Son los cortes de caja que genera Wincaja el cual puede ser parcial  o final del día  |
   
 <p>
 
