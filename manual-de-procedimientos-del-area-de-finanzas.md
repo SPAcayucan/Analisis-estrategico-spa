@@ -39,13 +39,19 @@ El presente Manual de Procedimientos tiene como propósito contar como una guía
 <div class="text-justify">
 
 # Objetivo del manual
+
+<p>
+  
 Guiar a los empleados en el trabajo para garantizar la optimización de los procesos y procedimientos dentro del área de finanzas <p> 
   
-# Objetivos específicos <p>
+# Objetivos específicos 
+<p>
+  
 * Proporcionar a todos los empleados el manual de procedimientos para que tengan una guía de cómo deben realizar cada uno de sus funciones 
 * Capacitar a cada empleado nuevo o empleado con antigüedad, en la manera que debe ocupar el manual de procedimientos; dando una introducción de la estructura, distribución del contenido y desarrollo de los procedimientos del manual.
 * Implementar el manual de procedimientos dentro del área de finanzas 
 * Realizar un análisis cada 2 meses para ver los resultados obtenidos dentro de cada área de la empresa
+
 <p> 
   
 # Alcance del manual
