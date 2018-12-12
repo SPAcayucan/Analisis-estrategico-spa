@@ -220,4 +220,19 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
   
 |Descripción de procedimientos                    |
 |-----------------------------------------------------|
-| **PUESTO:** Auxiliar de finanzas <br>**JEFE INMEDIATO:** Jefe de finanzas <br>**PROCEDIMIENTO:** <br>Reposición de compras y gastos   <br>**FRECUENCIA:**  <br>La realización de dicha actividad es diaria ya que todos los días se realizan compras y gastos dentro de cada sucursal   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Generar los cheques necesarios para la reposición del importe de compras y gastos de cada una de las sucursales para que estas no se queden sin efectivo   <br>**ALCANCE:** <br>Aplica al Auxiliar de finanzas tener la papelería de los reportes de reposiciones diarias para poder realizar las reposiciones de cada sucursal   <br>**POLITICAS:** <br>El auxiliar de finanzas tiene que realizar las reposiciones de compras y gastos diariamente  <br>**RESPONSABILIDADES:** <br>Es responsabilidad del gerente de tienda hacer sus reportes de reposiciones diarios y mandarlos al auxiliar de finanzas <br>Es responsabilidad del auxiliar de finanzas realizar las reposiciones de compras y gastos diariamente   <br>**DEFINICIONES:** <br>**Compras:** Acción de adquirir algo a cambio de dinero <br>**Gastos:** Egreso o salida de dinero en la empresa  |   
+| **PUESTO:** Auxiliar de finanzas <br>**JEFE INMEDIATO:** Jefe de finanzas <br>**PROCEDIMIENTO:** <br>Reposición de compras y gastos   <br>**FRECUENCIA:**  <br>La realización de dicha actividad es diaria ya que todos los días se realizan compras y gastos dentro de cada sucursal   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Generar los cheques necesarios para la reposición del importe de compras y gastos de cada una de las sucursales para que estas no se queden sin efectivo   <br>**ALCANCE:** <br>Aplica al Auxiliar de finanzas tener la papelería de los reportes de reposiciones diarias para poder realizar las reposiciones de cada sucursal   <br>**POLITICAS:** <br>El auxiliar de finanzas tiene que realizar las reposiciones de compras y gastos diariamente  <br>**RESPONSABILIDADES:** <br>Es responsabilidad del gerente de tienda hacer sus reportes de reposiciones diarios y mandarlos al auxiliar de finanzas <br>Es responsabilidad del auxiliar de finanzas realizar las reposiciones de compras y gastos diariamente   <br>**DEFINICIONES:** <br>**Compras:** Acción de adquirir algo a cambio de dinero <br>**Gastos:** Egreso o salida de dinero en la empresa  |    
+
+<p>
+  
+ |PROCEDIMIENTO: REPOSICIONES DE COMPRAS Y GASTOS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1 |Verificar las compras o gastos con el formato de reposición; con el fin de que no halla errores  ||
+|2| Solicitar las chequeras de las sucursales a el jefe de finanzas  |
+|3|Elaborar los cheques conforme a los importes obtenidos. En la aplicación de   Aspel -Banco, siguiendo las instrucciones: <br>-Ingresar a la aplicación, seleccionas emisión de cheques <br>-Seleccionar una cuenta de las cuatro que hay; dependiendo de la sucursal que se vaya a generar el cheque. <br>-Realizar la captura de movimientos bancarios. <br>-Primero escoge a quien se le va a realizar el cheque <br>-Verificar el núm. de cheque, con el núm. que está en la chequera <br>-Poner (0) en la parte del IVA para que no se descuente <p> -Llenar la parte de referencias en donde va si es reposición de compras o gastos <br>-Seleccionar guardar para posteriormente imprimir | -Cheque <br>-Póliza de cheque |
+|4|Ingresar la póliza generada por Aspel -banco junto con el formato de reposición ||
+|5|Firmar los cheques con el gerente general ||
+|6|Llamar a las sucursales para que pasen por los cheques.||  
+
