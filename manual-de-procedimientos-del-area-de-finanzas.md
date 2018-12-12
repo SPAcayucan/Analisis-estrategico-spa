@@ -36,7 +36,7 @@ El presente Manual de Procedimientos tiene como propósito contar como una guía
 
 </div>
 
-<div class="text-justify">
+
 
 # Objetivo del manual
 
@@ -57,7 +57,6 @@ Guiar a los empleados en el trabajo para garantizar la optimización de los proc
 # Alcance del manual
 Este manual de procedimientos será aplicado dentro de los procesos administrativos del área de finanzas de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
-</div>
 
 # Simbología de los diagramas de flujo 
 
