@@ -91,7 +91,34 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |3| Depositar el efectivo a cada cuenta en el banco de acuerdo a la sucursal|| 
 |4| Agregar la ficha de depósito a los cortes diarios para posteriormente pasar al departamento de contabilidad para su captura|Ficha de deposito| 
 
+## Programar pagos aa proveedores mayores de $2,000.00
 
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Programar pagos a proveedores mayores de $2,000.00 |
+|Puesto|Jefe de finanzas |
+
+![programacionpagoaproveedores](https://i.imgur.com/SGLyWTs.jpg)
+
+<br>
+
+|Descripción de procedimientos                    |
+|-----------------------------------------------------|
+| **PUESTO:** Jefe de finanzas <br>**JEFE INMEDIATO:** Gerente general  <br>**PROCEDIMIENTO:** <br>Programar pagos a proveedores mayores de $ 2,000.00  <br>**FRECUENCIA:**  <br>La realización de dicha actividad es diaria ya que todos los dias se realizan compras las cuales se programan para su posterior pago   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Controlar los pagos correspondientes de cada proveedor de acuerdo a los plazos de cada uno.  <br>**ALCANCE:** <br>Aplica al personal de finanzas llevar la programación de pagos a los proveedores  <br>**POLITICAS:** <br>El jefe de finanzas tiene que llevar el control de los pagos a los proveedores   <br>**RESPONSABILIDADES:** <br> Es responsabilidad del jefe de finanzas programar los pagos de cada proveedor de acuerdo a los plazos que le otorgan a la empresa <br>Es reponsabilidad del auxiliar contable llevar la captura contable de los pagos a proveedores mayores de 2,000.00  <br>**DEFINICIONES:** <br>**proveedor:** Que se dedica a proveer o abastecer de productos necesarios a una persona o empresa. <br>**programar:** Proceso que se utiliza para idear y ordenar las acciones | 
+
+<br>
+
+|PROCEDIMIENTO:PROGRAMAR PAGOS A PROVEEDORES MAYORES DE $2,000.00 |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1 | Programar diariamente los pagos de cada proveedor con más de $ 2000.00 u otros gastos en el cual se debe registrar: la fecha, el proveedor y el monto a pagar.||
+|2|Registrar los depósitos diarios para checar los ingresos de cada sucursal y poder controlar los egresos de cada sucursal; es decir que no haya más egresos que ingresos en el día.||
+|3| Recibir la factura del proveedor de su revisión antes del pago|| 
+|4| Hacer un contra recibo; esto con la finalidad de su revisión antes del pago|* Anexo 1 .Contra recibo <br>* Factura <br>* Entrada de compra <br>* Comprobante de pago(transferencia electrónica)|
+|5|Realizar los pagos por medio de trasferencias electrónicas ||
+|6|Pasar la entrada de compra, la factura y el pago correspondiente realizado con trasferencia electrónica al área de contabilidad para su captura o registro.||
 
 
 
