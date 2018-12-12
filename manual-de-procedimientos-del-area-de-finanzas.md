@@ -116,7 +116,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |1 | Programar diariamente los pagos de cada proveedor con más de $ 2000.00 u otros gastos en el cual se debe registrar: la fecha, el proveedor y el monto a pagar.||
 |2|Registrar los depósitos diarios para checar los ingresos de cada sucursal y poder controlar los egresos de cada sucursal; es decir que no haya más egresos que ingresos en el día.||
 |3| Recibir la factura del proveedor de su revisión antes del pago|| 
-|4| Hacer un contra recibo; esto con la finalidad de su revisión antes del pago|* Anexo 1 .Contra recibo <br>* Factura <br>* Entrada de compra <br>* Comprobante de pago(transferencia electrónica)|
+|4| Hacer un contra recibo; esto con la finalidad de su revisión antes del pago|-Anexo 1 .Contra recibo <br>-Factura <br>-Entrada de compra <br>-Comprobante de pago(transferencia electrónica)|
 |5|Realizar los pagos por medio de trasferencias electrónicas ||
 |6|Pasar la entrada de compra, la factura y el pago correspondiente realizado con trasferencia electrónica al área de contabilidad para su captura o registro.||
 
