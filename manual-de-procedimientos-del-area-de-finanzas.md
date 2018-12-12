@@ -62,6 +62,34 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![simbolos](./img.areadeoperación/simbolos.jpg)
 
+# Descripción de los procedimientos 
+
+## Revisión de cortes de caja 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Revisión de cortes de caja |
+|Puesto|Jefe de finanzas |
+
+![revisióndecortesdecaja](https://i.imgur.com/hQlPEG0.jpg)
+
+<p>
+  
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+| **PUESTO:** Jefe de finanzas <p> **JEFE INMEDIATO:** Gerente general  <p> **PROCEDIMIENTO:** <p> Revisión de cortes de caja <p> **FRECUENCIA:**  <p> La realización de dicha actividad es diaria al inicio de cada día   <p> **OBJETIVO DEL PROCEDIMIENTO:**  <p> Llevar un control correcto de los ingresos en cada sucursal   <p> **ALCANCE:** <p> Aplica al personal de finanzas llevar la revisión de los cortes de caja de las sucursales <p> **POLITICAS:**<p> El jefe de finanzas deberá estar al pendiente de los cortes diarios que se llevan a cabo en cada sucursal  <p> **RESPONSABILIDADES:**<p> Es responsabilidad del jefe de finanzas pedir las tiras de auditoria de cada caja de las sucursales y realizar la revisión de cada una <p> Es responsabilidad del gerente de tienda entregar las tiras de auditoria al jefe de finanzas   <p> **DEFINICIONES:** <p> **Tiras de auditoria:** Son los cortes de caja que genera Wincaja el cual puede ser parcial  o final del día  |
+  
+<p>
+
+|PROCEDIMIENTO:REVISIÓN DE CORTES DE CAJA |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1 |   Revisar que el tabular que emite la cajera coincida correctamente con la auditoria que emite el sistema. Revisar los siguientes puntos: <p>*El total sea correcto de acuerdo con los documentos que fueron cobrados en el trascurso del día como son: tarjetas de crédito, tarjetas de débito, créditos al personal y las respectivas cancelaciones  ||
+|2|Concentrar el efectivo de la venta del día    ||
+|3| Depositar el efectivo a cada cuenta en el banco de acuerdo a la sucursal|| 
+|4| Agregar la ficha de depósito a los cortes diarios para posteriormente pasar al departamento de contabilidad para su captura|Ficha de deposito| 
 
 
 
