@@ -36,15 +36,15 @@ El presente Manual de Procedimientos tiene como propósito contar como una guía
 
 </div>
 
+# Objetivos 
 
-
-# Objetivo del manual
+## Objetivo del manual
 
 <p>
   
 Guiar a los empleados en el trabajo para garantizar la optimización de los procesos y procedimientos dentro del área de finanzas <p> 
   
-# Objetivos específicos 
+## Objetivos específicos 
 <p>
   
 * Proporcionar a todos los empleados el manual de procedimientos para que tengan una guía de cómo deben realizar cada uno de sus funciones 
@@ -54,7 +54,7 @@ Guiar a los empleados en el trabajo para garantizar la optimización de los proc
 
 <p> 
   
-# Alcance del manual
+## Alcance del manual
 Este manual de procedimientos será aplicado dentro de los procesos administrativos del área de finanzas de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 
