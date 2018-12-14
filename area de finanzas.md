@@ -559,7 +559,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Septiembre 2018**  <p> **Codigo:SPA-AF-01** |
 
 
-## ANEXO 4. Concentrado de pagos a proveedores mayores de $2,000.00
+## Anexo 4. Concentrado de pagos a proveedores mayores de $2,000.00
 
 ![concentradodeproveedoresmayoresde$2000](https://i.imgur.com/PwGefVU.jpg)
  
