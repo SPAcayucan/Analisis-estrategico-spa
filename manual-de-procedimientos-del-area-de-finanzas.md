@@ -361,7 +361,10 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 <p>
   
-**Instrucciones de llenado:**
+**Instrucciones de llenado:** 
+
+<p>
+  
 **1. Fecha:** Se anota la fecha en el que se está recibiendo el documento (factura) <br>**2. Número:** Anotar el numero consecutivo del contra recibo  <br>**3. Recibimos de:** Nombre completo del proveedor que nos está entregando el documento <br>**4. Datos de los documentos a revisión:** En este apartado va el número consecutivo de las facturas o documentos que se están recibiendo, la fecha que trae cada documento y el importe total de cada uno; por último se suma todos los importes y se saca el total de los documentos recibidos <br> **5. Fecha de pago:** Anotar la fecha de vencimiento de los documentos <br>**6. Firma:** Poner la firma del responsable quien recibe los documentos <br>**7. Sello:** Poner el sello de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 <p>
@@ -415,7 +418,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![transferenciadealmacenysucursal](https://i.imgur.com/jR7SBtk.jpg)
 
-**1. Encabezado:** Deberá poner transferencias de almacén seguido con la sucursal correspondiente <br>**2. Fecha:** Anotar la fecha del día que se realizó dicha transferencia <br>**3. Documento:** Agregar el número de documento de la transferencia correspondiente en el cual cada sucursal es diferente: <br>Zaragoza: T01 <br> * Victoria: T20 y T21 <br>-Jaltipán: T40 Y T44 <br>-Oluta: T50  <br> **4. Folio:** Agregar el número de folio del documento de la transferencia <br>**5. Cargo:** Anotar el valor total de las transferencias <br> **6. Abono:** Son las devoluciones a almacén, venas electrónicas del mes, pagos a proveedores y los pagos de trasferencias entre sucursales <br>**7. Saldo:** Total real del mes sea a favor o en contra es el saldo con el que se comienza en él es siguiente 
+**1. Encabezado:** Deberá poner transferencias de almacén seguido con la sucursal correspondiente <br>**2. Fecha:** Anotar la fecha del día que se realizó dicha transferencia <br>**3. Documento:** Agregar el número de documento de la transferencia correspondiente en el cual cada sucursal es diferente: <br>Zaragoza: T01 <br>Victoria: T20 y T21 <br>Jaltipán: T40 Y T44 <br>-Oluta: T50  <br> **4. Folio:** Agregar el número de folio del documento de la transferencia <br>**5. Cargo:** Anotar el valor total de las transferencias <br> **6. Abono:** Son las devoluciones a almacén, venas electrónicas del mes, pagos a proveedores y los pagos de trasferencias entre sucursales <br>**7. Saldo:** Total real del mes sea a favor o en contra es el saldo con el que se comienza en él es siguiente 
 
 
 
