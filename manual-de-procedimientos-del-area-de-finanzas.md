@@ -386,7 +386,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 <p>
 
-## ANEXO 4. Concentrado de pagos a proveedores mayores de $2,000.00
+## Anexo 4. Concentrado de pagos a proveedores mayores de $2,000.00
 
 ![concentradodeproveedoresmayoresde$2000](https://i.imgur.com/PwGefVU.jpg)
 
