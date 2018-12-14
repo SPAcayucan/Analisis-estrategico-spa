@@ -351,6 +351,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |4|Registrar los documentos en el concentrado de las trasferencias de cada tienda  |Anexo 6.Concentrado de transferencias y almacén |
 |5|Realizar el cierre de mes ||
 
+
 # Anexos
 
 
@@ -410,6 +411,9 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 
 ## Anexo 6. Concentrado de transferencias entre sucursal y almacén 
+
+
+![transferenciadealmacenysucursal](https://i.imgur.com/jR7SBtk.jpg)
 
 **1. Encabezado:** Deberá poner transferencias de almacén seguido con la sucursal correspondiente <br>**2. Fecha:** Anotar la fecha del día que se realizó dicha transferencia <br>**3. Documento:** Agregar el número de documento de la transferencia correspondiente en el cual cada sucursal es diferente: <br>Zaragoza: T01 <p> * Victoria: T20 y T21 <br> * Jaltipán: T40 Y T44 <br>*Oluta: T50  <br> **4. Folio:** Agregar el número de folio del documento de la transferencia <br>**5. Cargo:** Anotar el valor total de las transferencias <br> **6. Abono:** Son las devoluciones a almacén, venas electrónicas del mes, pagos a proveedores y los pagos de trasferencias entre sucursales <br>**7. Saldo:** Total real del mes sea a favor o en contra es el saldo con el que se comienza en él es siguiente 
 
