@@ -405,7 +405,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
   
 **Instructivo de llenado:**
 
-**1. Encabezado:** Deberá ir concentrado de ventas, seguido de la sucursal que corresponda <br>**2. Fecha:** Anotar la fecha del día correspondiente del registro de la venta <br>**3. Núm. de tabular:** Deberá agregar el número del tabular de corte de caja del día correspondiente <br>**4. Ventas electrónicas:** Se debe poner el total de ventas de tarjetas que vega en el tabular <br>**5. Venta total:** Son las ventas totales del día que vienen en la tira de auditoria que emite Wincaja <br>     **6. Vales:** Total de vales de papel <p> **7. Saldo:** Son las sumas totales de cada columna durante todo el mes 
+**1. Encabezado:** Deberá ir concentrado de ventas, seguido de la sucursal que corresponda <br>**2. Fecha:** Anotar la fecha del día correspondiente del registro de la venta <br>**3. Núm. de tabular:** Deberá agregar el número del tabular de corte de caja del día correspondiente <br>**4. Ventas electrónicas:** Se debe poner el total de ventas de tarjetas que vega en el tabular <br>**5. Venta total:** Son las ventas totales del día que vienen en la tira de auditoria que emite Wincaja <br>**6. Vales:** Total de vales de papel <br>**7. Saldo:** Son las sumas totales de cada columna durante todo el mes 
 
 <p>
 
@@ -415,7 +415,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 ![transferenciadealmacenysucursal](https://i.imgur.com/jR7SBtk.jpg)
 
-**1. Encabezado:** Deberá poner transferencias de almacén seguido con la sucursal correspondiente <br>**2. Fecha:** Anotar la fecha del día que se realizó dicha transferencia <br>**3. Documento:** Agregar el número de documento de la transferencia correspondiente en el cual cada sucursal es diferente: <br>Zaragoza: T01 <p> * Victoria: T20 y T21 <br> * Jaltipán: T40 Y T44 <br>*Oluta: T50  <br> **4. Folio:** Agregar el número de folio del documento de la transferencia <br>**5. Cargo:** Anotar el valor total de las transferencias <br> **6. Abono:** Son las devoluciones a almacén, venas electrónicas del mes, pagos a proveedores y los pagos de trasferencias entre sucursales <br>**7. Saldo:** Total real del mes sea a favor o en contra es el saldo con el que se comienza en él es siguiente 
+**1. Encabezado:** Deberá poner transferencias de almacén seguido con la sucursal correspondiente <br>**2. Fecha:** Anotar la fecha del día que se realizó dicha transferencia <br>**3. Documento:** Agregar el número de documento de la transferencia correspondiente en el cual cada sucursal es diferente: <br>Zaragoza: T01 <br> * Victoria: T20 y T21 <br>-Jaltipán: T40 Y T44 <br>-Oluta: T50  <br> **4. Folio:** Agregar el número de folio del documento de la transferencia <br>**5. Cargo:** Anotar el valor total de las transferencias <br> **6. Abono:** Son las devoluciones a almacén, venas electrónicas del mes, pagos a proveedores y los pagos de trasferencias entre sucursales <br>**7. Saldo:** Total real del mes sea a favor o en contra es el saldo con el que se comienza en él es siguiente 
 
 
 
