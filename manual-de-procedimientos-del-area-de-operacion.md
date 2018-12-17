@@ -1186,7 +1186,9 @@ Instructivo de llenado
 ## Anexo 3.Corte parcial X de Wincaja   
 
 
-<img src="https://i.imgur.com/yQOz5L2.jpg" alt="https://i.imgur.com/yQOz5L2.jpg" style="width:8cm;" align="left"/> Instructivo de llenado: <br> 
+<img src="https://i.imgur.com/yQOz5L2.jpg" alt="https://i.imgur.com/yQOz5L2.jpg" style="width:8cm;" align="left"/> Instructivo de llenado:
+
+<br> 
 
 1. **Firma del cajero:** Poner la firma del cajero que esta realizando el corte de caja 
 2. **Firma del supervisor:** Deberá tener la firma del gerente de tienda o en su caso del gerente de entrenamiento el que este recibiendo el corte de caja 
