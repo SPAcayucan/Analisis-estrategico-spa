@@ -39,7 +39,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
  Guiar a los empleados en el trabajo para garantizar la optimización de los procesos y procedimientos dentro del área de operación
 
-### Objetivo especificos
+### Objetivo específicos
 
 * Proporcionar a todos los empleados el manual de procedimientos para que tengan una guía de cómo deben realizar cada uno de sus funciones 
 * Capacitar a cada empleado nuevo o empleado con antigüedad, en la manera que debe ocupar el manual de procedimientos; dando una introducción de la estructura, distribución del contenido y desarrollo de los procedimientos del manual.
