@@ -933,7 +933,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |Procedimiento | Captura de depósitos pendientes registrados por conciliación|
 |Puesto|Auxiliar contable |
 
-
+![captura de depositos pendientes por conciliación](https://i.imgur.com/qQ3lS8e.jpg)
 
 |<img src="https://i.imgur.com/n4bc0Ga.png" width="130" height="135"/>|MANUAL DE PROCEDIMIENTOS DEL AREA DE CONTABILIDAD  | Página  73 de 78 |
 |--|--|--|
