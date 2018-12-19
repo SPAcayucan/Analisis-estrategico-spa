@@ -428,3 +428,238 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |7|Imprimir las pólizas de ingresos ||
 |8|Anexar las pólizas de ingresos en el Lefort de los tabulares || 
 
+<br>
+
+## Registro de fichas pendientes de tabulares en Aspel-COI
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Registro de fichas pendientes de tabulares en Aspel-COI|
+|Puesto|Auxiliar contable | 
+
+![polizas pendientes aspel coi](https://i.imgur.com/UmhwKwB.jpg) 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Registro de fichas pendientes de tabulares en Aspel-COI   <br>**FRECUENCIA:**  <br>La realización de dicha actividad es frecuente cuando hay fichas pendientes de los depósitos que se generan después de la fecha  <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Llevar una buena contabilidad electrónica de los ingresos; teniendo toda la información completa anexada  <br>**ALCANCE:** <br>Aplica al auxiliar contable tener el acceso al programa de Aspel-COI para la capturación de las fichas pendientes en los tabulares    <br>**POLITICAS:** <br>Tener el control de todas las entradas de efectivo en la empresa   <br>**RESPONSABILIDADES:** <br>Es responsabilidad del jefe de finanzas realizar los depositos de efectivo a la cuenta correspondiente de cada sucursal y mandar estas fichas al auxiliar contable para su captura <br>Es responsabilidad del auxiliar contable tener el registro de los tabulares de las sucursales en el programa de Aspel-COI con sus respectivas fichas de depósito   <br>**DEFINICIONES:** <br>**Tabular:**  Formato de corte de caja en el cual se plasma toda la venta obtenida en la caja ;con el fin de describir todo el ingreso con sus respectivas denominaciones y formas de pago <br>**Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa <br>**Ficha:** Documento que notifica que se realizó un depósito a una respectiva cuenta  | 
+
+<br> 
+
+|PROCEDIMIENTO: REGISTRO DE FICHAS PENDIENTES DE TABULARES EN ASPEL-COI |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Esperar que el contador suba a Aspel-COI los costos de venta para poder registrar los tabulares pendientes ||
+|2|Clic en agregar póliza: para después llenar los datos necesarios para la realización de la póliza: <br>-Tipo de póliza: poner la de diario (Dr) <br>-Fecha: la que está en la ficha de deposito <br>-Concepto: registro pendiente de tabulares <br>-Concepto de movimiento: Registro deposito pendiente de tabulares-folio del tabular <br>-Agregar el cargo y abono correspondiente |Póliza de diario|
+|3|Imprimir la póliza de diario  || 
+|4|Anexar la póliza de diario en el Lefort de los tabulares del mes que le corresponde || 
+
+<br>
+
+## Captura de créditos de mercancías otorgados a trabajadores
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Captura de créditos de mercancías otorgados a trabajadores |
+|Puesto|Auxiliar contable | 
+
+![captura de creditos de mercancias ](https://i.imgur.com/whmMnAR.jpg) 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Captura de créditos de mercancías otorgados a trabajadores <br>**FRECUENCIA:**  <br>La realización de dicha actividad es diaria ya que los trabajadores disponen de este crédito en cualquier día   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Identificar los créditos de mercancías pagados y los faltantes por cobrar  <br>**ALCANCE:** <br>Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la capturación de  los créditos de mercancías otorgados a trabajadores  <br>**POLITICAS:** <br>Todo trabajador  tiene la disposición  de gozar créditos de mercancías en cualquier sucursal de la empresa     <br>**RESPONSABILIDADES:** <br>Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de los créditos de mercancías otorgados a los empleados de todas las sucursales en el programa de Aspel-COI   <br>**DEFINICIONES:**  <br>**Aspel-COI:** Sistema de Contabilidad Integral.Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa  | 
+
+<br>
+
+|PROCEDIMIENTO: CAPTURA DE CRÉDITOS DE MERCANCÍAS OTORGADOS A TRABAJADORES |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar a Aspel-COI y seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; posteriormente poner la contraseña para poder ingresar al programa ||
+|2|Poner el periodo y el mes en el vas a trabajar ||
+|3|Clic en la pestaña cuentas y pólizas; después agregar póliza||
+|4|Llenar los datos necesarios para la generación de la póliza: <br>Tipo: Poner la póliza de diario (Dr) <br>Fecha: va el día que se realiza el pago del crédito <br>Concepto: crédito de trabajadores <br>Concepto de movimiento: registró de depósito pago créditos y la sucursal |Póliza de diario|
+|5|Agregar los cargos y abonos correspondientes en este caso para saldar la cuenta del crédito; se carga bancos y se abona créditos de trabajadores||
+|6|Imprimir la póliza de diario||
+|7|Agregar la póliza de diario en el Lefort correspondiente||  
+
+<br>
+
+## Captura de compras
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Captura de compras |
+|Puesto|Auxiliar contable |
+
+![captura de compras ](https://i.imgur.com/APf6gy9.jpg) 
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Captura de compras <br>**FRECUENCIA:**  <br>La realización de dicha actividad es diaria    <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Llevar un control de todas las compras realizadas en cada sucursal  <br>**ALCANCE:** <br>Aplica al auxiliar contable tener el acceso del programa de compras SPA para capturar las compras de cada sucursal  <br>**POLITICAS:** <br>Registrar todo tipo de movimientos generados en cada sucursal del súper     <br>**RESPONSABILIDADES:** <br>Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de las compras generadas en cada una de las sucursales en el programa de compras SPA  <br>**DEFINICIONES:**  <br>**Compras:** Hace referencia a la acción de obtener o adquirir, a cambio de un precio determinado, un producto o un servicio   |  
+
+<br>
+
+|PROCEDIMIENTO: CAPTURA DE COMPRAS  |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Recibir las bitácoras de compras de cada sucursal  || 
+|2|Abrir el programa de compras-SPA|| 
+|3|Llenar los datos necesarios para la realización de la captura <br>Sucursal:Seleccionar la sucursal en la que se vaya registrar la compra  <br>Fecha: Poner la fecha que viene en la bitácora de compra <br>Tipo: Compras <br>Factura: Es el número o clave que está en la factura <br>Folio: Poner la referencia de la compra <br>Proveedor: Poner el nombre del proveedor que está en la factura <br>Observaciones: Anotar si existe algún inconveniente como el caso de que falte una alguna factura <br>Tasa 0 %: Poner la cantidad normal cuando no tiene IVA la factura <br>Tasa 16%: Poner la cantidad del sub total de la factura <br>IVA: se pone automáticamente <br>Subtotal: se pone automáticamente <p> Total: Se actualiza automáticamente || 
+|4|Guardar||
+|5|Avisar que se realizó el registro de las compras al contador general|| 
+ 
+ <br>
+ 
+ ## Captura de transferencias
+ 
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Captura de transferencias|
+|Puesto|Auxiliar contable |
+
+![captura de transferencias](https://i.imgur.com/oB3IzJc.jpg)
+
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Captura de transferencias <br>**FRECUENCIA:**  <br>La realización de dicha actividad es diaria    <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Llevar un control de todas las transferencias realizadas en cada sucursal  <br>**ALCANCE:** <br>Aplica al auxiliar contable tener el acceso del programa de compras SPA para capturar las transferencias de cada sucursal  <br>**POLITICAS:** <br>Registrar todo tipo de movimientos generados en cada sucursal del súper  <br>**RESPONSABILIDADES:** <br>Es responsabilidad del auxiliar contable tener el registro de todos los movimientos de las transferencias generadas en cada una de las sucursales en el programa de compras SPA  <br>**DEFINICIONES:**  <br>**Transferencias:** Trasladar o enviar una cosa desde un sitio hacia otro | 
+
+<br>
+
+|PROCEDIMIENTO: CAPTURA DE TRANSFERENCIAS   |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1| Recibir los documentos de transferencias  de cada sucursal |Transferencias| 
+|2|Abrir el programa de compras-SPA || 
+|3| Llenar los datos necesarios para la realización de la captura de transferencias , a continuación se explica  que se debe poner en cada apartado: <br>Sucursal: Seleccionar la sucursal en la que se vaya registrar la trasferencia <br>Fecha: Poner la fecha que viene en la trasferencia <br>Tipo: Transferencias <br>Factura: No hay <br>Folio: Poner el que viene en la trasferencia en dado caso que no tenga poner la fecha <br>Proveedor: No hay <br>Observaciones: Registrar el número de trasferencias <br>Tasa 0 %: Poner la cantidad normal cuando no tiene IVA la trasferencia <br>Tasa 16%: Poner la cantidad del sub total de la trasferencia <br>IVA: se pone automáticamente <br>Subtotal: se pone automáticamente <br>Total: Se actualiza automáticamente ||
+|4|Guardar||
+|5| Avisar que se realizó el registro de las trasferencias al contador general|| 
+
+<br> 
+
+## Registro de traspasó entre cuentas 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Registro de traspasó entre cuentas   |
+|Puesto|Auxiliar contable |
+
+![registro de traspaso entre cuentas](https://i.imgur.com/f7IuZqE.jpg)  
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Registro de traspasó entre cuentas <br>**FRECUENCIA:**  <br>La realización de dicha actividad  es frecuentemente en la semana   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Tener la información de todos los movimientos realizados en cada cuenta para su posterior conciliación <br>**ALCANCE:** <br>Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la captura de los traspasos entre las cuentas del súper <br>**POLITICAS:** <br>Registrar todo tipo de movimientos generados en cada sucursal del súper     <br>**RESPONSABILIDADES:** <br>Es responsabilidad del auxiliar contable tener la captura de todos los traspasos de  las cuentas, en el programa de Aspel-COI <br>**DEFINICIONES:**  <br>**Traspaso:** También es llamado "transferencia interna", implica únicamente a una entidad bancaria <br>**Aspel-COI:** Sistema de Contabilidad Integral. Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa | 
+
+<br> 
+
+|PROCEDIMIENTO: REGISTRO DE TRASPASÓ ENTRE CUENTAS      |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar al programa de Aspel-COI  ||
+|2|Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa ||
+|3|Seleccionar el periodo y el mes en él se va a trabajar ||
+|4|Clic en la pestaña cuentas y pólizas después agregar póliza||
+|5|Llenar los datos necesarios para la generación de la póliza: <br>Tipo: Poner la póliza de egreso (Eg) <br>Fecha: va el día que se realizó el traspaso <br>Concepto: Traspasos de cuenta <br>Concepto de movimiento: Traspasos de cta. Y el número de la cuenta que da el dinero y el número de la cuenta que recibe  ||
+|6|Agregar los cargos y abonos correspondientes||
+|7|Imprimir la póliza de egreso; para su posterior archivado en la carpeta del mes correspondiente||
+
+## Captura de los depósitos de nómina 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Captura de los depósitos de nómina    |
+|Puesto|Auxiliar contable |
+
+![captura de los depositos de nomina](https://i.imgur.com/Sl6WQiO.jpg) 
+
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Captura de los depósitos de nómina   <br>**FRECUENCIA:**  <br>La realización de dicha actividad  es cada semana   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Llevar un control de todos los depósitos de las nóminas para tener la información de todos los pagos realizados en tiempo y forma  <br>**ALCANCE:** <br> Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la captura de los depósitos de nómina <p> **POLITICAS:**<p> Registrar todo tipo de movimientos generados en cada sucursal del súper     <p> **RESPONSABILIDADES:** <p>Es responsabilidad del auxiliar contable tener la captura de todos los pagos efectuados por las nóminas, en el programa de Aspel-COI <p> **DEFINICIONES:**  <p> **Nómina:** Se refiere a la cantidad pagada a los empleados por los servicios que prestaron durante un cierto período de tiempo <p> **Aspel-COI:** Sistema de Contabilidad Integral. Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa | 
+          
+<br> 
+
+|PROCEDIMIENTO:  CAPTURA DE LOS DEPÓSITOS DE NÓMINA    |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar al programa de Aspel-COI  ||
+|2|Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa||
+|3|Seleccionar el periodo y el mes en él se va a trabajar ||
+|4|Clic en la pestaña cuentas y pólizas después agregar póliza||
+|5|Llenar los datos necesarios para la generación de la póliza: <br>Tipo: Poner la póliza de diario (Dr) <br>Fecha: va el día que se realizó el deposito <br>Concepto: Deposito de nomina <br>Concepto de movimiento: Deposito de nómina y el folio |Fichas de deposito |
+|6|Agregar los cargos y abonos correspondientes; en este caso se carga bancos se abona caja ||
+|7|Imprimir la póliza de diario; para su posterior archivado en el Lefort del mes correspondiente || 
+
+##  Captura de depósitos pendientes registrados por conciliación
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento | Captura de depósitos pendientes registrados por conciliación|
+|Puesto|Auxiliar contable |
+
+![captura de depositos pendientes por conciliación](https://i.imgur.com/qQ3lS8e.jpg)  
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Captura de depósitos pendientes registrados por conciliación  <br>**FRECUENCIA:**  <br>La realización de dicha actividad es cada que se presentan depósitos pendientes registrados por conciliación   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Tener la contabilidad cuadrada; aunque haya depósitos pendientes <br> **ALCANCE:** <br>Aplica al auxiliar contable  tener el acceso al programa de Aspel-COI para la captura de los depósitos pendientes registrados por conciliación   <br>**POLITICAS:** <br>Registrar todo tipo de movimientos generados en cada sucursal del súper <br>**RESPONSABILIDADES:** <br>Es responsabilidad del auxiliar contable tener la captura de los depósitos pendientes registrados por conciliación, en el programa de Aspel-COI <br>**DEFINICIONES:**  <br>**Conciliación bancaria:** Es un proceso que permite confrontar y conciliar los valores económicos que una empresa tiene registrados sobre una cuenta, ya sea corriente o de ahorro, con sus movimientos bancarios, así como clasificar el libro auxiliar de contabilidad para confrontarlo con el extracto <br>**Aspel-COI:** Sistema de Contabilidad Integral. Integra la funcionalidad de la Contabilidad Electrónica. Procesa, integra y mantiene actualizada la información contable y fiscal de la empresa  |  
+
+<br> 
+
+|PROCEDIMIENTO:  CAPTURA DE DEPÓSITOS PENDIENTES REGISTRADOS POR CONCILIACIÓN   |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1|Ingresar al programa de Aspel-COI  ||
+|2| Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa||
+|3|Seleccionar el periodo y el mes en él se va a trabajar ||
+|4|Clic en la pestaña cuentas y pólizas después agregar póliza||
+|5|Llenar los datos necesarios para la generación de la póliza: <br>Tipo: Poner la póliza de diario (Dr) <br>Fecha: va el día que se realizó el deposito pendiente <br>Concepto: Deposito pendiente por conciliación <br>Concepto de movimiento: Deposito pendiente registrado por conciliación y el número  ||
+|6|Agregar los cargos y abonos correspondientes; en este caso se carga bancos se abona caja ||
+|7|Imprimir la póliza de diario; para su posterior archivado en el Lefort del mes correspondiente|| 
+
+<br> 
+
+## Conciliación bancaria 
+
+|Diagrama de flujo||
+|--|--|
+|Procedimiento |Conciliación bancaria |
+|Puesto|Auxiliar contable |
+
+![conciliacion bancaria ](https://i.imgur.com/XZvzCbG.jpg)
+
+
+|Descripción de procedimientos                           |
+|-----------------------------------------------------|
+|**PUESTO:** Auxiliar de contabilidad <br>**JEFE INMEDIATO:** Contador general  <br>**PROCEDIMIENTO:** <br>Conciliación bancaria <br>**FRECUENCIA:**  <br>La realización de dicha actividad es cada fin de mes   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Efectuar las correcciones necesarias, para que tanto los registros contables y el banco reflejen el saldo correcto de la cuenta  <br>**ALCANCE:** <br>  Aplica al auxiliar contable tener acceso a los estados de cuenta de cada sucursal y a la contabilidad electrónica de Aspel-COI para la realización de las conciliaciones bancarias   <br>**POLITICAS:** <br>Registrar todo tipo de movimientos generados en cada sucursal del súper     <br>**RESPONSABILIDADES:** <br>Es responsabilidad del auxiliar contable tener el registro de todos los movimientos realizados en el súper, así como de realizar las conciliaciones bancarias cada fin de mes  <br>**DEFINICIONES:**  <br>**Conciliación bancaria:** Es un proceso que permite confrontar y conciliar los valores económicos que una empresa tiene registrados sobre una cuenta, ya sea corriente o de ahorro, con sus movimientos bancarios. |   
+
+<br> 
+
+|PROCEDIMIENTO: CONCILIACIÓN BANCARIA    |
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|1| Recibir el estado de cuenta por cada cuenta bancaria que ocupa SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V por medio del contador   | 
+|2| Ingresar al programa de Aspel-COI    || 
+|3|Seleccionar SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V; poner la contraseña para poder ingresar al programa||
+|4|Seleccionar el periodo, el mes y sacar el auxiliar: <br>-Seleccionar reportes <p> *Clic en Auxiliar; en el cual aparecerá una ventana, donde se pone el número de cuenta en la parte que dice desde y hasta va el mismo número de cuenta porque solo se quiere el auxiliar de una cuenta. <br>-Seleccionar exportar a Excel |Reporte de depósitos en transito|
+|5|Abrir el archivo de Excel; buscar cada ficha del estado de cuenta en el archivo que género: <br>Seleccionar buscar <br>Anotar el folio <br>-Resaltar de color amarillo si se encontró el registro del folio; hacer estos con todos los registros en el estado de cuenta |Reporte de cheques en transito|
+|6| Hacer un reporte de depósitos y cheques en tránsito: <br>-Buscar la plantilla de reportes y conciliación de Excel <br>Cambiar los datos por los de la cuenta en el que se están haciendo la conciliación <br>-Imprimir los reportes de cheques en tránsito, depósitos en tránsito y la conciliación bancaria  |Conciliación de la cuenta bancaria|
+|7|Archivar los documentos en la carpeta de la cuenta.|| 
+
+
+
+
