@@ -1,8 +1,5 @@
 # MANUAL DE PROCEDIMIENTOS DEL ÁREA DE OPERACIÓN
 
-## MANUAL DE PROCEDIMIENTOS DEL ÁREA DE OPERACIÓN
-
-## MANUAL DE PROCEDIMIENTOS DEL ÁREA DE OPERACIÓN
 
 ![](.gitbook/assets/logo-super-de-todo-color-02.jpg)
 
@@ -12,7 +9,7 @@
 
 **AGOSTO 2018**
 
-## Hoja de autorización de tienda
+# Hoja de autorización de tienda
 
 SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
@@ -35,30 +32,30 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
  Comprende en forma ordenada, secuencial y detallada las operaciones de los procedimientos a seguir para cada actividad laboral, promoviendo el buen desarrollo administrativo y operativo dentro de esta área. Este manual cuenta con todos los procesos y procedimientos que se realizan en el área de ventas, el encargado de esta área, los responsables de cada proceso, el desarrollo de cada procedimiento y los formatos utilizados en ciertos procesos.  
  Es importante señalar, que este documento está sujeto a actualización en la medida que se presenten variaciones en la ejecución de los procedimientos, en la normatividad establecida, y en la estructura o especificaciones de la norma ISO 9001:2015, o bien en algún otro aspecto que influya en la operatividad del mismo, con el fin de cuidar su vigencia operativa.
 
-## Objetivos
+# Objetivos
 
-### Objetivo del manual
+## Objetivo del manual
 
 Guiar a los empleados en el trabajo para garantizar la optimización de los procesos y procedimientos dentro del área de operación
 
-### Objetivo específicos
+## Objetivo específicos
 
 * Proporcionar a todos los empleados el manual de procedimientos para que tengan una guía de cómo deben realizar cada uno de sus funciones 
 * Capacitar a cada empleado nuevo o empleado con antigüedad, en la manera que debe ocupar el manual de procedimientos; dando una introducción de la estructura, distribución del contenido y desarrollo de los procedimientos del manual.
 * Implementar el manual de procedimientos dentro del área de operación
 * Realizar un análisis cada 2 meses para ver los resultados obtenidos dentro de cada área de la empresa
 
-### Alcance
+## Alcance
 
 Este manual de procedimientos será aplicado dentro de los procesos administrativos y operativos del área de operación SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
-## Simbología de los diagramas de flujo
+# Simbología de los diagramas de flujo
 
 ![simbolos](https://i.imgur.com/VaRGd7L.jpg)
 
-## Descripción de los procedimientos
+# Descripción de los procedimientos
 
-### Recibir productos de proveedores
+## Recibir productos de proveedores
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -82,7 +79,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Checar la cantidad de productos que traen los proveedores en físico estén en la factura que ellos nos entreguen. |  |
 | 4 | Revisar la caducidad de los productos para que tengan más tiempo para su venta |  |
 
-### Captura de compras
+## Captura de compras
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -214,7 +211,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 23 | Imprimir el reporte de costeo de transferencias | Reporte de costeo de transferencias |
 | 24 | Juntar los documentos de dicha transferencia |  |
 
-### Captura para la reposición de compras o gastos
+## Captura para la reposición de compras o gastos
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -240,7 +237,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Hacer la captura de reposición de compras o gastos al finalizar el día para agregar todos las compras y los gastos pagados en el día y posteriormente generar el reporte de cada caso para esto se tiene que hacer lo siguiente:  -Ingresar a la aplicación de reposiciones digital-SPA  -Seleccionar la pestaña de compras o gastos según sea el caso   -Clic en agregar; en el cual aparecerá una ventana en el que deberá llenar los datos solicitados y guardar  -Cerrar la aplicación e ir a la carpeta de reportes en el podremos ver las capturas realizadas en el día e imprimir, para estos sigue los siguientes pasos:  -Dar doble clic en la carpeta de reportes   -Clic en la carpeta de reposiciones en el cual aparecerá las reposiciones existentes; seleccionar el que va a ocupar puede ser de compras o gastos.  -Clic en desing; aparecerá una ventana en el que tendrás que poner la clave y contraseña para poder ingresar  -Buscar la fecha se quiere imprimir; en el cual se debe checar que en el reporte generado estén todos los vales generados en el día para después ya imprimir la reposición.  Anexar la reposición impresa con la papelería de vales provisionales de caja y sus facturas de dicha reposición | Reposición de compras o gatos |
 | 4 | Mandar la papelería de las reposiciones al área de finanzas. |  |
 
-### Elaboración de facturas
+## Elaboración de facturas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -266,7 +263,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Revisar los datos detalladamente y aceptar |  |
 | 6 | Imprimir o mandar por correo la factura según sea el caso. |  |
 
-### Realizar la consolidación de ventas al mostrador
+## Realizar la consolidación de ventas al mostrador
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -292,7 +289,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Dar aceptar cuando nos pregunta si hará la consolidación de todas las cajas |  |
 | 6 | Imprimir el formato de la consolidación de ventas al mostrador | Consolidación de ventas al mostrador |
 
-### Ventas a clientes contribuyentes
+## Ventas a clientes contribuyentes
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -319,7 +316,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Recibir el efectivo del pago del pedido enviado |  |
 | 7 | Anexar el pago a la caja correspondiente |  |
 
-### Cobro en efectivo
+## Cobro en efectivo
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -347,7 +344,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 7 | Otorgar el ticket | Ticket de venta |  |
 | 8 | Dar al cliente una cordial despedida |  |  |
 
-### Cobro con tarjeta
+## Cobro con tarjeta
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -378,7 +375,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 10 | Entregar al cliente su ticket de compra y una copia del baucher |  |
 | 11 | Dar al cliente una cordial despedida |  |
 
-### Cobro a crédito de mercancías a trabajadores
+## Cobro a crédito de mercancías a trabajadores
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -405,7 +402,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Dar al trabajador una cordial despedida |  |
 | 7 | Guardar los tickets porque al final del día se imprime un documento de la lista de todos los empleados que pidieron el crédito de mercancías |  |
 
-### Realizar recargas
+## Realizar recargas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -432,7 +429,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Esperar a que aparezca un recuadro done confirme que se efectuó la recarga e imprimir el ticket para dárselo al cliente |  |
 | 7 | Dar al cliente una cordial despedida |  |
 
-### Corte de caja
+## Corte de caja
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -457,7 +454,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Firmar el tabular elaborado |  |
 | 5 | Entregar el tabular de corte de caja con el efectivo y documentos al gerente de tienda o gerente en entrenamiento | Formato de tabular de corte de caja |
 
-### Hacer platos de carnes frías con emplaye
+## Hacer platos de carnes frías con emplaye
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -484,7 +481,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Poner la clave del producto y el precio |  |
 | 7 | Colocar los productos en el mostrador para su venta |  |
 
-### Corte de carnes frías con la rebanadora
+## Corte de carnes frías con la rebanadora
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -509,6 +506,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Pesar el producto para ver que sea lo que el cliente nos pide |  |
 | 5 | Poner nuestro producto en otra bolsa de plástico para que este no se vaya a caer; ya que la que ocupamos anteriormente es para solo agarrar el producto |  |
 | 6 | Colocar la clave y el precio del producto; entregar al cliente el producto, para que posteriormente se pueda cobrar en caja |  |
+
+## Preparación de tortas 
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -535,6 +534,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Calentar la torta |  |
 | 7 | Colocar en exhibición la torta |  |
 
+## Recibir productos de carnes frías
+
 | Diagrama de flujo |  |
 | :--- | :--- |
 | Procedimiento | Recibir productos de carnes frías |
@@ -555,6 +556,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 1 | Recibir el producto y checar que lo que nos entregaron sea lo que pedimos |  |
 | 2 | Checar los productos que tenemos en exhibición para ver si tenemos algún producto que esté a punto de caducarse y poderlo cambiar en el momento que nos llegue el nuevo producto |  |
 | 3 | Acomodar los nuevos productos de acuerdo a la marca y al tipo de carne que sea |  |
+
+## Elaboración de platos de frutas con emplaye
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -579,6 +582,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Ponerle el emplaye al plato para que las frutas no se vayan a ensuciar y estén frescas al momento de que el cliente lo vaya a adquirir |  |
 | 5 | Agregar al producto o plato la clave y precio |  |
 | 6 | Ponerlo en el mostrador para su posterior venta |  |
+
+## Poner precios a los productos
 
 | Diagrama de flujo |  |
 | :--- | :--- |
