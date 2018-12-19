@@ -708,7 +708,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 |--|--|--|
 ||**Referencia a la Norma ISO 9001: 2015**|**Edición: 01** <p>	**Fecha:Octubre 2018**  <p> **Codigo:SPA-AC-01/13**|
 
-|PROCEDIMIENTO: CAPTURA DE TABULARES EN ASPEL-COI |
+|PROCEDIMIENTO: REGISTRO DE FICHAS PENDIENTES DE TABULARES EN ASPEL-COI |
 |---|
 
 |No.|Actividad|Documento|
