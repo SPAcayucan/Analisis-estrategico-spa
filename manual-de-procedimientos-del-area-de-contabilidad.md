@@ -254,6 +254,8 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 <br>
 
+## Descansar el archivo XML
+
 |Diagrama de flujo||
 |--|--|
 |Procedimiento |Descansar el archivo XML |
