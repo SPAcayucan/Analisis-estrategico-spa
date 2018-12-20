@@ -1,5 +1,6 @@
 # MANUAL DE PROCEDIMIENTOS DEL ÁREA DE OPERACIÓN
 
+## MANUAL DE PROCEDIMIENTOS DEL ÁREA DE OPERACIÓN
 
 ![](.gitbook/assets/logo-super-de-todo-color-02.jpg)
 
@@ -9,7 +10,7 @@
 
 **AGOSTO 2018**
 
-# Hoja de autorización de tienda
+## Hoja de autorización de tienda
 
 SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
@@ -26,36 +27,36 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 | :--- | :--- | :--- |
 |  |  |  |
 
-## Introducción
+### Introducción
 
- El presente Manual de Procedimientos tiene como propósito contar como una guía clara y específica que garantice la óptima operación y desarrollo de las diferentes actividades dentro del área de operación de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V, para la mejora y estandarización de sus procesos y procedimientos.  
- Comprende en forma ordenada, secuencial y detallada las operaciones de los procedimientos a seguir para cada actividad laboral, promoviendo el buen desarrollo administrativo y operativo dentro de esta área. Este manual cuenta con todos los procesos y procedimientos que se realizan en el área de ventas, el encargado de esta área, los responsables de cada proceso, el desarrollo de cada procedimiento y los formatos utilizados en ciertos procesos.  
- Es importante señalar, que este documento está sujeto a actualización en la medida que se presenten variaciones en la ejecución de los procedimientos, en la normatividad establecida, y en la estructura o especificaciones de la norma ISO 9001:2015, o bien en algún otro aspecto que influya en la operatividad del mismo, con el fin de cuidar su vigencia operativa.
+El presente Manual de Procedimientos tiene como propósito contar como una guía clara y específica que garantice la óptima operación y desarrollo de las diferentes actividades dentro del área de operación de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V, para la mejora y estandarización de sus procesos y procedimientos.  
+Comprende en forma ordenada, secuencial y detallada las operaciones de los procedimientos a seguir para cada actividad laboral, promoviendo el buen desarrollo administrativo y operativo dentro de esta área. Este manual cuenta con todos los procesos y procedimientos que se realizan en el área de ventas, el encargado de esta área, los responsables de cada proceso, el desarrollo de cada procedimiento y los formatos utilizados en ciertos procesos.  
+Es importante señalar, que este documento está sujeto a actualización en la medida que se presenten variaciones en la ejecución de los procedimientos, en la normatividad establecida, y en la estructura o especificaciones de la norma ISO 9001:2015, o bien en algún otro aspecto que influya en la operatividad del mismo, con el fin de cuidar su vigencia operativa.
 
-# Objetivos
+## Objetivos
 
-## Objetivo del manual
+### Objetivo del manual
 
 Guiar a los empleados en el trabajo para garantizar la optimización de los procesos y procedimientos dentro del área de operación
 
-## Objetivo específicos
+### Objetivo específicos
 
 * Proporcionar a todos los empleados el manual de procedimientos para que tengan una guía de cómo deben realizar cada uno de sus funciones 
 * Capacitar a cada empleado nuevo o empleado con antigüedad, en la manera que debe ocupar el manual de procedimientos; dando una introducción de la estructura, distribución del contenido y desarrollo de los procedimientos del manual.
 * Implementar el manual de procedimientos dentro del área de operación
 * Realizar un análisis cada 2 meses para ver los resultados obtenidos dentro de cada área de la empresa
 
-## Alcance
+### Alcance
 
 Este manual de procedimientos será aplicado dentro de los procesos administrativos y operativos del área de operación SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
-# Simbología de los diagramas de flujo
+## Simbología de los diagramas de flujo
 
 ![simbolos](https://i.imgur.com/VaRGd7L.jpg)
 
-# Descripción de los procedimientos
+## Descripción de los procedimientos
 
-## Recibir productos de proveedores
+### Recibir productos de proveedores
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -79,7 +80,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Checar la cantidad de productos que traen los proveedores en físico estén en la factura que ellos nos entreguen. |  |
 | 4 | Revisar la caducidad de los productos para que tengan más tiempo para su venta |  |
 
-## Captura de compras
+### Captura de compras
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -117,7 +118,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 15 | Imprimir el reporte de costeo de compras | Reporte de costeo de compras |
 | 16 | Juntar los documentos relacionados con la factura de compra |  |
 
-### Solicitud de pedidos de sucursal a proveedores
+#### Solicitud de pedidos de sucursal a proveedores
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -140,7 +141,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 2 | Realizar el pedido de los productos que haga falta  -Cuando el proveedor venga a levantar pedido |  |
 | 3 | Recibir el ticket o comprobante del pedido realizado |  |
 
-### Solicitud de pedidos de sucursal a almacén
+#### Solicitud de pedidos de sucursal a almacén
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -165,7 +166,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Llenar los datos solicitados en el cual ya teniendo el producto seleccionado ya tiene algunos datos llenos solo hay que modificar el número de cajas o cantidad de productos que vamos a pedir |  |
 | 5 | Guardar el pedido |  |
 
-### Recibir mercancia de almacén
+#### Recibir mercancia de almacén
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -211,7 +212,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 23 | Imprimir el reporte de costeo de transferencias | Reporte de costeo de transferencias |
 | 24 | Juntar los documentos de dicha transferencia |  |
 
-## Captura para la reposición de compras o gastos
+### Captura para la reposición de compras o gastos
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -237,7 +238,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Hacer la captura de reposición de compras o gastos al finalizar el día para agregar todos las compras y los gastos pagados en el día y posteriormente generar el reporte de cada caso para esto se tiene que hacer lo siguiente:  -Ingresar a la aplicación de reposiciones digital-SPA  -Seleccionar la pestaña de compras o gastos según sea el caso   -Clic en agregar; en el cual aparecerá una ventana en el que deberá llenar los datos solicitados y guardar  -Cerrar la aplicación e ir a la carpeta de reportes en el podremos ver las capturas realizadas en el día e imprimir, para estos sigue los siguientes pasos:  -Dar doble clic en la carpeta de reportes   -Clic en la carpeta de reposiciones en el cual aparecerá las reposiciones existentes; seleccionar el que va a ocupar puede ser de compras o gastos.  -Clic en desing; aparecerá una ventana en el que tendrás que poner la clave y contraseña para poder ingresar  -Buscar la fecha se quiere imprimir; en el cual se debe checar que en el reporte generado estén todos los vales generados en el día para después ya imprimir la reposición.  Anexar la reposición impresa con la papelería de vales provisionales de caja y sus facturas de dicha reposición | Reposición de compras o gatos |
 | 4 | Mandar la papelería de las reposiciones al área de finanzas. |  |
 
-## Elaboración de facturas
+### Elaboración de facturas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -263,7 +264,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Revisar los datos detalladamente y aceptar |  |
 | 6 | Imprimir o mandar por correo la factura según sea el caso. |  |
 
-## Realizar la consolidación de ventas al mostrador
+### Realizar la consolidación de ventas al mostrador
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -289,7 +290,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Dar aceptar cuando nos pregunta si hará la consolidación de todas las cajas |  |
 | 6 | Imprimir el formato de la consolidación de ventas al mostrador | Consolidación de ventas al mostrador |
 
-## Ventas a clientes contribuyentes
+### Ventas a clientes contribuyentes
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -316,7 +317,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Recibir el efectivo del pago del pedido enviado |  |
 | 7 | Anexar el pago a la caja correspondiente |  |
 
-## Cobro en efectivo
+### Cobro en efectivo
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -344,7 +345,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 7 | Otorgar el ticket | Ticket de venta |  |
 | 8 | Dar al cliente una cordial despedida |  |  |
 
-## Cobro con tarjeta
+### Cobro con tarjeta
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -375,7 +376,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 10 | Entregar al cliente su ticket de compra y una copia del baucher |  |
 | 11 | Dar al cliente una cordial despedida |  |
 
-## Cobro a crédito de mercancías a trabajadores
+### Cobro a crédito de mercancías a trabajadores
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -402,7 +403,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Dar al trabajador una cordial despedida |  |
 | 7 | Guardar los tickets porque al final del día se imprime un documento de la lista de todos los empleados que pidieron el crédito de mercancías |  |
 
-## Realizar recargas
+### Realizar recargas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -429,7 +430,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Esperar a que aparezca un recuadro done confirme que se efectuó la recarga e imprimir el ticket para dárselo al cliente |  |
 | 7 | Dar al cliente una cordial despedida |  |
 
-## Corte de caja
+### Corte de caja
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -454,7 +455,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Firmar el tabular elaborado |  |
 | 5 | Entregar el tabular de corte de caja con el efectivo y documentos al gerente de tienda o gerente en entrenamiento | Formato de tabular de corte de caja |
 
-## Hacer platos de carnes frías con emplaye
+### Hacer platos de carnes frías con emplaye
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -481,7 +482,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Poner la clave del producto y el precio |  |
 | 7 | Colocar los productos en el mostrador para su venta |  |
 
-## Corte de carnes frías con la rebanadora
+### Corte de carnes frías con la rebanadora
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -507,7 +508,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Poner nuestro producto en otra bolsa de plástico para que este no se vaya a caer; ya que la que ocupamos anteriormente es para solo agarrar el producto |  |
 | 6 | Colocar la clave y el precio del producto; entregar al cliente el producto, para que posteriormente se pueda cobrar en caja |  |
 
-## Preparación de tortas 
+### Preparación de tortas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -534,7 +535,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Calentar la torta |  |
 | 7 | Colocar en exhibición la torta |  |
 
-## Recibir productos de carnes frías
+### Recibir productos de carnes frías
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -557,7 +558,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 2 | Checar los productos que tenemos en exhibición para ver si tenemos algún producto que esté a punto de caducarse y poderlo cambiar en el momento que nos llegue el nuevo producto |  |
 | 3 | Acomodar los nuevos productos de acuerdo a la marca y al tipo de carne que sea |  |
 
-## Elaboración de platos de frutas con emplaye
+### Elaboración de platos de frutas con emplaye
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -583,7 +584,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Agregar al producto o plato la clave y precio |  |
 | 6 | Ponerlo en el mostrador para su posterior venta |  |
 
-## Poner precios a los productos
+### Poner precios a los productos
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -606,7 +607,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 2 | Revisar que todos los productos estén actualizados con el precio real que este en el sistema |  |
 | 3 | Poner los precios reales si es que no lo tiene; para esto se tiene que imprimir desde caja e ir a ponerlos en el lugar de cada producto que haya cambiado |  |
 
-### Acomodar productos
+#### Acomodar productos
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -630,7 +631,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Limpiar el lugar y los productos que ya se encuentran; antes de poner los nuevos productos; checar la caducidad de los productos existentes |  |
 | 4 | Colocar los nuevos productos en los anaqueles correspondientes. |  |
 
-## Hoja de autorización de almacén
+### Hoja de autorización de almacén
 
 **SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V**
 
@@ -685,7 +686,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | :--- |
 | **PUESTO:** Estibador   **JEFE INMEDIATO:** Jefe de almacén   **PROCEDIMIENTO:**  Estibar la mercancía   **FRECUENCIA:**   La realización de esta actividad es diaria     **OBJETIVO DEL PROCEDIMIENTO:**   Controlar la mercancía que entra en la bodega y aprovechar al máximo la distribución del espacio.   **ALCANCE:**  Aplica al área de operación \(estibador y los cargadores\) la distribución de la mercancía en el almacén    **POLITICAS:**  El estibador debe de tener la mercancía bien acomodada y distribuida    **RESPONSABILIDADES:**  Es responsabilidad del estibador reacomodar la mercancía para colocar nueva en el mejor espacio para sus necesidades, así como de checar que esta esté en óptimas condiciones y tenga una caducidad mayor de tres meses  Es responsabilidad de los cargadores ayudar al estibar para mover la mercancía  Es responsabilidad del jefe de almacén estar al pendiente de la entrada de los bienes al almacén     **DEFINICIONES:**  **Estibar:** consiste en la adecuada colocación y distribución de las mercancías  **Mercancía:** es todo aquello que se puede vender o comprar |
 
-### Estibar la mercancía
+#### Estibar la mercancía
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -710,7 +711,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Acomodar la mercancía en el espacio antes destinado en el cual puede ser de mercancías de diferentes familias ya que en la bodega están acomodados por familias: suavizantes, limpiadores, cloros, lácteos, latería, papel, toallas y pañales etc. |  |
 | 5 | Poner la mercancía nueva en la parte de debajo de cada estiba ya que los productos con más tiempo en la bodega tienen menos tiempo para caducar y son los que deben salir primero |  |
 
-### Acomodar la mercancía
+#### Acomodar la mercancía
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -734,7 +735,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Acomodar la mercancía en donde lo indique el estibador |  |
 | 4 | Colocar las tarimas e ir haciendo las estibas de acuerdo a las necesidades del producto. Por ejemplo:  -Nutrileche se hace una cama de 15 cajas x 10 cajas de altura   -Aceite se hace una cama de 14 x 12 de altura, normalmente se pone pegado a la pared ya que es un producto pesado y si en caso de que se caiga uno no cause algún accidente  -Bultos de azúcar normalmente son de una cama de 6 x 30 de altura |  |
 
-### Surtir sucurales
+#### Surtir sucurales
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -761,7 +762,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Firmar y sellar la hoja de consolidación |  |
 | 7 | Entregar la hoja de consolidación firmada y sellada al capturista de transferencias |  |
 
-### Transferencia de mercancias
+#### Transferencia de mercancias
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -786,7 +787,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Escanear la mercancía que se van a mandar a la sucursal; al momento en que se estén subiendo al vehículo |  |
 | 5 | Imprimir dos veces la transferencia y una para el chofer y la otra para el gerente de tienda | Transferencia de mercancía |
 
-### Consolidación de la transferencia de mercancías
+#### Consolidación de la transferencia de mercancías
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -797,7 +798,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 | Descripción de procedimientos |
 | :--- |
-| **PUESTO:** Capturista de trasnferencias  **JEFE INMEDIATO:** Jefe de almacén   **PROCEDIMIENTO:**   Consolidación de la transferencia de mercancías  **FRECUENCIA:**   La realización de esta actividad es prácticamente diaria     **OBJETIVO DEL PROCEDIMIENTO:**   Validar la entrega de las mercancías en cada sucursal  -ALCANCE: **** **Aplica al área de operación \(capturista de transferencias\) tener acceso al sistema de Win consolida para realizar las consolidaciones**   POLITICAS: **** **-El capturista de transferencias debe siempre realizar las transferencias de la mercancía que se envía a las sucursales**  **-La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores   &lt;br**RESPONSABILIDADES: **** **Es responsabilidad del capturista de transferencias estar registrando la mercancía que se manda a cada sucursal de mismo modo de realizar la transferencia**  **Es responsabilidad del cargador pasar cada producto con el capturista para que no se pase ningún producto sin registrar**   **Es responsabilidad del jefe de almacén estar al pendiente de la salida de los bienes del almacén**  DEFINICIONES: ****   ****Mercancía: **es todo aquello que se puede vender o comprar**  Transferencia:\*\* Trasladar o enviar una cosa desde un sitio hacia otro |
+| **PUESTO:** Capturista de trasnferencias  **JEFE INMEDIATO:** Jefe de almacén   **PROCEDIMIENTO:**   Consolidación de la transferencia de mercancías  **FRECUENCIA:**   La realización de esta actividad es prácticamente diaria     **OBJETIVO DEL PROCEDIMIENTO:**   Validar la entrega de las mercancías en cada sucursal  -ALCANCE: **\*\*** Aplica al área de operación \(capturista de transferencias\) tener acceso al sistema de Win consolida para realizar las consolidaciones   **POLITICAS: \*\*** **-El capturista de transferencias debe siempre realizar las transferencias de la mercancía que se envía a las sucursales**  **-La mercancía debe estar siempre en buenas condiciones de no ser así deberá de reportarse para no tener problemas posteriores   &lt;br**RESPONSABILIDADES: **\*\*** Es responsabilidad del capturista de transferencias estar registrando la mercancía que se manda a cada sucursal de mismo modo de realizar la transferencia  ****Es responsabilidad del cargador pasar cada producto con el capturista para que no se pase ningún producto sin registrar   ****Es responsabilidad del jefe de almacén estar al pendiente de la salida de los bienes del almacén  **DEFINICIONES: \*\***   **\*\*Mercancía:** es todo aquello que se puede vender o comprar_\*  Transferencia:\_\* Trasladar o enviar una cosa desde un sitio hacia otro |
 
 | PROCEDIMIENTO: CONSOLIDACIÓN DE LA TRANSFERENCIA DE MERCANCIAS |
 | :--- |
@@ -816,7 +817,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 9 | Recibir la hoja de consolidación sellada |  |
 | 10 | Archivar la hoja en una carpeta en donde van todas las que se generan durante el mes. |  |
 
-### Capturar ofertas
+#### Capturar ofertas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -843,7 +844,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Realizar una relación en Excel de todos los productos ofertados en la semana con los siguientes datos:  -Artículos  -Descripción  -Costo  -Precio  -Margen  -Sucursal  -Oferta   -Margen 2  -Dipepsa   -Super ahorros  -Chedraui  -Soriana  -Sánchez  -Maricela |  |
 | 7 | Enviar la relación de Excel al área de Tecnología de información |  |
 
-### Cotización de precios con proveedores
+#### Cotización de precios con proveedores
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -867,7 +868,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Realizar una relación en Excel de los precios pactados con el proveedor en el cual deberá ir los siguientes datos:  -Código de barras: Código de barras del producto  -Articulo: Código interno  -Nombre: Nombre del producto  -Relación: La especificación del producto si es una caja y con cuantas piezas  -Pedido: Numero de cajas o piezas pedidas   -Nombre del proveedor: Precio pactado con el proveedor   -Obsv D |  |
 | 4 | Enviar la relación a la capturista de compras |  |
 
-### Dar de alta un producto en Wincaja
+#### Dar de alta un producto en Wincaja
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -894,7 +895,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Llenar los datos requeridos faltantes:  -Las unidades de compra y de venta  -Nombre  -Descripción -precio |  |
 | 7 | Guardar |  |
 
-### Captura de las facturas de compras en Wincaja
+#### Captura de las facturas de compras en Wincaja
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -935,7 +936,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 18 | Clic en aceptar \(repetir este paso tres veces\) |  |
 | 19 | Enviar el documento de la compra de bodega a finanzas y otra a contabilidad; un comprobante se queda en almacén | Comprobante de compra de almacén |
 
-### Captura de las facturas de compras en Bitácora digital-SPA
+#### Captura de las facturas de compras en Bitácora digital-SPA
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -960,7 +961,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Llenar los datos requeridos:  Proveedor: Nombre del proveedor  Subtotal: La cantidad de subtotal que viene en la factura   Descuento: Si es que trae la factura  IEPS: Si trae la factura  IVA: Si trae la factura  Total: se agrega automáticamente   Documento: Tipo de documento que nos entregaron \(factura, remisión o nota de venta\) |  |
 | 5 | Clic en guardar |  |
 
-### Reporte de compras en almacén
+#### Reporte de compras en almacén
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -986,9 +987,9 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Seleccionar la fecha del reporte que se quiere |  |
 | 6 | Imprimir en dos juegos uno para fianzas y el otro para contabilidad | Bitacora de compras |
 
-## Anexos
+### Anexos
 
-### Anexo 1.Vale de caja provisional
+#### Anexo 1.Vale de caja provisional
 
 ![vale de caja provisional](https://i.imgur.com/b0Q9IXW.jpg)
 
@@ -1001,7 +1002,7 @@ Instructivo de llenado:
 5. **Nombre y firma de quien lo autorizo:** Agregar el nombre completo sin abreviaturas de la persona que autoriza el vale y la firma   
 6. **Nombre y firma de quien recibió el efectivo:** Agregar el nombre completo sin abreviaturas de la persona que recibió el efectivo y la firma  
 
-### Anexo 2.Formato tabular de corte de caja
+#### Anexo 2.Formato tabular de corte de caja
 
 ![form de corte de caja](https://i.imgur.com/Mh4JW0F.jpg)
 
@@ -1017,7 +1018,7 @@ Instructivo de llenado
 8. **Firma entrega:** Deberá de tener la firma del cajero que entregue el tabular, el efectivo y documentos 
 9. **Firma recibido:** Deberá de tener la firma del que reciba el tabular, el efectivo y documentos en el puede ser el gerente de tienda o gerente en entrenamiento  
 
-### Anexo 3.Corte parcial X de Wincaja
+#### Anexo 3.Corte parcial X de Wincaja
 
 ![https://i.imgur.com/yQOz5L2.jpg](https://i.imgur.com/yQOz5L2.jpg) Instructivo de llenado:
 

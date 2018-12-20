@@ -1,5 +1,7 @@
 # MANUAL DE PROCEDIMIENTOS DEL ÁREA DE CONTABILIDAD
 
+## MANUAL DE PROCEDIMIENTOS DEL ÁREA DE CONTABILIDAD
+
 ![](.gitbook/assets/logo-super-de-todo-color-02.jpg)
 
 **SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V**
@@ -8,7 +10,7 @@
 
 **octubre 2018**
 
-# Hoja de autorización del área de contabilidad
+## Hoja de autorización del área de contabilidad
 
 SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
@@ -25,19 +27,19 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 | :--- | :--- | :--- |
 |  |  |  |
 
-# Introducción
+## Introducción
 
 El presente Manual de Procedimientos tiene como propósito contar como una guía clara y específica que garantice la óptima operación y desarrollo de las diferentes actividades dentro del área de contabilidad de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V, para la mejora y estandarización de sus procesos y procedimientos.  
 Comprende en forma ordenada, secuencial y detallada las operaciones de los procedimientos a seguir para cada actividad, promoviendo el buen desarrollo administrativo y operativo dentro de esta área. Este manual cuenta con todos los procesos y procedimientos que se realizan en el área de contabilidad el encargado de esta área, los responsables de cada proceso, el desarrollo de cada procedimiento y los formatos utilizados en ciertos procesos.  
- Es importante señalar, que este documento está sujeto a actualización en la medida que se presenten variaciones en la ejecución de los procedimientos, en la normatividad establecida, y en la estructura o especificaciones de la norma ISO 9001:2015, o bien en algún otro aspecto que influya en la operatividad del mismo, con el fin de cuidar su vigencia operativa.
+Es importante señalar, que este documento está sujeto a actualización en la medida que se presenten variaciones en la ejecución de los procedimientos, en la normatividad establecida, y en la estructura o especificaciones de la norma ISO 9001:2015, o bien en algún otro aspecto que influya en la operatividad del mismo, con el fin de cuidar su vigencia operativa.
 
-# Objetivos
+## Objetivos
 
-## Objetivo del manual
+### Objetivo del manual
 
 Guiar a los empleados en el trabajo para garantizar la optimización de los procesos y procedimientos dentro del área de contablidad
 
-## Objetivos específicos
+### Objetivos específicos
 
 Proporcionar a todos los empleados el manual de procedimientos para que tengan una guía de cómo deben realizar cada uno de sus funciones
 
@@ -45,17 +47,17 @@ Proporcionar a todos los empleados el manual de procedimientos para que tengan u
 * Implementar el manual de procedimientos dentro del área de contabilidad
 * Realizar un análisis cada 2 meses para ver los resultados obtenidos dentro de cada área de la empresa
 
-## Alcance del manual
+### Alcance del manual
 
 Este manual de procedimientos será aplicado dentro de los procesos administrativos y operativos del área de contabilidad de SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
-# Simbología de los diagramas de flujo
+## Simbología de los diagramas de flujo
 
 ![simbolos](https://i.imgur.com/apYlO4i.jpg)
 
-# Descripción de los procedimientos
+## Descripción de los procedimientos
 
-## Generación de las aportaciones de seguridad social
+### Generación de las aportaciones de seguridad social
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -73,6 +75,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | PROCEDIMIENTO: GENERACIÓN DE LAS APORTACIONES DE SEGURIDAD SOCIAL |
 | :--- |
 
+
 | No. | Actividad | Documento |
 | :--- | :--- | :--- |
 | 1 | Ingresar a la página del IDSE [https://idse.imss.gob.mx/imss/](https://idse.imss.gob.mx/imss/) ; en el cual deberá ingresar los datos:  -Certificado digital  -Usuario  -Contraseña  Ya ingresado los datos requeridos seleccionar iniciar sesión |  |
@@ -89,7 +92,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 12 | Mandar a finanzas la documentación para que realicen el pago correspondiente |  |
 | 13 | Recibir la documentación con el comprobante de pago; para su contabilización |  |
 
-## Elaboración de nóminas
+### Elaboración de nóminas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -104,6 +107,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 | PROCEDIMIENTO: ELABORACIÓN DE NÓMINAS |
 | :--- |
+
 
 | No. | Actividad | Documento |
 | :--- | :--- | :--- |
@@ -121,7 +125,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 12 | Imprimir la nómina por sucursal, el concentrado de movimientos de Excel, la lista de raya, el recibo y la lista de asistencia de la semana |  |
 | 13 | Mandar los documentos al área de finanzas para que realicen el pago correspondiente |  |
 
-## Alta de trabajadores en Aspel-NOI
+### Alta de trabajadores en Aspel-NOI
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -147,7 +151,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Capturar la información correspondiente en cada sección:  -Datos Generales.  -Salario.  -Datos personales.  IMSS.  -Salud.  -Fiscales, entre otros. |  |
 | 6 | Presionar el botón “Aceptar”, o presiona el botón “Guardar \(F3\)”, si deseas agregar más información sin salir de la ventana. |  |
 
-## Alta de trabajadores en el IDSE
+### Alta de trabajadores en el IDSE
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -175,7 +179,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 7 | Clic en enviar al terminar el registro; enseguida se nos requerirá que se firme el movimiento, por lo que el sistema nos solicitará que ingresemos el certificado digital con su respectiva contraseña |  |
 | 8 | Descargar el recibo que corresponde. |  |
 
-## Alta a trabajadores en el SUA
+### Alta a trabajadores en el SUA
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -202,7 +206,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Seleccionar actualizar al terminar de ingresar los datos |  |
 | 7 | Elegir “si” en la notificación que aparece de que si se desea guardar al trabajador |  |
 
-## Agregar horas extras en Aspel-NOI
+### Agregar horas extras en Aspel-NOI
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -227,9 +231,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Agregar el monto |  |
 | 5 | Clic en aceptar |  |
 
-<br>
-
-## Descargar el archivo XML
+### Descargar el archivo XML
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -257,7 +259,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 7 | Buscar el comprimido y dar clic derecho aparece varias opciones en que cual selecciona el que dice extraer; esto hará que se copien el contenido del comprimido afuera en la carpeta que tenemos y esto facilitara a la hora de buscar el XML |  |
 | 8 | Borrar el comprimido porque ya extrajimos los archivos en la carpeta y ya no lo necesitamos |  |
 
-## Contabilización de egresos
+### Contabilización de egresos
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -288,7 +290,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 10 | Imprimir las pólizas, para estos sigue los siguientes pasos:  -Seleccionar en la barra de herramientas donde dice reportes  -Aparecerá una ventana llamada reporte de emisión de pólizas; debe seleccionar el tipo de póliza se va a imprimir en este caso será de egresos y agregar el rango, es decir, desde que número de póliza y hasta que numero de póliza es la que va a imprimir  -Guardar; y ya podremos ver cada registro que capturamos y podremos imprimir cada uno |  |
 | 11 | Archivar al Lefort; el registro contable generado en Aspel-COI en cada póliza de cheque o de trasferencia. |  |
 
-## Generar reportes de auxiliares
+### Generar reportes de auxiliares
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -313,7 +315,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Agregar el periodo , es decir ,desde y hasta que día queremos el reporte |  |
 | 5 | Clic en aceptar; ya nos aparecerá el reporte que necesitamos |  |
 
-## Capturar tabulares en Excel
+### Capturar tabulares en Excel
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -342,7 +344,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 8 | Pintar de verde cuando no se tenga la ficha de deposito |  |
 | 9 | guardar los registros. Realizar esto todos los días hasta que sea fin de mes para poder tener el concentrado |  |
 
-## Realizar el concentrado de los tabulares en Excel
+### Realizar el concentrado de los tabulares en Excel
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -368,7 +370,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 5 | Llenar los datos que el concentrado requiere:  -Día: Anotar el día del tabular va en orden desde el primer día del mes hasta el ultimo  -Total de ventas: Anotar el total de la venta del día que viene en el tabular  -Suma: es el resultado de la suma de las ventas totales del día |  |
 | 6 | Imprimir el concentrado el fin de mes |  |
 
-## Captura de tabulares en Aspel-COI
+### Captura de tabulares en Aspel-COI
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -396,7 +398,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 7 | Imprimir las pólizas de ingresos |  |
 | 8 | Anexar las pólizas de ingresos en el Lefort de los tabulares |  |
 
-## Registro de fichas pendientes de tabulares en Aspel-COI
+### Registro de fichas pendientes de tabulares en Aspel-COI
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -420,7 +422,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 3 | Imprimir la póliza de diario |  |
 | 4 | Anexar la póliza de diario en el Lefort de los tabulares del mes que le corresponde |  |
 
-## Captura de créditos de mercancías otorgados a trabajadores
+### Captura de créditos de mercancías otorgados a trabajadores
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -447,7 +449,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Imprimir la póliza de diario |  |
 | 7 | Agregar la póliza de diario en el Lefort correspondiente |  |
 
-## Captura de compras
+### Captura de compras
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -472,7 +474,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Guardar |  |
 | 5 | Avisar que se realizó el registro de las compras al contador general |  |
 
-## Captura de transferencias
+### Captura de transferencias
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -497,7 +499,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 4 | Guardar |  |
 | 5 | Avisar que se realizó el registro de las trasferencias al contador general |  |
 
-## Registro de traspasó entre cuentas
+### Registro de traspasó entre cuentas
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -524,7 +526,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Agregar los cargos y abonos correspondientes |  |
 | 7 | Imprimir la póliza de egreso; para su posterior archivado en la carpeta del mes correspondiente |  |
 
-## Captura de los depósitos de nómina
+### Captura de los depósitos de nómina
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -551,7 +553,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Agregar los cargos y abonos correspondientes; en este caso se carga bancos se abona caja |  |
 | 7 | Imprimir la póliza de diario; para su posterior archivado en el Lefort del mes correspondiente |  |
 
-## Captura de depósitos pendientes registrados por conciliación
+### Captura de depósitos pendientes registrados por conciliación
 
 | Diagrama de flujo |  |
 | :--- | :--- |
@@ -578,7 +580,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 | 6 | Agregar los cargos y abonos correspondientes; en este caso se carga bancos se abona caja |  |
 | 7 | Imprimir la póliza de diario; para su posterior archivado en el Lefort del mes correspondiente |  |
 
-## Conciliación bancaria
+### Conciliación bancaria
 
 | Diagrama de flujo |  |
 | :--- | :--- |
