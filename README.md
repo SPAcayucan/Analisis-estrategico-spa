@@ -13,29 +13,12 @@ En SÚPER PROMOCIONES DE ACAYUCAN S.A DE C.V se realizo un manual para cada áre
 La estructura de cada manual de procedimientos esta conformado de los siguientes apartados :
 
 * Hoja de autorización 
-<br>
-
 * Indice 
-<br>
-
 * Introducción 
-<br>
-
 * Objetivos 
-<br>
-
 * Alcance del manual 
-<br>
-
 * Simboligía de los diagramas de flujo 
-<br>
-
 * Descripción de los procedimientos 
-<br>
-
-- Puesto <br>- Jefe inmediato <br>- Procedimiento <br>- Frecuencia <br>- Objetivo del procedimiento <br>- Alcance del procedimiento <br>- Politicas  <br>- Responsabilidades <br>- Definiciones 
-
-<br>
-
+<br>- Puesto <br>- Jefe inmediato <br>- Procedimiento <br>- Frecuencia <br>- Objetivo del procedimiento <br>- Alcance del procedimiento <br>- Politicas  <br>- Responsabilidades <br>- Definiciones 
 * Proceso del procedimiento 
 
