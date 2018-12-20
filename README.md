@@ -17,25 +17,25 @@ La estructura de cada manual de procedimientos esta conformado de los siguientes
 
 * Indice 
 <br>
+
 * Introducción 
 <br>
+
 * Objetivos 
 <br>
+
 * Alcance del manual 
 <br>
+
 * Simboligía de los diagramas de flujo 
 <br>
+
 * Descripción de los procedimientos 
 <br>
-- Puesto 
-- Jefe inmediato
-- Procedimiento 
-- Frecuencia 
-- Objetivo del procedimiento 
-- Alcance del procedimiento 
-- Politicas 
-- Responsabilidades 
-- Definiciones 
+
+- Puesto <br>- Jefe inmediato <br>- Procedimiento <br>- Frecuencia <br>- Objetivo del procedimiento <br>- Alcance del procedimiento <br>- Politicas  <br>- Responsabilidades <br>- Definiciones 
+
 <br>
+
 * Proceso del procedimiento 
 
