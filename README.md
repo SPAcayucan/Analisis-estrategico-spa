@@ -6,7 +6,7 @@ En SÚPER PROMOCIONES DE ACAYUCAN S.A DE C.V se realizo un manual para cada áre
 
 * Operación  
 * Contabilidad 
-* Tecnología de la información 
+* Tecnología de información 
 * Finanzas 
 * Auditoria 
 
@@ -22,3 +22,11 @@ La estructura de cada manual de procedimientos esta conformado de los siguientes
 <br>- Puesto <br>- Jefe inmediato <br>- Procedimiento <br>- Frecuencia <br>- Objetivo del procedimiento <br>- Alcance del procedimiento <br>- Politicas  <br>- Responsabilidades <br>- Definiciones 
 * Proceso del procedimiento 
 
+|PROCEDIMIENTO:NOMBRE DEL PROCEDIMIENTO|
+|---|
+
+|No.|Actividad|Documento|
+|--|--|--|
+|Número consecutivo de cada paso del procediiento |Descripción detallada de cada paso del procedimiento| Documento que se ocupa o que se genera durante el procedimiento|
+
+* Anexos 
