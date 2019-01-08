@@ -3,7 +3,7 @@
 ![Logo Super de Todo - Color-02](https://i.imgur.com/NpI37v8.jpg)
 
 
-**SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V**
+**SUPER PROMOCIONES DE ACAYUCAN SA DE CV**
 
 **SPA-ATI-01**
 
@@ -13,7 +13,7 @@
 
 # Hoja de autorización del área de Tecnología de Información
 
-SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V 
+SUPER PROMOCIONES DE ACAYUCAN SA DE CV 
 
 | Elaboro | Reviso | Autorizo  |
 |     :--:       |:--:        |      :--:|
