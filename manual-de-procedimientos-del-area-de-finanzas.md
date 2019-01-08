@@ -16,7 +16,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 | Elaboro | Reviso | Autorizo |
 | :---: | :---: | :---: |
-| Mayte Sheila Martinez de la Cruz | LIC. Irma Basurto Ramos | LIC. Alejandro Soriano Morales |
+| Mayte Sheila Martinez de la Cruz | Lic. Irma Basurto Ramos | Lic. Alejandro Soriano Morales |
 | Residente | Jefe de finanzas | Gerente general |
 
 | Modificaciones |
