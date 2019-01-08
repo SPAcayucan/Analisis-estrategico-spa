@@ -2,7 +2,7 @@
 
 El manual de procedimientos es un componente del sistema de control interno, el cual se crea para obtener una información detallada, ordenada, sistemática e integral que contiene todas las instrucciones, responsabilidades e información sobre políticas, funciones, sistemas y procedimientos de las distintas operaciones o actividades que se realizan en cada área de la empresa . 
 <br>
-En SÚPER PROMOCIONES DE ACAYUCAN S.A DE C.V se realizo un manual para cada área para que esta sirva de guía y ayude la capacitación de los nuevos empleados de la empresa ; también así ayuda los empleados ya con mas antigüedad a llevar sus actividades de manera más efectiva. Las áreas con las que cuenta el súper son las siguientes:
+En SÚPER PROMOCIONES DE ACAYUCAN SA DE CV se realizo un manual para cada área para que esta sirva de guía y ayude la capacitación de los nuevos empleados de la empresa ; también que ayude a los empleados más antigüedad a llevar acabo sus actividades de manera más efectivas. Las áreas con las que cuenta la empresa son las siguientes:
 
 * Operación  
 * Contabilidad 
