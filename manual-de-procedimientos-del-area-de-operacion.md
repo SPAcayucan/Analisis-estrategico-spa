@@ -16,7 +16,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 | Elaboro | Reviso | Autorizo |
 | :---: | :---: | :---: |
-| Mayte Sheila Martinez de la Cruz | Cristina Linares Pérez | LIC. Alejandro Soriano Morales |
+| Mayte Sheila Martinez de la Cruz | Cristina Linares Pérez | Lic. Alejandro Soriano Morales |
 | Residente | Gerente de tienda | Gerente general |
 
 | Modificaciones |
@@ -637,7 +637,7 @@ Este manual de procedimientos será aplicado dentro de los procesos administrati
 
 | Elaboro | Reviso | Autorizo |
 | :---: | :---: | :---: |
-| Mayte Sheila Martinez de la Cruz | Justo Cruz Basurto | LIC. Alejandro Soriano Morales |
+| Mayte Sheila Martinez de la Cruz | Justo Cruz Basurto | Lic. Alejandro Soriano Morales |
 | Residente | Jefe de almacén | Gerente general |
 
 | Modificaciones |
