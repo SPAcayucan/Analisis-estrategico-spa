@@ -17,7 +17,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 | Elaboro | Reviso | Autorizo  |
 |     :--:       |:--:        |      :--:|
-|Mayte Sheila Martinez de la Cruz| ING.Aldrin González Cancino  |LIC. Alejandro Soriano Morales 	|
+|Mayte Sheila Martinez de la Cruz| Ing.Aldrin González Cancino  |Lic. Alejandro Soriano Morales 	|
 |Residente|Jefe de tecnología de Información|Gerente general|
 
 |Modificaciones |
