@@ -16,7 +16,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 | Elaboro | Reviso | Autorizo |
 | :---: | :---: | :---: |
-| Mayte Sheila Martinez de la Cruz | LIC.Mildreth Elvira Alvedaño Ortiz | LIC. Alejandro Soriano Morales |
+| Mayte Sheila Martinez de la Cruz | Lic.Mildreth Elvira Alvedaño Ortiz | Lic. Alejandro Soriano Morales |
 | Residente | Jefe de Auditoria | Gerente general |
 
 | Modificaciones |
