@@ -16,7 +16,7 @@ SUPER PROMOCIONES DE ACAYUCAN S.A DE C.V
 
 | Elaboro | Reviso | Autorizo |
 | :---: | :---: | :---: |
-| Mayte Sheila Martinez de la Cruz | LIC.Artemio Perez Moratilla | LIC. Alejandro Soriano Morales |
+| Mayte Sheila Martinez de la Cruz | Lic.Artemio Perez Moratilla | Lic. Alejandro Soriano Morales |
 | Residente | Contador general | Gerente general |
 
 | Modificaciones |
