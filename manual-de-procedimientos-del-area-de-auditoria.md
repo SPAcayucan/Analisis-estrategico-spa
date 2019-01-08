@@ -67,7 +67,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 
 | Descripción de procedimientos |
 | :--- |
-| **PUESTO:** Jefe de auditoria   <br>**JEFE INMEDIATO:** Gerente general   <br>**PROCEDIMIENTO:**  <br>Supervisión de papelería    <br>**FRECUENCIA:**  <br>La realización de dicha actividad es de manera repentina: normalmente sin dar aviso   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Fomentar el adecuado acomodo de la papelería generada en el área de operación   <br>**ALCANCE:**  <br>Aplica al jefe de auditoria realizar las revisiones del acomodo de la papelería en el súper  <br>**POLITICAS:**  <br>Tener toda la información de la empresa bien ordenada para su mejor manejo  <br>**RESPONSABILIDADES:**  <br>Es responsabilidad del jefe de auditoria llevar a cabo una supervisión periódica del acomodo de la papelería en el súper; principalmente en el área de operación   <br>**DEFINICIONES:**  <br>**Supervisión:** Vigilancia o dirección de la realización de una actividad determinada por parte de una persona con autoridad o capacidad para ello.  <br>**Papelería:** Es uno de los recursos más importantes de una empresa, utilizadas como medio de comunicación entre los participantes de la organización. |
+| **PUESTO:** Jefe de auditoria   <br>**JEFE INMEDIATO:** Gerente general   <br>**PROCEDIMIENTO:**  <br>Supervisión de papelería    <br>**FRECUENCIA:**  <br>La realización de dicha actividad es de manera repentina: normalmente sin dar aviso   <br>**OBJETIVO DEL PROCEDIMIENTO:**  <br>Fomentar el adecuado acomodo de la papelería generada en el área de operación   <br>**ALCANCE:**  <br>Aplica al jefe de auditoria realizar las revisiones del acomodo de la papelería en el súper  <br>**POLITICAS:**  <br>Tener toda la información de la empresa bien ordenada para su mejor manejo  <br>**RESPONSABILIDADES:**  <br>Es responsabilidad del jefe de auditoria llevar a cabo una supervisión periódica del acomodo de la papelería en el súper; principalmente en el área de operación   <br>**DEFINICIONES:**  <br>**Supervisión:** Vigilancia o dirección de la realización de una actividad determinada por parte de una persona con autoridad o capacidad para ello. <br>**Papelería:** Es uno de los recursos más importantes de una empresa, utilizadas como medio de comunicación entre los participantes de la organización. |
 
 | PROCEDIMIENTO: Supervisión de papelería |
 | :--- |
@@ -77,7 +77,7 @@ Este manual de procedimientos será aplicado dentro de los procesos operativos d
 | :--- | :--- | :--- |
 | 1 | Pedir al gerente de tienda o de entrenamiento que  proporcione la papelería que generan; es decir, todo los papeles de las compras, los gastos, reposiciones, pagos a proveedores y transferencias. |  |
 | 2 | Checar que la papelería este en el orden correcto |  |
-| 3 | Realizar un informe de los resultados obtenidos en la supervisión .En dicho informe deberá tener los siguientes puntos:  -Núm. de informe  -Sucursal  -Motivo  -Fecha y hora  -Involucrados   -Firmas de los involucrados | Informe sobre la supervisión de papelería |
+| 3 | Realizar un informe de los resultados obtenidos en la supervisión .En dicho informe deberá tener los siguientes puntos:  <br>-Núm. de informe  <br>-Sucursal  <br>-Motivo  <br>-Fecha y hora  <br>-Involucrados   <br>-Firmas de los involucrados | Informe sobre la supervisión de papelería |
 | 4 | Archivar los informes en el lefort correspondiente |  |
 
 ### Arqueo de caja
